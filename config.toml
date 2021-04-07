@@ -1,69 +1,55 @@
 baseURL = "https://www.facilitator.cards"
-languageCode = "en-us"
-title = "Facilitator Cards"
-enableRobotsTXT = true
 canonifyURLs = true
-paginate = 99
-enableGitInfo = true
 copyright = "This work is Uncopyrighted"
-
-[markup.goldmark.renderer]
-    unsafe= true
-
+enableGitInfo = true
+enableRobotsTXT = true
+languageCode = "en-us"
+paginate = 99
+title = "Facilitator Cards"
 [author]
-    name = "Sam Killermann & Meg Bolger"
-
-[social]
-    twitter = "facilitatorcard"
-    facebook = "facilitatorcards"
-    instagram = "facilitatorcards"
-
+name = "Sam Killermann & Meg Bolger"
+[markup.goldmark.renderer]
+unsafe = true
+[[menu.main]]
+name = "Contact us!"
+url = "/contact/"
+weight = 8
+[[menu.main]]
+name = "Virtual Guide"
+url = "https://virtual.facilitator.cards"
+weight = 7
+[[menu.main]]
+name = "The Blog"
+url = "/blog/"
+weight = 6
+[[menu.main]]
+name = "How To Use"
+url = "/how/"
+weight = 5
+[[menu.main]]
+name = "The Cards"
+url = "/cards/"
+weight = 4
+[[menu.main]]
+name = "Our Story"
+url = "/story/"
+weight = 3
+[[menu.main]]
+name = "Preview Pack (Free!)"
+url = "/preview-pack/"
+weight = 2
+[[menu.main]]
+name = "Shop Now"
+url = "https://shop.facilitator.cards/products/starter-deck/?utm_source=fc&utm_medium=nav&utm_campaign=Shop%20Now"
+weight = 1
 [params]
-    description = "Tools for facilitation planning, running meetings with a co-facilitator, & improvising when the unexpected comes up. Creative, engaging trainings made easy."
-    keywords = "facilitator, facilitation, facilitator tools, facilitator cards, training, trainer, training tools, training planning, resources, faciliatator resources"
-    images = ["/img/social-share-facilitator-cards.png"]
-    email_list = "https://facilitatorcards.ck.page/4c87ee0944"
-    cta_link = "https://shop.facilitator.cards/products/starter-deck/?utm_source=fc&utm_medium=button&utm_campaign=Shop%20Now"
-    cta_text = "Shop Now"
-
-# main menu
-
-[[menu.main]]
-    name = "Shop Now"
-    url = "https://shop.facilitator.cards/products/starter-deck/?utm_source=fc&utm_medium=nav&utm_campaign=Shop%20Now"
-    weight = 100
-
-[[menu.main]]
-    name = "Preview Pack (Free!)"
-    url = "/preview-pack/"
-    weight = 200
-
-[[menu.main]]
-    name = "Our Story"
-    url = "/story/"
-    weight = 300
-
-[[menu.main]]
-    name = "The Cards"
-    url = "/cards/"
-    weight = 400
-
-[[menu.main]]
-    name = "How To Use"
-    url = "/how/"
-    weight = 500
-
-[[menu.main]]
-    name = "The Blog"
-    url = "/blog/"
-    weight = 600
-
-[[menu.main]]
-    name = "Virtual Guide"
-    url = "https://virtual.facilitator.cards"
-    weight = 700
-
-[[menu.main]]
-    name = "Contact Meg & Sam"
-    url = "/contact/"
-    weight = 800
+cta_link = "https://shop.facilitator.cards/products/starter-deck/?utm_source=fc&utm_medium=button&utm_campaign=Shop%20Now"
+cta_text = "Shop Now"
+description = "Tools for facilitation planning, running meetings with a co-facilitator, & improvising when the unexpected comes up. Creative, engaging trainings made easy."
+email_list = "https://facilitatorcards.ck.page/4c87ee0944"
+images = ["/img/social-share-facilitator-cards.png"]
+keywords = "facilitator, facilitation, facilitator tools, facilitator cards, training, trainer, training tools, training planning, resources, faciliatator resources"
+[social]
+facebook = "facilitatorcards"
+instagram = "facilitatorcards"
+twitter = "facilitatorcard"
