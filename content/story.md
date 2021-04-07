@@ -12,7 +12,7 @@ For years, Meg & Sam kept remaking these index cards, even when they weren’t i
 
 Then Sam had an idea. What if these were [real cards](https://www.facilitator.cards/cards/)? What if we made them beautiful, indestructible, and reusable? Sam started [researching](https://www.facilitator.cards/blog/questions-we-asked-manufacturers/) what it would take, then got to designing the cards. Meg thought it was a great idea and was excited to help.
 
-Fast forward through two years of testing, tweaking, and feedback, Meg & Sam reached out to their facilitator communities to see if the excitement was mutual. [339 facilitators](https://www.facilitator.cards/about/bigger-us) said, “Yep!”, funding the manufacturing of the first deck on [Kickstarter](https://www.kickstarter.com/projects/facilitatorcards/facilitator-cards).
+Fast forward through two years of testing, tweaking, and feedback, Meg & Sam reached out to their facilitator communities to see if the excitement was mutual. [359 facilitators](https://www.facilitator.cards/about/bigger-us) said, “Yep!”, funding the manufacturing of the first deck on [Kickstarter](https://www.kickstarter.com/projects/facilitatorcards/facilitator-cards).
 
 And Facilitator Cards were born!
 
