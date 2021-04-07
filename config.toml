@@ -11,7 +11,7 @@ name = "Sam Killermann & Meg Bolger"
 [markup.goldmark.renderer]
 unsafe = true
 [[menu.main]]
-name = "Contact us!"
+name = "Contact Us!"
 url = "/contact/"
 weight = 8
 [[menu.main]]
