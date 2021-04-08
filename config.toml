@@ -5,6 +5,7 @@ enableGitInfo = true
 enableRobotsTXT = true
 languageCode = "en-us"
 paginate = 99
+relativeURLs = true
 title = "Facilitator Cards"
 [author]
 name = "Sam Killermann & Meg Bolger"
