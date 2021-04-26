@@ -3,7 +3,6 @@ author = "Meg Bolger"
 categories = "resources"
 date = 2021-04-26T20:00:00Z
 description = "Explore a simple-yet-powerful app to smoothly manage any technology you’re using in your workshops and training."
-draft = true
 facebook_discussion = ""
 featured_image = "/img/blog/stream-deck-blog-post-image-v4.png"
 images = ["/img/blog/stream-deck-blog-post-image-v4.png"]
