@@ -31,6 +31,8 @@ And for facilitators who are using OBS, Stream Deck allows you to change scenes 
 
 Here’s a short demo video of me using Stream Deck as a facilitator.
 
+{{< youtube cvRq_pdhWSY >}}
+
 If you want to jump to what I think is the most exciting bit and watch just two minutes, jump to [this bit](https://youtu.be/cvRq_pdhWSY?t=306) where I show you how you can send preloaded messages.
 
 Important note: Stream Deck is not just software; it’s also a piece of hardware, a product that costs anywhere from $79 to $249. And if you see that and find yourself thinking, “Holy what!? I have to buy this thing? I don’t even know if I’ll like it yet,” great news! You do not need to spend a dime right now (or ever buy the hardware) to use Stream Deck!
