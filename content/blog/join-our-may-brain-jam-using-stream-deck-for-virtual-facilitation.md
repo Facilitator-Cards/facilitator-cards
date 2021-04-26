@@ -31,8 +31,6 @@ And for facilitators who are using OBS, Stream Deck allows you to change scenes 
 
 Here’s a short demo video of me using Stream Deck as a facilitator.
 
-{{< youtube cvRq_pdhWSY >}}
-
 If you want to jump to what I think is the most exciting bit and watch just two minutes, jump to [this bit](https://youtu.be/cvRq_pdhWSY?t=306) where I show you how you can send preloaded messages.
 
 Important note: Stream Deck is not just software; it’s also a piece of hardware, a product that costs anywhere from $79 to $249. And if you see that and find yourself thinking, “Holy what!? I have to buy this thing? I don’t even know if I’ll like it yet,” great news! You do not need to spend a dime right now (or ever buy the hardware) to use Stream Deck!
@@ -57,7 +55,7 @@ Other than that, you’ll just need the ability to sign on to a Zoom meeting (we
 
 Our May Brain Jam will kick off May 5th at 12pm PT (3pm ET / 8pm GMT).
 
-[To RSVP, fill out this short form](https://airtable.com/shryTZVY7ieydXSAy). 
+[To RSVP, fill out this short form](https://airtable.com/shryTZVY7ieydXSAy).
 
 Afterward, we'll send you an email with instructions on downloading the Stream Deck software and getting set up for the Brain Jam, with the Zoom link to follow.
 
