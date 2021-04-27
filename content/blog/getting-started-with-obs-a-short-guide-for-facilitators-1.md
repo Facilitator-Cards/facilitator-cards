@@ -3,7 +3,6 @@ author = "Meg Bolger"
 categories = "resources"
 date = 2021-04-13T18:00:00Z
 description = "Guiding you from downloading OBS, to building your first scenes, to using it in your next facilitation."
-draft = true
 facebook_discussion = "https://www.facebook.com/FacilitatorCards/posts/508426760567006"
 featured_image = "/img/blog/obs-guide-blog-post-image.png"
 images = ["/img/blog/obs-guide-blog-post-image.png", "/img/blog/screen-shot-2021-04-26-at-4-57pm.png", "/img/blog/screen-shot-2021-04-26-at-4-57pm-2.png"]
