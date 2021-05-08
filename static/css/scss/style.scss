@@ -1,61 +1,61 @@
 /* An Opinionated Fresh Start */
 
-@import "plugins/sanitize";
+@import 'plugins/sanitize';
 
 /* Variables for Colors, Fonts, etc. */
 
-@import "variables";
+@import 'variables';
 
 /* Mixins for Media Queries, Truncation, etc. */
 
-@import "mixins";
+@import 'mixins';
 
 /* General classes to use everywhere, like .text-center */
 
-@import "toolbox";
+@import 'toolbox';
 
 /* Facilitator Card Icons */
 
-@import "icons";
+@import 'icons';
 
 /* Typography */
 
-@import "typography";
+@import 'typography';
 
 /* Buttons & Links */
 
-@import "buttons";
+@import 'buttons';
 
 /* CSS Grid and Flexbox Declarations with ZERO FALLBACKS BABYYYYYY */
 
-@import "grid";
+@import 'grid';
 
 /* Navigation */
 
-@import "nav";
+@import 'nav';
 
 /* Card styles */
 
-@import "cards";
+@import 'cards';
 
 /* Styles on HTML and Body */
 
-@import "universals";
+@import 'universals';
 
 /* Footer stuff */
 
-@import "footer";
+@import 'footer';
 
 /* Page Specific Styles (like home and /cards) */
 
-@import "pages";
+@import 'pages';
 
 /* Blog Posts and Archives */
 
-@import "blog";
+@import 'blog';
 
 /* Plugins */
 
-@import "plugins/flippity";
-@import "plugins/wow";
-@import "plugins/tilt";
+@import 'plugins/flippity';
+@import 'plugins/wow';
+@import 'plugins/tilt';
