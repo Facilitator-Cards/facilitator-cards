@@ -30,12 +30,18 @@ $purple: #8748dc;
   font-family: 'brandon-grotesque';
   src: url('/fonts/BrandonGrotesqueWebRegular/font.woff2') format('woff2'),
     url('/fonts/BrandonGrotesqueWebRegular/font.woff') format('woff');
+  font-display: auto;
+  font-style: normal;
+  font-weight: 400;
 }
 
 @font-face {
   font-family: 'brandon-grotesque';
   src: url('/fonts/BrandonGrotesqueWebBold/font.woff2') format('woff2'),
     url('/fonts/BrandonGrotesqueWebBold/font.woff') format('woff');
+  font-display: auto;
+  font-style: normal;
+  font-weight: 700;
 }
 
 $theme-font: brandon-grotesque, sans-serif;
