@@ -2,7 +2,7 @@
 author = "Meg Bolger"
 categories = "using the cards"
 date = 2021-05-21T17:00:00Z
-description = "Answers to a few Card Carrier question from our first Card Sharks session."
+description = "Answers to a few Card Carrier questions from our first Card Sharks session."
 facebook_discussion = ""
 featured_image = "/img/blog/screen-shot-2021-05-21-at-9-00am.png"
 images = ["/img/blog/screen-shot-2021-05-21-at-9-00am.png"]
