@@ -7,7 +7,7 @@ draft = true
 facebook_discussion = ""
 featured_image = "/img/blog/screen-shot-2021-05-21-at-9-00am.png"
 images = ["/img/blog/screen-shot-2021-05-21-at-9-00am.png"]
-keywords = ["eco-friendly", "durable", "facilitator cards", "facilitator tools"]
+keywords = ["waterproof", "eco-friendly", "durable", "facilitator cards", "facilitator tools"]
 photo_cred = ""
 title = "How to Write On, Clean Off, and Reuse Your Facilitator Cards"
 
