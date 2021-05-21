@@ -37,6 +37,8 @@ My favorite markers and the easiest ones to find are the Vis-à-Vis wet-erase ma
 
 The easiest way is just to give them a quick wipe-down with a damp cloth or paper towel. If you’ve just facilitated for a week or you're like me and don't erase them until most your cards are covered in writing, it's even faster to throw them in a sink and then just dry them off. I've done it and it’s kinda fun.
 
+![](/img/blog/cards-in-sink.png)
+
 ## Bonus: Why Wet-Erase and Not Dry-Erase?
 
 The simple answer is friction. Dry-erase comes off when you apply friction, which is great because it comes off easily but is also not great because it comes off easily. We wanted you to be able to write your notes for your next workshop on your card, stack them up, throw them in your bag, and know when you pulled them back out again, your notes would be there. Erasing from friction then was a problem.
