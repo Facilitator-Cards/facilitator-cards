@@ -3,7 +3,6 @@ author = "Meg Bolger"
 categories = "resources"
 date = 2021-05-27T15:00:00Z
 description = "How can we facilitate on-the-fly, respond to the true needs of our group, and use Facilitator Cards to make it all easier."
-draft = true
 facebook_discussion = ""
 featured_image = "/img/blog/jack-anstey-zs4luqleina-unsplash.jpeg"
 images = []
