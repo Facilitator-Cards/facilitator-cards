@@ -47,7 +47,7 @@ The second hour (optional) will be for more active experimentation and deeper di
 
 ## Requirements for the Brain Jam
 
-This Brain Jam is open to all who have a deck of Facilitator Cards. If you do not yet have a deck of Facilitator Cards, there is the option to DIY yourself a deck - just reach out to **hello@facilitator.cards** for more info on that!
+This Brain Jam is open to all who have a deck of Facilitator Cards. If you do not yet have a deck of Facilitator Cards, there is the option to DIY yourself a deck - just reach out to hello@facilitator.cards for more info on that!
 
 Other than that, you simply need to bring yourself and a willingness to participate and adventure, and to fill out this RSVP to get all the log-in deets.
 
@@ -55,6 +55,6 @@ Other than that, you simply need to bring yourself and a willingness to particip
 
 ## Questions? Comments? Concerns?
 
-Let us know at **hello@facilitator.cards** and we’ll get back to you ASAP.
+Let us know at hello@facilitator.cards and we’ll get back to you ASAP.
 
 Hope to see you at the Brain Jam!
