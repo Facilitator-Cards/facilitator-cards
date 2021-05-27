@@ -1,11 +1,11 @@
 +++
 author = "Meg Bolger"
 categories = "resources"
-date = 2021-05-27T15:00:00Z
+date = 2021-05-27T14:00:00Z
 description = "How can we facilitate on-the-fly, respond to the true needs of our group, and use Facilitator Cards to make it all easier."
 facebook_discussion = ""
 featured_image = "/img/blog/jack-anstey-zs4luqleina-unsplash.jpeg"
-images = []
+images = ["/img/blog/jack-anstey-zs4luqleina-unsplash.jpeg"]
 keywords = ["virtual facilitation", "facilitation tools", "facilitation 101", "facilitator tools", "responsive facilitation", "emergent facilitation", "digital facilitation"]
 photo_cred = "Jack Anstey"
 title = "Join our June Brain Jam: Emergent & Responsive Facilitation"
