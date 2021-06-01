@@ -1,7 +1,7 @@
 +++
 author = "Meg Bolger"
 categories = "resources"
-date = 2021-06-01T08:00:00Z
+date = 2021-06-01T07:00:00Z
 description = "How Stream Deck can be a co-facilitator app and tips and tricks on how to use Stream Deck as a virtual facilitator."
 facebook_discussion = ""
 featured_image = "/img/blog/img_8293.jpg"
@@ -24,8 +24,6 @@ Here’s a quick demo of Stream Deck to help you see what I mean.
 {{< youtube cvRq_pdhWSY >}}
 
 In May, we Brain Jammed on Stream Deck, helping facilitators get set up and start building it out. You can watch the [full recording of the Brain Jam here](https://youtu.be/P938UWmWetc). Unfortunately, we had a bit of an issue with the recording in that the walk-through build portion didn’t record as cleanly as we had hoped. For those who want a guided build, check out a special recorded guided walk through inspired by everything we did in the Brain Jam:
-
-{{< youtube _8uZ40_z2Dc >}}
 
 The rest of this post will be dedicated to highlighting the most useful functions of Stream Deck for all virtual facilitators and anyone teaching or presenting online. All of these functions are outlined in the guided walkthrough above and I’ll timestamp the relevant bits in the individual sections as well.
 
