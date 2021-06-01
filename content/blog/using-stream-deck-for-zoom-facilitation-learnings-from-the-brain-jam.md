@@ -70,8 +70,6 @@ There are so many other neat ways I’ve ended up using Stream Deck during my vi
 
 I use their built-in [**timer**](https://www.youtube.com/watch?v=_8uZ40_z2Dc&t=1119s) function to have quick two minute, five minute, and fifteen minute timers available for myself. So often I find myself saying to participants, “I’m going to give you two minutes to journal about this,” and then by the time I have pulled out my phone to activate a timer, I have no sense whether it’s been ten seconds or one minute. Having them on my Stream Deck has made me way more likely to use them and stay true to the timeframes I give my participants. I’ve also taken to having a timer for the duration of the workshop so that it’s counting down the time I have left right there on my Stream Deck.
 
-![](/img/blog/screen-shot-2021-05-31-at-11-15pm.png)
-
 I have also found myself using the ability to adjust my **system volume** on my Stream Deck. Whether that’s because a participant is talking quietly and I need to crank them up or I need to turn down someone’s dog barking in the background before I can ask them to mute, having it a few clicks away has been really handy.
 
 Stream Deck also has built-in integrations with [**Microsoft Powerpoint**](https://www.youtube.com/watch?v=_8uZ40_z2Dc&t=1680s), which means there are built-in play/pause/next slide/back slide buttons all ready for you to use without having to add or look up any special hotkeys.
