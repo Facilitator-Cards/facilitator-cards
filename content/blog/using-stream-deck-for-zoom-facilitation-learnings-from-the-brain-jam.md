@@ -2,7 +2,7 @@
 author = "Meg Bolger"
 categories = "resources"
 date = 2021-06-01T07:00:00Z
-description = "How Stream Deck can be a co-facilitator app and tips and tricks on how to use Stream Deck as a virtual facilitator."
+description = "How Stream Deck can be a co-facilitator app and tips on how to use Stream Deck as a virtual facilitator."
 facebook_discussion = ""
 featured_image = "/img/blog/img_8293.jpg"
 images = []
