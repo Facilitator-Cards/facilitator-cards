@@ -58,11 +58,13 @@ If you use a virtual camera software like OBS or Ecamm for your virtual facilita
 
 ## Manage your Spotify
 
-One of the reasons I stayed away from playing music during my facilitations for a long time was that I didn’t want one more thing to think about or manage during my workshop. But then everytime I would go to a workshop where people had music I would think, “I have to try this, it’s so nice.”
+One of the reasons I stayed away from playing music during my facilitations for a long time was that I didn’t want one more thing to think about or manage during my workshop. But then every time I would go to a workshop where people had music I would think, “I have to try this, it’s so nice.”
 
 With Stream Deck I can play/pause, move to the next track and adjust the volume of my Spotify without ever having to open the app to do it. Stream Deck has built-in integration with Spotify and I can control all those functions without ever having to pull my attention away from my group to mess with an app. Plus now that I found this “[Zoom Tunes](https://open.spotify.com/playlist/2W05uVyIf6fu5HT3ww7S5h?si=ec35c5e4d7db454a)” playlist from Mischief Makers, I can stop looking for workshop-appropriate tunes to play.
 
 ![](/img/blog/screen-shot-2021-05-31-at-11-14pm-2.png)
+
+(Bonus: I also use this feature to control Spotify anytime I'm at my desk, super handy!)
 
 ## BONUSES: Timers, System Volume, and more!
 
