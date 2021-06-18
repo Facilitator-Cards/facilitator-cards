@@ -3,7 +3,6 @@ author = "Meg Bolger"
 categories = "using the cards"
 date = 2021-06-18T15:00:00Z
 description = "New Zoom activities live on the Virtual Facilitator Guide to mix up your next online gathering"
-draft = true
 facebook_discussion = ""
 featured_image = "/img/blog/blog-post-new-additions-to-virtual-guide.jpg"
 images = []
