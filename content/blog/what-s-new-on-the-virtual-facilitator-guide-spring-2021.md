@@ -11,7 +11,7 @@ photo_cred = ""
 title = "What's New on the Virtual Facilitator Guide: Spring 2021"
 
 +++
-The Virtual Facilitator Guide was started as a way to help folks using Facilitator Cards know how to transition and translate these cards to Zoom and the online space. Every activity on the virtual guide shows you the gist of the activity, a step-by-step walk-through, context you might need as a facilitator, how to swap in/out other tech platforms, and any prep you’ll need to do beforehand.
+The Virtual Facilitator Guide was started as a way to support folks using [Facilitator Cards](http://facilitator.cards/) to transition and translate these cards to Zoom and the online space. Every activity on the virtual guide write-up includes the gist of the activity, a step-by-step walk-through, context you might need as a facilitator, how to swap in/out other tech platforms, and any prep you’ll need to do beforehand.
 
 This round we’ve added new write-ups for a few cards that deal with questions, some of our favorite facilitator cards to facilitate on Gather, and a bonus process that you can add to your deck via the blank emotion card.
 
