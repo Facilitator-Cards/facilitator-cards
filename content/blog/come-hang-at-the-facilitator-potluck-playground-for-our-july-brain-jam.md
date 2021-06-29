@@ -3,7 +3,6 @@ author = "Meg Bolger"
 categories = ""
 date = 2021-06-29T15:00:00Z
 description = "Bring something you’ve done, something you’ve learned from, or something you want to try out and share with other facilitation geeks!"
-draft = true
 facebook_discussion = ""
 featured_image = "/img/blog/blog-post-image-july-brain-jam-annoucement.png"
 images = []
