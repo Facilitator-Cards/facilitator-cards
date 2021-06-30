@@ -11,11 +11,15 @@ photo_cred = "Photo by UX Indonesia on Unsplash"
 title = "How to Prep for an Emergent Facilitation"
 
 +++
-I think of emergent facilitation as building the road that you and your participants are traveling on _as_ you travel down it. Whether that's because you walk into a room where you thought the group needed A and they actually need Z or because half-way through the day you realize your agenda isn’t working and you have to throw it out, we all likely emergently facilitate at some time or another.
+I think of emergent facilitation as building the road that you and your participants are traveling on _as_ you travel down it. 
 
-When some people hear the term “emergent facilitation,” they think of Adrienne Marie Brown’s book _Emergent Strategy_ where AMB spends a chunk of the book talking about a “Trust the People” based process where “participants can shape the meeting.” It was AMB who first introduced me to the word “emergent” to refer to facilitating an evolving and participant-created agenda, and I have loved it ever since.
+Whether that's because you walk into a room where you thought the group needed A and they actually need Z or because half-way through the day you realize your agenda isn’t working and you have to throw it out, we all likely emergently facilitate at some time or another.
 
-Emergent facilitation is an incredibly participant-centered, flexible, and responsive way to facilitate. It’s also, for a lot of people, an intimidating idea. Going in without an agenda and building as you go? No thanks.
+When some people hear the term “emergent facilitation,” they think of Adrienne Marie Brown’s book [_Emergent Strategy_](https://www.akpress.org/emergentstrategy.html) where AMB spends a chunk of the book talking about a “Trust the people” based process where, “participants can shape the meeting.” It was AMB who first introduced me to the word “emergent” to refer to facilitating an evolving and participant-created agenda, and I have loved it ever since.
+
+Emergent facilitation is an incredibly participant-centered, flexible, and responsive way to facilitate. It’s also, for a lot of people, an intimidating idea (or unexpected situation). 
+
+Going in without an agenda and building as you go? No thanks.
 
 The trick with emergent facilitation is just because you can’t plan for it the way you can with other facilitations, doesn’t mean you can’t prepare. Our June Brain Jam focused on the question, “What can we do to prepare for an emergent facilitation when we can’t create an agenda?” Turns out, we can do quite a lot.
 
