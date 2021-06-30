@@ -3,7 +3,6 @@ author = "Meg Bolger"
 categories = "resources, using the cards"
 date = 2021-06-30T21:40:00Z
 description = "Four key ways to prepare for the unknowable in your next workshop, meeting, or gathering."
-draft = true
 facebook_discussion = ""
 featured_image = ""
 images = ["/img/blog/feature-image-for-emergent-facilitation-blog-post.png"]
