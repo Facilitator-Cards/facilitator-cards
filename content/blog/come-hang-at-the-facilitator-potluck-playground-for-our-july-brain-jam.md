@@ -17,6 +17,8 @@ For the last few months towards the end of the Brain Jams the crew that sticks a
 
 This month we’re embracing the summer and hosting a facilitator potluck and inviting our facilitator community to come together to bring something to exchange, and share with each other.
 
+[RSVP here](https://airtable.com/shryTZVY7ieydXSAy).
+
 **Hour one will be a Facilitator Potluck** where we’ll invite folks to share something that they’ve done or something they’ve learned from that they think other facilitators would be stoked on.
 
 Each person sharing will get 2-5 minutes to hop on the mic and share with the group before opening it up for a rapid fire round of Q&A. Anyone interested in sharing during the first hour we ask that you make sure your “dish” is (1) something you’ve done or something that you’re inspired by (2) it’s something everyone can do or use (3) it doesn’t take more than 5 minutes to share from start-to-finish. You can do a “tiny-teach” where you simply tell the group a concept, idea, or story OR you can demo or facilitate a short activity.
