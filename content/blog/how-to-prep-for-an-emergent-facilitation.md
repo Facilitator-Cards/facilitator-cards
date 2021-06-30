@@ -21,13 +21,13 @@ Emergent facilitation is an incredibly participant-centered, flexible, and respo
 
 Going in without an agenda and building as you go? No thanks.
 
-The trick with emergent facilitation is just because you can’t plan for it the way you can with other facilitations, doesn’t mean you can’t prepare. Our June Brain Jam focused on the question, “What can we do to prepare for an emergent facilitation when we can’t create an agenda?” Turns out, we can do quite a lot.
+The trick with emergent facilitation is just because you can’t plan for it the way you can with other facilitations, doesn’t mean you can’t prepare. 
+
+Our June Brain Jam focused on the question, “What can we do to prepare for an emergent facilitation when we can’t create an agenda?” Turns out, we can do quite a lot.
 
 ## Know Your Supplies
 
 Before you walk into the room (or sign on to the Zoom), know what you have at your disposal to use. During the Brain Jam, we listed out all the “supplies” (features and capacities) we could use while facilitating on Zoom without ever having to use a different technology. It was a longer list than I had expected! In the moment, when you’re thinking of a million different things about the session, it’s easy to forget what you have at your disposal, so listing out your supplies ahead of time is helpful.
-
-### ![](https://lh5.googleusercontent.com/FMZh0zKYYXLtwzTkMLefpEdE5MHynsKrRc9PJFtwfliGJc1HvYUOWMKcda6dL7e5FwcjKxZNAoyL2udqirh6oMuD7ZniFCmWgG0gtrmzXHn6FQD0mSDhBduL4r107EtPlrYP51wj =422x563)
 
 When you’re facilitating in person, you might list out things like, “sticky notes, flipchart, markers, PlayDoh, Legos, scrap paper,” etc.
 
