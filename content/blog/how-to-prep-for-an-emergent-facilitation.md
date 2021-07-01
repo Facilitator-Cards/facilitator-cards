@@ -11,17 +11,17 @@ photo_cred = "Photo by UX Indonesia on Unsplash"
 title = "How to Prep for an Emergent Facilitation"
 
 +++
-I think of emergent facilitation as building the road that you and your participants are traveling on _as_ you travel down it. 
+I think of emergent facilitation as building the road that you and your participants are traveling on _as_ you travel down it.
 
 Whether that's because you walk into a room where you thought the group needed A and they actually need Z or because half-way through the day you realize your agenda isn’t working and you have to throw it out, we all likely emergently facilitate at some time or another.
 
 When some people hear the term “emergent facilitation,” they think of Adrienne Marie Brown’s book [_Emergent Strategy_](https://www.akpress.org/emergentstrategy.html) where AMB spends a chunk of the book talking about a “Trust the people” based process where, “participants can shape the meeting.” It was AMB who first introduced me to the word “emergent” to refer to facilitating an evolving and participant-created agenda, and I have loved it ever since.
 
-Emergent facilitation is an incredibly participant-centered, flexible, and responsive way to facilitate. It’s also, for a lot of people, an intimidating idea (or unexpected situation). 
+Emergent facilitation is an incredibly participant-centered, flexible, and responsive way to facilitate. It’s also, for a lot of people, an intimidating idea (or unexpected situation).
 
 Going in without an agenda and building as you go? No thanks.
 
-The trick with emergent facilitation is just because you can’t plan for it the way you can with other facilitations, doesn’t mean you can’t prepare. 
+The trick with emergent facilitation is just because you can’t plan for it the way you can with other facilitations, doesn’t mean you can’t prepare.
 
 Our June Brain Jam focused on the question, “What can we do to prepare for an emergent facilitation when we can’t create an agenda?” Turns out, we can do quite a lot.
 
@@ -35,9 +35,9 @@ When you’re facilitating in person, you might list out things like, “sticky 
 
 ## Know What Processes You Know
 
-What processes do you know how to facilitate? 
+What processes do you know how to facilitate?
 
-I’ll bet you know more than you think. Pair & Share is a process, Pro-Con List is a process, Go Around Share is a process: any time you have a group interact in a particular way, that’s a process. 
+I’ll bet you know more than you think. Pair & Share is a process, Pro-Con List is a process, Go Around Share is a process: any time you have a group interact in a particular way, that’s a process.
 
 When you’re emergently facilitating, you’re constantly asking the questions, “What do we need to do?” and “How can we best do it?” Knowing what processes you know how to facilitate can accelerate your ability to answer that second question.
 
@@ -45,7 +45,7 @@ During the Brain Jam, everyone had [Facilitator Cards](https://shop.facilitator.
 
 If you don’t have Facilitator Cards, you can still [spend time identifying the processes you know](https://www.instagram.com/p/CQtuR7TJ9tG/). Get a stack of index cards and write down the processes you know how to do. Look through old agendas (especially ones that were highly interactive or went particularly well) and pull out the structures behind those activities and write them down. You can also look through the processes we include in the deck on our[ cards page](http://facilitator.cards/cards) and add those to your index cards.
 
-What’s most important here is to end up with a stack of cards where each one is a process that you already know how to facilitate. 
+What’s most important here is to end up with a stack of cards where each one is a process that you already know how to facilitate.
 
 Having them as cards, rather than on a spreadsheet or list, is super helpful when it comes to making decisions at break time. It’s easy to look through them without getting overwhelmed, since you’ll be looking at them one at a time. It's also nice because you can clearly note or separate which ones you’ve already done as you build your agenda. As you facilitate, put a check next to the ones you’ve used already so that you can continue to bring in new processes to keep the session fresh and energized.
 
@@ -59,7 +59,7 @@ Activities that you’ve done before are also great to have on hand during an em
 
 ## Know What Room/Zoom You’re Getting Into
 
-The last piece of prep for an emergent facilitation is to know what sort of room (or Zoom) you’re going to be facilitating in. 
+The last piece of prep for an emergent facilitation is to know what sort of room (or Zoom) you’re going to be facilitating in.
 
 If you’re facilitating in person, have your point of contact give you a video tour of the room that you’ll be using. Emergent facilitation is complex and you don’t want to count on the ability to do breakout groups in pods of desks and find out there is only a conference table, or plan to use the walls for sticky notes only to find them covered in photos (speaking from experience on those 🥵).
 
