@@ -65,6 +65,8 @@ If you’re facilitating in person, have your point of contact give you a video 
 
 If you’re facilitating on Zoom, make sure it’s on your account so all the settings or permissions are how you like them. If that isn’t possible, send a list of questions ahead of time to be sure you understand their settings (how long is their timer after you close breakout rooms, do they allow annotation/screen-sharing for participants, do they enable the waiting room, etc.). If it’s a platform you don’t usually facilitate on, ask for a tech test (like a mic check) and try things out before you get going.
 
+\**
+
 Being able to be agile and present with emergent facilitation is a challenge. When we’re building as we go, we have to continuously make decisions about where to go next and how best to get there. Knowing what supplies we have and what processes we know, having stock activities, and figuring out the room/Zoom set-up allows us to narrow down (or at least understand) the variables so we can make those decisions quickly and on the fly.
 
 When we know that we brought the right tools with us and that the elements we can know are accounted for, that frees up more mental RAM for creative and intuitive decision making when we need it most: go-time.
