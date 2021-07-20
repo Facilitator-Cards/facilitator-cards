@@ -3,7 +3,7 @@ author = "Meg Bolger"
 categories = "about the cards"
 date = 2021-07-20T00:20:00Z
 description = "How we ensure that Facilitator Cards are better than carbon neutral—and how you can do that too!"
-facebook_discussion = ""
+facebook_discussion = "https://www.facebook.com/FacilitatorCards/posts/569721521104196"
 featured_image = "/img/blog/carbon-offsetting-blog-post-image-1.png"
 images = ["/img/blog/0-71-kg-co2.png", "/img/blog/trees-planted.png", "/img/blog/146-southern-carpathians.png", "/img/blog/carbon-offsetting-blog-post-image-1.png"]
 keywords = ["mossy earth", "carbon offsetting", "carbon offset", "environmental", "carbon neutral"]
@@ -141,3 +141,5 @@ Doing our part to offset the impact of manufacturing and shipping them around th
 We’ll continue to look for ways to give back to our home. For now, a commitment to more trees and the hopes of inspiring others to come along with us feels like a great place to start.
 
 [Start planting trees with us and Mossy Earth!](https://www.mossy.earth/membership?referral=MEG7X9HQRB)
+
+***
