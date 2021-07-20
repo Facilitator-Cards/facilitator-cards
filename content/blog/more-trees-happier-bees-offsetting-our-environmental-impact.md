@@ -3,7 +3,6 @@ author = "Meg Bolger"
 categories = "about the cards"
 date = 2021-07-20T00:20:00Z
 description = "How we ensure that Facilitator Cards are better than carbon neutral—and how you can do that too!"
-draft = true
 facebook_discussion = ""
 featured_image = "/img/blog/carbon-offsetting-blog-post-image-1.png"
 images = ["/img/blog/0-71-kg-co2.png", "/img/blog/trees-planted.png", "/img/blog/146-southern-carpathians.png", "/img/blog/carbon-offsetting-blog-post-image-1.png"]
