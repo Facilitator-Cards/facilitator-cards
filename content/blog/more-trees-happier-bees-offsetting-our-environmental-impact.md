@@ -6,7 +6,7 @@ description = "How we ensure that Facilitator Cards are better than carbon neutr
 facebook_discussion = ""
 featured_image = "/img/blog/carbon-offsetting-blog-post-image-1.png"
 images = ["/img/blog/0-71-kg-co2.png", "/img/blog/trees-planted.png", "/img/blog/146-southern-carpathians.png", "/img/blog/carbon-offsetting-blog-post-image-1.png"]
-keywords = ["carbon offsetting", "carbon offset", "environmental", "carbon neutral"]
+keywords = ["mossy earth", "carbon offsetting", "carbon offset", "environmental", "carbon neutral"]
 photo_cred = "Canva"
 title = "More Trees & Happier Bees: Offsetting Our Environmental Impact"
 
@@ -51,7 +51,9 @@ After all that, we found that each deck of Facilitator Cards produces about 0.71
 
 Our cards are located in New Jersey and shipped all around the world. We needed to calculate what the average order that was shipped to the United States or Canada (usually by ground shipping) created in emissions, and what the average order that was shipped internationally (most often to Europe and Australia via plane) created in emissions.
 
-First we made a spreadsheet with the last 20 US/Canadian orders and the last 20 overseas orders and their shipping addresses. Once we had that, we needed the volume and weight of a shipped package in cubic meters and kg. A typical shipped box of Facilitator Cards are 4”x 4” x 6” which came out to 0.0015 cbm and our typical box weight of .5lbs came out to .22kg.
+First we made a spreadsheet with the last 20 US/Canadian orders and the last 20 overseas orders and their shipping addresses. Once we had that, we needed the volume and weight of a shipped package in cubic meters and kg. 
+
+A typical shipped box of Facilitator Cards are 4”x 4” x 6” which came out to 0.0015 cbm and our typical box weight of .5lbs came out to .22kg.
 
 We then plugged each shipment into the [DHL Carbon Calculator](https://dhl-carboncalculator.com/#/scenarios) using our distributor’s warehouse as the starting location and our customer’s shipping address as the destination location. Once we had the carbon emissions calculation from all 20 North American orders, we used that data to find an average and did the same with the overseas orders.
 
