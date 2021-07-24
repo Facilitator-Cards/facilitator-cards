@@ -21,7 +21,7 @@ If you’re currently using Google Forms, create RSVPs for events, manage spread
 
 Join our August Brain Jam on [Airtable](https://airtable.com/) for Facilitators on August 4th at 12pm PT / 3pm ET / 8pm BST. This Brain Jam is totally free just RSVP!
 
-[**RSVP for this Brain Jam**](https://airtable.com/shryTZVY7ieydXSAy)
+**🎟** [**RSVP for this Brain Jam**](https://airtable.com/shryTZVY7ieydXSAy) **🎟**
 
 For the August Brain Jam we're going to explore you how you can use Airtable to:
 
