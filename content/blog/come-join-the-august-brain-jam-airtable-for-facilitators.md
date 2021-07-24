@@ -3,7 +3,6 @@ author = "Meg Bolger"
 categories = "resources"
 date = 2021-07-24T16:00:00Z
 description = "Make beautiful RSVPs, super-powered resource lists, and customizable feedback forms with Airtable"
-draft = true
 facebook_discussion = ""
 featured_image = "/img/blog/2.png"
 images = ["/img/blog/2.png"]
