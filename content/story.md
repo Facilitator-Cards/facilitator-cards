@@ -19,5 +19,3 @@ And Facilitator Cards were born!
 <a href="/cards/" class="biglink">View the Cards in the Deck →</a>
 
 <a href="/how/" class="biglink">Learn How They Work →</a>
-
-<iframe class="airtable-embed" src="[https://airtable.com/embed/shrjUwsXG5xmWfLSL?backgroundColor=teal&viewControls=on](https://airtable.com/embed/shrjUwsXG5xmWfLSL?backgroundColor=teal&viewControls=on "https://airtable.com/embed/shrjUwsXG5xmWfLSL?backgroundColor=teal&viewControls=on")" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe>
