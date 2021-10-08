@@ -7,6 +7,8 @@ title = "How to Use"
 +++
 If you use Facilitator Cards for your planning, for responding to your group’s needs, or for improvising when the unexpected comes up — however you’re using them — you’re using them right. You really can’t do it wrong.
 
+And! If you want us to break down the anatomy of the cards, give you some ideas, and help you get to know your deck a bit better, you've come to the right place. Let's get into it.
+
 <div style="margin: 1.5em auto; font-size:.8em;" class="pad type-wrap rainbow-bg rounded"><p style="margin: 0 auto;">👩‍💻 Visit the <a href="https://virtual.facilitator.cards"><strong>Virtual Facilitator Cards Facilitation Guide</strong></a> if you're looking for help using these processes on Zoom!</p></div>
 
 ## What Every Card Has in Common
