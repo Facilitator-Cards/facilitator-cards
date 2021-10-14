@@ -1,6 +1,6 @@
 +++
 author = "Meg Bolger"
-categories = "Using Facilitator Cards, About The Cards"
+categories = "Using Facilitator Cards"
 date = 2021-10-14T17:20:00Z
 description = "Don’t have your cards with you but still want to make an agenda on the fly? We got you."
 facebook_discussion = ""
