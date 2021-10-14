@@ -3,7 +3,6 @@ author = "Meg Bolger"
 categories = "Using Facilitator Cards, About The Cards"
 date = 2021-10-14T17:20:00Z
 description = "Don’t have your cards with you but still want to make an agenda on the fly? We got you."
-draft = true
 facebook_discussion = ""
 featured_image = "/img/blog/blog-post-facilitator-cards-x-airtable.png"
 images = ["/img/blog/blog-post-facilitator-cards-x-airtable.png", "/img/blog/airtable-image.png", "/img/blog/airtable-x-facilitator-cards-screen-shot.png", "/img/blog/airtable-x-facilitator-cards-screen-shot-2.png"]
