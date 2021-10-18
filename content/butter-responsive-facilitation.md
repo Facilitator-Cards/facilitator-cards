@@ -1,7 +1,7 @@
 +++
 date = ""
 description = "Resources from the Butter Spotlight about Responsive Facilitation"
-priority = nil
+priority = -1
 title = "Butter Responsive Facilitation "
 
 +++
