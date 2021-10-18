@@ -6,9 +6,11 @@ You got questions? We got answers.
 
 ### Do the decks come with a marker?
 
-**No.** We know a lot of facilitators are picky about their stationery (we sure are!). So you can use the wet-erase markers you already own, or whatever is sold in stores near you.
+**If you want!** You can use our [wet-erase markers](https://shop.facilitator.cards/collections/merch/products/wet-erase-markers) or ones you can find at office supply stores (Vis-a-Vis by Expo work great and erase clean).
 
-Instead of including a “Facilitator Cards” marker, we spent a lot of time testing tons of different markers and colors, to make sure that regardless of which brand of wet-erase marker you use, it won’t ruin the cards.
+We made our own markers because we wanted one that was thinner than Expo and erased just as clean. So we made them! 
+
+Now you have the option of having a complete kit the moment you get your Facilitator Cards. Use code PERFECTPAIR [to get our markers for free](https://shop.facilitator.cards/collections/merch/products/wet-erase-markers) with purchase of a deck.
 
 ### What size are the cards?
 
@@ -24,7 +26,7 @@ Every order of Facilitator Cards (print or digital) includes **a ton of supporti
 
 ### What if I want to order more than 10 decks?
 
-Yay! That’s awesome. Please **contact us** at hello@facilitator.cards and we’ll work together to make that easy.
+Yay! That’s awesome. Please **contact us** at hello@facilitator.cards and we’ll work together to make that easy and get you the best discount possible.
 
 ### Can I get Facilitator Cards in other languages?
 
@@ -46,7 +48,9 @@ Here are the places our distribution company **cannot ship to** (sorry, y’all!
 
 ### Why are you making these if you can print them at home?
 
-The do-it-yourself Facilitator Cards are great (we’ve been using them for years in our facilitation), but **the decks we’re creating together through Kickstarter are going to knock our socks off**. A deck that will last forever (instead of needing to be remade), that’s waterproof, that is easy to write and erase on, and that just _feels amazing_ to use.
+The do-it-yourself Facilitator Cards are great (we’ve been using them for years in our facilitation), but **the decks we've manufactured are beautiful, durable, and reusable**. A deck that will last forever (instead of needing to be remade), that’s waterproof, that is easy to write and erase on, and that just _feels amazing_ to use.
+
+But if you want a print-a-home DIY deck you can [download the PDF deck here](https://facilitatorcards.gumroad.com/l/FCDIY)!
 
 ***
 
