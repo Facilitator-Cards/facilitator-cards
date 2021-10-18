@@ -1,5 +1,5 @@
 +++
-date = 2021-10-18T12:00:00Z
+date = ""
 description = "Resources from the Butter Spotlight about Responsive Facilitation"
 priority = nil
 title = "Butter Responsive Facilitation "
