@@ -5,7 +5,7 @@ priority = -1
 title = "The Secret to Participation"
 
 +++
-This page hosts all the follow-up resources from the session **The Secret to Participation is Facilitation**! If there is anything you were hoping would be on this page and is not, please reach out to Meg at [Meg@facilitator.cards]().
+This page hosts all the follow-up resources from the session **The Secret to Participation is Facilitation**! If there are any resources that you were hoping would be included that are not on this page, please reach out to Meg at [Meg@facilitator.cards]().
 
 ## The Agenda
 
@@ -13,7 +13,7 @@ These were the [Facilitator Cards](https://shop.facilitator.cards/products/start
 
 ![](/img/blog/img_9519.JPG)
 
-You can purchase a deck of [Facilitator Cards here](shop.facilitator.cards) with every deck you also get invited to an exclusive live-facilitated training called Card Sharks where we help you get to know your cards and practice putting them to work!
+You can purchase a deck of [Facilitator Cards here](shop.facilitator.cards). With every deck you also get invited to an exclusive live-facilitated training called Card Sharks where we help you get to know your cards and practice putting them to work!
 
 If you're interested in how I came up with the agenda, the cards that I used today, and other facilitator decisions that I made, I will be doing a live stream on YouTube next week to go into all the nitty-gritty details. Subscribe to the [Facilitator Cards YouTube channel](https://www.youtube.com/facilitatorcards) to get notified when we go live!
 
@@ -62,7 +62,7 @@ Tell participants...
 
 ### Things that made the meeting more interactive
 
-What did we think made this session more interactive
+The responses to: what did we think made this session more interactive?
 
 * Your spirit is the GO from the start
 * Brought humor/levity to the conversation.
