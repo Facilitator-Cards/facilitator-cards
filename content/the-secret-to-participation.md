@@ -5,7 +5,7 @@ priority = -1
 title = "The Secret to Participation"
 
 +++
-This page host all the follow-up resources from the session **The Secret to Participation is Facilitation**! If there is anything you were hoping would be on this page and is not, please reach out to Meg at [Meg@facilitator.cards]().
+This page hosts all the follow-up resources from the session **The Secret to Participation is Facilitation**! If there is anything you were hoping would be on this page and is not, please reach out to Meg at [Meg@facilitator.cards]().
 
 ## The Agenda
 
@@ -28,6 +28,8 @@ This is the first time we're opening up this training as an open enrollment sess
 If you have any questions at all please don't hesitate to reach out!
 
 ## The Recording
+
+{{< youtube fC9cBRpbnfk >}} 
 
 ## The Tech
 
