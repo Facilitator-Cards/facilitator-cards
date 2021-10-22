@@ -86,3 +86,7 @@ The responses to: what did we think made this session more interactive?
 * Total presence; ecamm or tools; no slides, survey tool, breakout, fishbowl;
 * Offered different roles, everyone had a 'job', guiding questions, creating comfortable virtual space for all, different modalities to participate (verbal, chat, liseten)
 * Clear instructions, shared timespan for conversation, guidance on use of technology to set up fishbowl, shared Meg’s role in coming in/out of convo
+
+_Thanks again to everyone for coming and participating!_
+
+Until next time, Happy Facilitating!
