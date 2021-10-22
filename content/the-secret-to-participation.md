@@ -12,9 +12,9 @@ This page host all the follow-up resources from the session **The Secret to Part
 
 ## The Agenda
 
-These were the Facilitator Cards that I used to plan our session today.
+These were the [Facilitator Cards](https://shop.facilitator.cards/products/starter-deck) that I used to plan our session today.
 
-\[photo\]
+![](/img/blog/img_9519.JPG)
 
 You can purchase a deck of [Facilitator Cards here](shop.facilitator.cards) with every deck you also get invited to an exclusive live-facilitated training called Card Sharks where we help you get to know your cards and practice putting them to work!
 
@@ -28,24 +28,26 @@ This is the first time we're opening up this training as an open enrollment sess
 
 [https://lu.ma/iwt6zqpq](https://lu.ma/iwt6zqpq "https://lu.ma/iwt6zqpq")
 
-If you have any questions at all please don't hesitate to reach out! 
+If you have any questions at all please don't hesitate to reach out!
+
+## The Recording
 
 ## The Tech
 
-Lots of folks had questions about the technology that I was using today to facilitate. The main Zoom-window magic was made possible by using OBS. 
+Lots of folks had questions about the technology that I was using today to facilitate. The main Zoom-window magic was made possible by using OBS.
 
-You can watch a full walk-through of how to set yourself up with OBS here:
+You can watch a full walk-through of how to set yourself up with OBS here: [https://youtu.be/c_Xf7fq4cwE](https://youtu.be/c_Xf7fq4cwE "https://youtu.be/c_Xf7fq4cwE")
 
 I was also using a Streamdeck to switch between my OBS scenes and to put quick links into the chat without ever having to copy and paste.
 
-Watch my demo of Streamdeck here:  
-Watch my walkthrough of setting yourself up with Streamdeck here:
+Watch my demo of Streamdeck here: [https://youtu.be/cvRq_pdhWSY](https://youtu.be/cvRq_pdhWSY "https://youtu.be/cvRq_pdhWSY")  
+Watch my walkthrough of setting yourself up with Streamdeck here: [https://youtu.be/_8uZ40_z2Dc](https://youtu.be/_8uZ40_z2Dc "https://youtu.be/_8uZ40_z2Dc")
 
-The other technology I used was AhaSlides for the live polling. You can see all of the slides in our session here:
+The other technology I used was AhaSlides for the live polling. You can see all of the slides in our session here: [https://presenter.ahaslides.com/share/the-secret-to-participation-1634750332877-7nsxv958w6](https://presenter.ahaslides.com/share/the-secret-to-participation-1634750332877-7nsxv958w6 "https://presenter.ahaslides.com/share/the-secret-to-participation-1634750332877-7nsxv958w6")
 
 ## Group Genius
 
-These were responses we had as a group where we can learn from the collective wisdom of the room. 
+These were responses we had as a group where we can learn from the collective wisdom of the room.
 
 ### How to run good breakout rooms
 
