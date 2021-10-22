@@ -5,8 +5,6 @@ priority = -1
 title = "The Secret to Participation"
 
 +++
-# The Secret to Participation (is Facilitation)
-
 This page host all the follow-up resources from the session **The Secret to Participation is Facilitation**! If there is anything you were hoping would be on this page and is not, please reach out to Meg at [Meg@facilitator.cards](mailto: meg@facilitator.cards).
 
 ## The Agenda
