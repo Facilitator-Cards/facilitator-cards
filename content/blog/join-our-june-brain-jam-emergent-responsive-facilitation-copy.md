@@ -2,7 +2,7 @@
 author = "Meg Bolger"
 categories = "resources"
 date = 2021-10-25T18:59:00Z
-description = "This November Brain Jam is all about how we can navigate our triggers as facilitators. Different strategies we can use while preparing or in the moment to better respond to triggers when they arise."
+description = "Come learn how we can get through those tricky moments as facilitators."
 facebook_discussion = ""
 featured_image = "/img/blog/brain-jam.png"
 images = ["/img/blog/brain-jam.png"]
