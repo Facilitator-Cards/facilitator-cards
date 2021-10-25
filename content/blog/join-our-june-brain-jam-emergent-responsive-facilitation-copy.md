@@ -18,6 +18,8 @@ If so, you've probably experienced being triggered as a facilitator. As facilita
 
 **This November Brain Jam is all about how we can navigate our triggers as facilitators.** What are the different strategies we can use both before we get in the room and in the moment to better respond when triggers arise?
 
+[**RSVP HERE**](https://lu.ma/nov-brain-jam)
+
 This session will be led by Meg Bolger, head of Facilitator Cards, and co-author of Unlocking the Magic of Facilitation.
 
 Meg started doing social justice education and facilitation over a decade ago and knows how destructive it can be to not navigate your triggers well as a facilitator. Having spent many years running train-the-trainers and working with facilitators to level up their skills, Meg has had a lot of opportunities to hone in on how we as facilitators can navigate those moments successfully, to come back to being fully present with our groups, and respond rather than react to our participants.
