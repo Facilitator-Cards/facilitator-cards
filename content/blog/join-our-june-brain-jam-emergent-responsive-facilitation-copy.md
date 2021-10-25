@@ -21,7 +21,7 @@ As facilitators, we're in a uniquely tricky position being responsible for holdi
 
 [**RSVP FOR THE BRAIN JAM HERE**](https://lu.ma/nov-brain-jam)
 
-## DETAILS
+## Details
 
 This Brain Jam will take place on Zoom in 60/60 format which means the first hour will be devoted to understanding the two models that can help us break down what happens when we're triggered and the other for what options we have available to us when we get triggered.
 
