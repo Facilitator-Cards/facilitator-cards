@@ -12,14 +12,16 @@ photo_cred = ""
 title = "Join our November Brain Jam: Navigating Triggers as a Facilitator"
 
 +++
-Have you ever had something happen in facilitation that completely threw you off? Sent you into an emotional spiral or took over your mind making you no longer present for your group? Have you ever reacted to a participant, rolling your eyes in disbelief or said something you later regretted? 
+Have you ever had something happen in facilitation that completely threw you off? Sent you into an emotional spiral or took over your mind making you no longer present for your group? Have you ever reacted to a participant, rolling your eyes in disbelief or said something you later regretted?
 
 If so, you've probably experienced being triggered as a facilitator. As facilitators, we're in a uniquely tricky position being responsible for holding the space for the emotional well-being of a group while having our own emotions and realities to navigate.
 
-**This November Brain Jam is all about how we can navigate our triggers as facilitators.** What are the different strategies we can use both before we get in the room and in the moment to better respond when triggers arise?
+**This November Brain Jam is all about how we can navigate our triggers as facilitators.** We are going to go over different strategies we can use both before we get in the room and in the moment to better respond when triggers arise. 
 
-[**RSVP HERE**](https://lu.ma/nov-brain-jam)
+[**RSVP FOR THE BRAIN JAM HERE**](https://lu.ma/nov-brain-jam)
 
-This session will be led by Meg Bolger, head of Facilitator Cards, and co-author of Unlocking the Magic of Facilitation.
+I started my journey as a facilitator doing Social Justice facilitation, which allowed me to accumulate a wealth of knowledge on triggers. We'll go over how to identify triggers for ourselves and how we can best navigate those moments (while keeping our facilitator hats on)!
 
-Meg started doing social justice education and facilitation over a decade ago and knows how destructive it can be to not navigate your triggers well as a facilitator. Having spent many years running train-the-trainers and working with facilitators to level up their skills, Meg has had a lot of opportunities to hone in on how we as facilitators can navigate those moments successfully, to come back to being fully present with our groups, and respond rather than react to our participants.
+Hope to see you there!
+
+Meg
