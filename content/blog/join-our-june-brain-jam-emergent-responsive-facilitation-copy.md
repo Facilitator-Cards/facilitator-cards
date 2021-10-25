@@ -29,9 +29,9 @@ The second hour is going to be time for deeper questions, conversations, and con
 
 This session is designed specifically for folks who run and lead workshops, meetings, and training who want to learn how to stay present with their group when triggers arise.
 
-**Questions, comments, concerns? Email us at hello@facilitator.cards and we'll get right back to you!**
-
 I started my journey as a facilitator doing Social Justice facilitation, which allowed me to accumulate a wealth of knowledge on triggers. We'll go over how to identify triggers for ourselves and how we can best navigate those moments (while keeping our facilitator hats on)!
+
+**Questions, comments, concerns? Email us at hello@facilitator.cards and we'll get right back to you!**
 
 [Hope to see you there!]()
 
