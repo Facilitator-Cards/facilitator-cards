@@ -1,61 +1,23 @@
 +++
 author = "Meg Bolger"
 categories = "resources"
-date = 2021-05-27T14:00:00Z
-description = "How can we facilitate on-the-fly, respond to the true needs of our group, and use Facilitator Cards to make it all easier."
+date = 2021-10-25T23:00:00Z
+description = "This November Brain Jam is all about how we can navigate our triggers as facilitators. Different strategies we can use while preparing or in the moment, and how to better respond to triggers when they arise."
 draft = true
 facebook_discussion = ""
-featured_image = "/img/blog/jack-anstey-zs4luqleina-unsplash.jpeg"
-images = ["/img/blog/jack-anstey-zs4luqleina-unsplash.jpeg"]
-keywords = ["virtual facilitation", "facilitation tools", "facilitation 101", "facilitator tools", "responsive facilitation", "emergent facilitation", "digital facilitation"]
-photo_cred = "Jack Anstey"
-title = "Join our June Brain Jam: Emergent & Responsive Facilitation-(copy)"
+featured_image = "/img/blog/brain-jam.png"
+images = []
+keywords = ["virtual facilitation", "facilitation tools", "facilitation 101", "facilitator tools", "responsive facilitation", "digital facilitation"]
+photo_cred = ""
+title = "Join our November Brain Jam: Navigating Triggers as a Facilitator"
 
 +++
-Calling all Card Carriers, you are officially invited to join our June Brain Jam on Emergent Facilitation with Facilitator Cards, happening Wednesday June 2nd at 12pm PT (3pm ET, 8pm BST). [RSVP here](https://airtable.com/shryTZVY7ieydXSAy). 
+Have you ever had something happen in facilitation that completely threw you off? Sent you into an emotional spiral or took over your mind making you no longer present for your group? Have you ever reacted to a participant, rolling your eyes in disbelief or said something you later regretted? 
 
-For more info, read on!
+If so, you've probably experienced being triggered as a facilitator. As facilitators, we're in a uniquely tricky position being responsible for holding the space for the emotional well-being of a group while having our own emotions and realities to navigate.
 
-## First! A Story: The Origin of Facilitator Cards
+**This November Brain Jam is all about how we can navigate our triggers as facilitators.** What are the different strategies we can use both before we get in the room and in the moment to better respond when triggers arise?
 
-Facilitator Cards all started with an unplanned adventure with emergent facilitation.
+This session will be led by Meg Bolger, head of Facilitator Cards, and co-author of Unlocking the Magic of Facilitation.
 
-Sam and I were facilitating a two-day train-the-trainer workshop and about ten days out, we got off a call with the folks who were bringing us in and realized we were in trouble. The group was not at all what we had thought and therefore the training we had planned would no longer work.
-
-It was too late to go back to the drawing board with our contacts, so instead we prepared by writing every facilitation process we knew down on index cards: [Pair Share](https://www.facilitator.cards/cards/pair-share/), [Opposite Thinking](https://www.facilitator.cards/cards/opposite-thinking/), [Frequently Asked Questions](https://www.facilitator.cards/cards/frequently-asked-questions/), etc. We went into a two-day training with our stack of index cards and built the curriculum 90 minutes at a time.
-
-We huddled together at the 15 minute breaks and at lunch and picked out what processes we hadn’t used yet and figured out what the group needed next.
-
-And it TOTALLY WORKED.
-
-A few years later, that happy accident turned into Facilitator Cards, and that adventure of emergently facilitating, of building a curriculum as you go, totally transformed what I thought was possible in a facilitation.
-
-## What are Brain Jams?
-
-Brain Jams are monthly Facilitator Card events where we bring together folks in our community of facilitators to explore a new tool, technology, or topic related to facilitation with the goal of deepening connections to each other and our work.
-
-Brain Jams are always free and happen on the first Wednesday of every month at 12pm PT (3pm ET, 8pm BST).
-
-## Our June Brain Jam
-
-This Brain Jam is all about how we, as facilitators, can feel more prepared and ready to emergently facilitate. Whether that’s because you’re writing the entire curriculum as you go OR because your plan for the second half of the workshop isn’t working, this workshop is all about how we can lay down the road as we’re driving on it.
-
-To do it, we’ll anchor ourselves to our Facilitator Cards and explore how we can use these tools to help support us in those adventurous moments of (almost too much) possibility.
-
-The first hour of the Brain Jam will be unpacking emergent facilitation, figuring out how we can use our Facilitator Cards to support our emergent facilitation dreams, and working through some challenges as a group.
-
-The second hour (optional) will be for more active experimentation and deeper dives, and will serve as an open playground for the facilitators who stick around.
-
-## Requirements for the Brain Jam
-
-This Brain Jam is open to all who have a deck of Facilitator Cards. If you do not yet have a deck of Facilitator Cards, there is the option to DIY yourself a deck - just reach out to hello@facilitator.cards for more info on that!
-
-Other than that, you simply need to bring yourself and a willingness to participate and adventure, and to fill out this RSVP to get all the log-in deets.
-
-[https://airtable.com/shryTZVY7ieydXSAy](https://airtable.com/shryTZVY7ieydXSAy "https://airtable.com/shryTZVY7ieydXSAy")
-
-## Questions? Comments? Concerns?
-
-Let us know at hello@facilitator.cards and we’ll get back to you ASAP.
-
-Hope to see you at the Brain Jam!
+Meg started doing social justice education and facilitation over a decade ago and knows how destructive it can be to not navigate your triggers well as a facilitator. Having spent many years running train-the-trainers and working with facilitators to level up their skills, Meg has had a lot of opportunities to hone in on how we as facilitators can navigate those moments successfully, to come back to being fully present with our groups, and respond rather than react to our participants.
