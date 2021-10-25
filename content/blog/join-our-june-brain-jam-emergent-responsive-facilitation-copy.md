@@ -33,6 +33,6 @@ This session is designed specifically for folks who run and lead workshops, meet
 
 I started my journey as a facilitator doing Social Justice facilitation, which allowed me to accumulate a wealth of knowledge on triggers. We'll go over how to identify triggers for ourselves and how we can best navigate those moments (while keeping our facilitator hats on)!
 
-Hope to see you there!
+[Hope to see you there!]()
 
 Meg
