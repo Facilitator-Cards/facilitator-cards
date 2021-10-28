@@ -25,6 +25,12 @@ Here is the link to our Miro board from the session today where you can see all 
 
 ![](/img/blog/screen-shot-2021-10-27-at-7-11pm.png)
 
+## Recording
+
+Here's the recording of the session! 
+
+{{< youtube lmccK2tPkPk >}}
+
 ## Wisdom of the Crowd
 
 Here were your insights from today!
