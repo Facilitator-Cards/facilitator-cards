@@ -27,7 +27,7 @@ Here is the link to our Miro board from the session today where you can see all 
 
 ## Recording
 
-Here's the recording of the session! 
+Here's the recording of the session!
 
 {{< youtube lmccK2tPkPk >}}
 
