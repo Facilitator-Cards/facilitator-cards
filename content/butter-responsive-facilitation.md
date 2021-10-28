@@ -1,7 +1,6 @@
 +++
 date = ""
 description = "Resources from the Butter Spotlight about Responsive Facilitation"
-draft = true
 priority = -1
 title = "Butter Responsive Facilitation "
 
