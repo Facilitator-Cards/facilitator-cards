@@ -13,7 +13,7 @@ First and foremost, if you are interested in staying connected with Facilitator 
 
 ## Facilitator Cards
 
-Many of you might have gotten introduced to Facilitator Cards for the first time today and if you're curious about learning more and/or getting yourself a deck you can use [this special link](https://shop.facilitator.cards/discount/BUTTER) just for folks of this event, to learn more and get 10% off your order.
+This session may have introduced to Facilitator Cards and if you're curious about learning more and/or getting yourself a deck you can use [this special link](https://shop.facilitator.cards/discount/BUTTER) (just for folks of this event) to get 10% off your order.
 
 We're also going to be running two events in the next week that you might be interested in! The first is a session next week that is all about [Navigating Triggers as Facilitators](https://lu.ma/nov-brain-jam). The second is the [December Facilitation Intensive](https://lu.ma/iwt6zqpq) which is when I'll be leading a one-day dive into the art of facilitation (Facilitator Cards included in the registration!)
 
@@ -30,7 +30,7 @@ Here is the link to our Miro board from the session today where you can see all 
 Here were your insights from today!
 
 * Plan ahead and new accordion metaphor
-* importance of prepping the strategies you'll use ahead of time so if you need to pivot, you can do so confidently
+* Importance of prepping the strategies you'll use ahead of time so if you need to pivot, you can do so confidently
 * That Butter is an amazing tool to spice up facilitating
 * I learned that I don't need to reinvent the wheel!
 * Accordion agenda to fold in or out different activities based on different needs being ready to pivot proactively
@@ -54,6 +54,6 @@ I've also talked about the importance of [creating Plan B's](https://www.instagr
 
 There were a number of questions we didn't get to today that were asked in the Q&A. I want to get to all of your questions so I will let you know that in the coming weeks I'm going to be doing weekly live streams on the Facilitator Cards YouTube channel. So if you want to tune in, see me answer questions, and talk about facilitation you can follow the channel [https://www.youtube.com/facilitatorcards](https://www.youtube.com/facilitatorcards "https://www.youtube.com/facilitatorcards") and watch the streams!
 
-That's it! 
+That's it!
 
 If there is anything that you wanted that wasn't on this page, please let me know, you can always find me at meg@facilitator.cards and until our paths cross again, happy facilitating!
