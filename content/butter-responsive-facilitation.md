@@ -63,3 +63,7 @@ There were a number of questions we didn't get to today that were asked in the Q
 That's it!
 
 If there is anything that you wanted that wasn't on this page, please let me know, you can always find me at meg@facilitator.cards and until our paths cross again, happy facilitating!
+
+Download
+
+[run-better-meetings-guide.pdf](/img/blog/run-better-meetings-guide.pdf "run-better-meetings-guide.pdf")
