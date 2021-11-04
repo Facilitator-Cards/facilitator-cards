@@ -24,7 +24,7 @@ Here is the link for the recording of the first hour of the November Brain Jam.
 
 If you click here you can also watch the second hour of the Brain Jam. The second hour of the Brain Jam was a free-flowing conversation about triggers, our responsibilities as facilitators, checking in with participants being triggered, and more. Think of this more as a panel podcast on triggers.
 
-\[YOUTUBE VID for HOUR ONE\]
+\[TK YOUTUBE VID for HOUR ONE\]
 
 If you're interested in the [AhaSlide deck](https://presenter.ahaslides.com/share/triggers-1635857949592-qz7ez9xkd9) we used yesterday you can find that [here](https://presenter.ahaslides.com/share/triggers-1635857949592-qz7ez9xkd9). (Bonus: If you want to try out AhaSlides if you [use this referral code](https://presenter.ahaslides.com/pages/register?referral-code=13ZJXU9QRY) you'll get a free small event and we get $5 in credit!)
 
