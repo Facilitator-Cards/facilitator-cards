@@ -9,13 +9,13 @@ This page is a resource for the event Navigating Triggers as a Facilitator. We'r
 
 ## Part 2: Navigating Triggers with Facilitator Cards
 
-As I mentioned at the end of the session we're going to be doing a follow-up to this event where we'll discuss and build plug-and-play strategies that you can use when you or your participants are feeling triggered to help move through those moments. This event will be very different than the November Brain Jam in that it will be highly facilitated, self and small group work, and a more spacious agenda.
+We're going to be doing a follow-up to this event where we'll discuss and build plug-and-play strategies that you can use when you or your participants are feeling triggered to help move through those moments. This event will be highly facilitated, self and small group work, and a more spacious agenda.
+
+**RSVP for part 2 event here:** [**https://lu.ma/dec-fc-exclusive**](https://lu.ma/dec-fc-exclusive "https://lu.ma/dec-fc-exclusive")
 
 This event is offered free for all folks with Facilitator Cards. If you would like to join but don't yet own cards, if you purchase cards before Nov 10 they should have plenty of time to arrive before the event!
 
 **Get Facilitator Cards here:** [**https://shop.facilitator.cards/products/starter-deck**](https://shop.facilitator.cards/products/starter-deck "https://shop.facilitator.cards/products/starter-deck")
-
-**RSVP for part 2 event here:** [**https://lu.ma/dec-fc-exclusive**](https://lu.ma/dec-fc-exclusive "https://lu.ma/dec-fc-exclusive")
 
 ## Recording & Slides
 
