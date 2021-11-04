@@ -19,9 +19,9 @@ This event is offered free for all folks with Facilitator Cards. If you would li
 
 ## Recording & Slides
 
-Here is the link for the recording of the first hour of the November Brain Jam.
+Here is the link for the recording of the first hour of the November Brain Jam. [https://youtu.be/zp-dNovI4-A](https://youtu.be/zp-dNovI4-A "https://youtu.be/zp-dNovI4-A")
 
-If you click here you can also watch the second hour of the Brain Jam. The second hour of the Brain Jam was a free-flowing conversation about triggers, our responsibilities as facilitators, checking in with participants being triggered, and more. Think of this more as a panel podcast on triggers.
+If you click here you can also watch the second hour of the Brain Jam TK HOUR TWO. The second hour of the Brain Jam was a free-flowing conversation about triggers, our responsibilities as facilitators, checking in with participants being triggered, and more. Think of this more as a panel podcast on triggers.
 
 \[TK YOUTUBE VID for HOUR ONE\]
 
