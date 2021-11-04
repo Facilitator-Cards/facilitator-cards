@@ -1,7 +1,6 @@
 +++
 date = 2021-11-04T16:00:00Z
 description = ""
-draft = true
 priority = -1
 title = "Navigating Triggers for Facilitators"
 
