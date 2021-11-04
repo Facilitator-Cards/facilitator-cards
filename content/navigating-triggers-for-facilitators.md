@@ -25,13 +25,13 @@ If you click here you can also watch the second hour of the Brain Jam. The secon
 
 \[TK YOUTUBE VID for HOUR ONE\]
 
-If you're interested in the [AhaSlide deck](https://presenter.ahaslides.com/share/triggers-1635857949592-qz7ez9xkd9) we used yesterday you can find that [here](https://presenter.ahaslides.com/share/triggers-1635857949592-qz7ez9xkd9). (Bonus: If you want to try out AhaSlides if you [use this referral code](https://presenter.ahaslides.com/pages/register?referral-code=13ZJXU9QRY) you'll get a free small event and we get $5 in credit!)
+If you're interested in the [AhaSlide deck](https://presenter.ahaslides.com/share/triggers-1635857949592-qz7ez9xkd9) we used yesterday you can find that [here](https://presenter.ahaslides.com/share/triggers-1635857949592-qz7ez9xkd9).
 
 ## Resources about Triggers
 
 Here is the article from [Dr. Kathy Obear on the Triggering Events Cycle](https://www.vanderbilt.edu/oacs/wp-content/uploads/sites/140/Navigating-Triggers.pdf) if you'd like to read more about Dr. Kathy's model.
 
-Triggering Events Traffic Circle that I shared with you yesterday can also be found in Ch 9 of Unlocking the Magic of Facilitation. You can download the full book here (or buy it where books are sold) or [just download the chapter here](https://www.facilitating.xyz/chapter-9-unlocking-the-magic-of-facilitation-triggers/).![](/img/blog/screen-shot-2021-11-04-at-7-46am.png)
+Triggering Events Traffic Circle that I shared with you yesterday can also be found in Ch 9 of Unlocking the Magic of Facilitation. You can [download the full book here](facilitationmagic.com) (or buy it where books are sold) or [just download the chapter here](https://www.facilitating.xyz/chapter-9-unlocking-the-magic-of-facilitation-triggers/).![](/img/blog/screen-shot-2021-11-04-at-7-46am.png)
 
 Here is a handout of the [Triggering Events Traffic Circle](https://drive.google.com/file/d/1ZeET9KJHcQcwi9Sj0paTD9RXFz2yJYdL/view).
 
@@ -47,15 +47,15 @@ If you would like additional support, resources, and practice before you go live
 
 If you're looking for a community of facilitators that you can grow and learn, you've found the right crew.
 
-At Facilitator Cards we're always putting on events and creating resources for facilitators by facilitators. We work with companies and organizations to train up their facilitators (let us know fi you want to work together!) and we also host free events and open enrollment sessions throughout the year.
+At Facilitator Cards we're always putting on events and creating resources for facilitators by facilitators. We work with companies and organizations to train up their facilitators (let us know if you want to work together!) and we also host free events and open enrollment sessions throughout the year. 
 
-https://lu.ma/facilitatorcards
+Which you can always find at https://lu.ma/facilitatorcards
 
 ### December Intensive
 
 We have a 1-day facilitation intensive coming up in December (registration includes Facilitator Cards!) which is going to be an awesome event all about the art of facilitation, our learning edges as facilitators, and how we can more creatively and quickly build agendas and plans that meet our participants right where they are.
 
-Register here for the December Intensive
+[**Register here for the December Intensive**](https://lu.ma/iwt6zqpq)
 
 ### Follow us!
 
