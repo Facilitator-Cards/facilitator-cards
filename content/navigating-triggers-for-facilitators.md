@@ -21,9 +21,9 @@ This event is offered free for all folks with Facilitator Cards. If you would li
 
 Here is the link for the recording of the first hour of the November Brain Jam. [https://youtu.be/zp-dNovI4-A](https://youtu.be/zp-dNovI4-A "https://youtu.be/zp-dNovI4-A")
 
-If you click here you can also watch the second hour of the Brain Jam TK HOUR TWO. The second hour of the Brain Jam was a free-flowing conversation about triggers, our responsibilities as facilitators, checking in with participants being triggered, and more. Think of this more as a panel podcast on triggers.
+If you click here you can also watch the [second hour of the Brain Jam](https://youtu.be/VVKz34aeudM). The second hour of the Brain Jam was a free-flowing conversation about triggers, our responsibilities as facilitators, checking in with participants being triggered, and more. Think of this more as a panel podcast on triggers.
 
-\[TK YOUTUBE VID for HOUR ONE\]
+{{< youtube zp-dNovI4-A >}}
 
 If you're interested in the [AhaSlide deck](https://presenter.ahaslides.com/share/triggers-1635857949592-qz7ez9xkd9) we used yesterday you can find that [here](https://presenter.ahaslides.com/share/triggers-1635857949592-qz7ez9xkd9).
 
@@ -47,7 +47,7 @@ If you would like additional support, resources, and practice before you go live
 
 If you're looking for a community of facilitators that you can grow and learn, you've found the right crew.
 
-At Facilitator Cards we're always putting on events and creating resources for facilitators by facilitators. We work with companies and organizations to train up their facilitators (let us know if you want to work together!) and we also host free events and open enrollment sessions throughout the year. 
+At Facilitator Cards we're always putting on events and creating resources for facilitators by facilitators. We work with companies and organizations to train up their facilitators (let us know if you want to work together!) and we also host free events and open enrollment sessions throughout the year.
 
 Which you can always find at https://lu.ma/facilitatorcards
 
