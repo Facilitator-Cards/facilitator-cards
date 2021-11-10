@@ -53,8 +53,6 @@ You don’t have to think creatively in a pinch, once you have your backup stack
 
 Every Facilitator Card has a key up at the top of the card to identify if the process should be run in pairs, small groups, full groups, or individually. When you need to create an instant plan to find peace, look for the individual or pairs icon up at the top!
 
-\[insert pic with two different cards, circle the individual and pairs icons\]
-
 Say you planned to do Spectrum Questions, swap it out for Pair & Share, Minute Papers, or Declarative Pairs to give yourself the space to get back to baseline while your participants can remain engaged without your guidance.
 
 ## Plug-And-Play
