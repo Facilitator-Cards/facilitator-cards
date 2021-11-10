@@ -8,7 +8,7 @@ featured_image = "/img/blog/img_9494.png"
 images = ["/img/blog/img_9494.png", "/img/blog/screen-shot-2021-11-10-at-9-27am.png"]
 keywords = ["facilitation", "triggers", "facilitator cards"]
 photo_cred = "Facilitator Cards Team"
-title = "A Practical Guide for how to Reduce Your Triggers using Facilitator Cards "
+title = "How to Reduce Your Triggers using Facilitator Cards "
 
 +++
 At the Brain Jam last week we talked about understanding what happens when we get triggered and brainstormed different strategies we can use in those moments to come back to being present.
