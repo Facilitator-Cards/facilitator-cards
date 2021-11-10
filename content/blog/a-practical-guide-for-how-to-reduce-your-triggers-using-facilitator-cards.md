@@ -1,13 +1,13 @@
 +++
 author = "Meg Bolger"
 categories = "Using Facilitator Cards"
-date = 2021-11-10T15:00:00Z
+date = 2021-11-10T14:00:00Z
 description = "Triggers are tricky as a facilitator, let's make it easier."
 facebook_discussion = ""
 featured_image = "/img/blog/img_9494.png"
 images = ["/img/blog/img_9494.png", "/img/blog/screen-shot-2021-11-10-at-9-27am.png"]
 keywords = ["facilitation", "triggers", "facilitator cards"]
-photo_cred = ""
+photo_cred = "Facilitator Cards Team"
 title = "A Practical Guide for how to Reduce Your Triggers using Facilitator Cards "
 
 +++
@@ -60,10 +60,6 @@ Say you planned to do Spectrum Questions, swap it out for Pair & Share, Minute P
 ## Plug-And-Play
 
 If you know going into a session that there is a high chance of being triggered, one of our best tips to prepare is to create a go-to backup sequence. You can have a generic one (that you could use in any circumstance) or you could have a specific one for specific triggers that pop up.
-
-A sequence that might work in lots of circumstances would be:
-
-\[this will be a flowchart/picture format\] \[Minute Papers then Pair & Share then I Know vs I Wonder\]
 
 Have your participants journal for one minute about how they are feeling, pair share their thoughts on what’s happened so far (or on a specific moment of time if you think the group was triggered too), and then finish up with an I Know vs. I Wonder list.
 
