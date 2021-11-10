@@ -3,7 +3,6 @@ author = "Meg Bolger"
 categories = "Using Facilitator Cards"
 date = 2021-11-10T15:00:00Z
 description = "Triggers are tricky as a facilitator, let's make it easier."
-draft = true
 facebook_discussion = ""
 featured_image = "/img/blog/img_9494.png"
 images = ["/img/blog/img_9494.png", "/img/blog/screen-shot-2021-11-10-at-9-27am.png"]
