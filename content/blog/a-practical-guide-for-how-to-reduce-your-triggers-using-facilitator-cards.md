@@ -5,20 +5,20 @@ date = 2021-11-10T15:00:00Z
 description = "Triggers are tricky as a facilitator, let's make it easier."
 draft = true
 facebook_discussion = ""
-featured_image = ""
-images = ["/img/blog/screen-shot-2021-11-10-at-9-27am.png"]
+featured_image = "/img/blog/img_9494.png"
+images = ["/img/blog/img_9494.png", "/img/blog/screen-shot-2021-11-10-at-9-27am.png"]
 keywords = ["facilitation", "triggers", "facilitator cards"]
 photo_cred = ""
 title = "A Practical Guide for how to Reduce Your Triggers using Facilitator Cards "
 
 +++
-At the Brain Jam last week we talked about understanding what happens when we get triggered and brainstormed different strategies we can use in those moments to come back to being present.  
-  
+At the Brain Jam last week we talked about understanding what happens when we get triggered and brainstormed different strategies we can use in those moments to come back to being present.
+
 If you missed the Brain Jam and are curious about what happens when you’re triggered and strategies for navigating those moments we’ve got two ways for you to dig in.
 
 The first is to watch the Jam!
 
-\[embed YT here\]
+{{< youtube zp-dNovI4-A >}}
 
 The second is to read Ch. 9 of Unlocking the Magic of Facilitation called Triggers which you can download here: [https://www.facilitating.xyz/chapter-9-unlocking-the-magic-of-facilitation-triggers/](https://www.facilitating.xyz/chapter-9-unlocking-the-magic-of-facilitation-triggers/ "https://www.facilitating.xyz/chapter-9-unlocking-the-magic-of-facilitation-triggers/")
 
@@ -44,7 +44,6 @@ Having physical Facilitator Cards laid out in front of you provides comfort, gro
 
 Facilitator Cards make Plan-B’s super simple.
 
-  
 ![](/img/blog/screen-shot-2021-11-10-at-9-27am.png)
 
 [See the full Instagram Post](https://www.instagram.com/p/CTM5EqArw7t/)
