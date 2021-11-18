@@ -9,46 +9,46 @@ featured_image = ""
 images = []
 keywords = []
 photo_cred = ""
-title = "The Facilitator Cards Gift Guide for Tech & Software-(copy)"
+title = "The Facilitator Cards Gift Guide for Facilitator Gear"
 
 +++
-It's officially giving season! For our fellow facilitators, we wanted to put together & share a few of our favorite technology/software things. These are awesome items or subscriptions to gift a fellow facilitator (or hey, add them to your wishlist!). 
+It's officially giving season! For our fellow facilitators, we wanted to put together & share a few of our favorite things when it comes to facilitation.
 
-We use and love all of the items recommended below!
+We use most of the items below all the time or have heard incredible things about the ones we don't!
 
 ## What We Recommend
 
-#### [STREAMDECK](https://www.elgato.com/en/stream-deck) ($149.99)
+#### [FACILITATOR CARDS](https://shop.facilitator.cards/products/facilitator-cards?utm_campaign=Shop%20Now&utm_medium=nav&utm_source=fc) ($74.99)
 
-Stream Deck makes it possible to easily switch & manage things in OBS (no more screen-shares!), queue up all the text I want to send in the chat, and manage multiple timers. I won't facilitate another virtual workshop without it!
+Put simply, these are our favorite tool for facilitators — new or seasoned. We use them to plan every single session we run and they are beloved thousands of facilitators in 25+ countries! Our favorite cards we've ever created 😉.
 
-### [EPOCCAM](https://www.elgato.com/en/epoccam) ($7.99)
+### [FACILITATOR HAT](https://shop.facilitator.cards/collections/merch/products/facilitator-hat) ($29.00)
 
-Turns your iPhone into a webcam! Instantly use one of the best cameras in your house as a webcam. Our favorite use for it? Have it above your desk and point it down for the perfect desk overhead shot – without having to buy a separate camera.
+Put your facilitator hat on! We make this joke all the time, so we finally made the hat. They're comfy, they're made to order, and they are a physical version of an inside joke. Know who your people are immediately — anybody who likes this hat is a facilitator.
 
-### [AHASLIDES](https://ahaslides.com/v1/) (Plans range from Free to $15.95)
+### [BODY PARTS DEBRIEF](https://www.trainingwheelsgear.com/products/body-part-deluxe) ($34.99)
 
-Our favorite way to get responses from large groups of people and share them back in live time. It's live polling software that is so fast and easy to use you can make slides mid-facilitation which allows for incredible flexibility!
+One of our all-time favorite ways to wrap up an in-person event. Have people connect their body to their mind while having something squishy to hold (oddly enough, that makes people more likely to share!).
 
-### [OBS](https://obsproject.com/) (Free!)
+### [WE! CONNECT CARDS](https://weand.me/product/we-connect-cards/) ($25.00)
 
-The best _free_ software! Give yourself the gift of a free tool that will change every session you run. Never screen share again! Keep people engaged with your face and information while you switch between multiple camera views with ease.
+Brilliant icebreaker questions for when you're feeling uncreative and really cool/subtle ways to get to know who is in the room. One of our favorite kick-offs to in-person events is handing out these cards and doing a few question slots.
 
-### [CONVERTKIT](https://convertkit.com/) (Plans range from Free to $25.00)
+### [CLIMER CARDS](https://climercards.com/buy-now/) ($25.00)
 
-Makes it quick & easy to draft and send an email (much faster than Mail Chimp!) while also providing beautiful ways to automate sequences of emails and create excellent landing pages for specific events, products, or resources.
+Asking people to share how they're feeling & thinking through a visual metaphor invites people to share more freely and often gets the people who are hesitant to share to open up to the group. Plus! They come with a virtual version for use online.
 
-### [LU.MA](https://lu.ma/) (Plans range from Free to $39.00)
+### [FACILITATORGEAR.COM]() (prices vary)
 
-An elegant & easy platform to use for event registration. Our favorite feature? Lu.ma will tell participants what time the event is in their local time on the event page. Free for free events, paid for paid events. And hey, they've even got a tip jar feature!
+[Facilitatorgear.com](http://facilitatorgear.com/) is a new website that our leader Meg helped launch recently. It's where Facilitator Geeks get to review facilitator gear – like card decks! Check out all the options & insightful reviews over on faciliatatorgear.com!
 
-### [MOSSY EARTH](https://www.mossy.earth/) ($12.50/month)
+### [CATCHBOX]() ($449)
 
 If you travel, shop online, or use electricity you create a carbon footprint. Mossy Earth is our favorite partner to do eco-restoration and plant native trees around the world to help lower our carbon impact. Also makes an excellent gift for anyone who travels frequently, even if they're not a facilitator!
 
 ### [AIRTABLE](https://airtable.com/invite/r/SfqPiwTs) (Plans range from Free to $24.00)
 
-An incredible way to make databases of participants, automate data entry, and a more professional, flexible (and beautiful) replacement for any Google Form. Really cool interactive features and limitless creativity. And the free version is boss! 
+An incredible way to make databases of participants, automate data entry, and a more professional, flexible (and beautiful) replacement for any Google Form. Really cool interactive features and limitless creativity. And the free version is boss!
 
 (*Affiliate link provided, if you use our link to sign-up it's totally free for you & Airtable sends us $10.)
 
