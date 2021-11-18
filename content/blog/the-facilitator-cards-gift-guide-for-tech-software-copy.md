@@ -44,13 +44,13 @@ Asking people to share how they're feeling & thinking through a visual metaphor 
 
 ### [CATCHBOX]() ($449)
 
-If you travel, shop online, or use electricity you create a carbon footprint. Mossy Earth is our favorite partner to do eco-restoration and plant native trees around the world to help lower our carbon impact. Also makes an excellent gift for anyone who travels frequently, even if they're not a facilitator!
+Catchbox is a microphone you can literally throw around the audience to hear back from your participants (throw me the mic!). We've never been more excited about a microphone and it's been a classic all these years for a reason.
 
-### [AIRTABLE](https://airtable.com/invite/r/SfqPiwTs) (Plans range from Free to $24.00)
+### SERIOUS PLAY SETS BY LEGO (kits range from $36.99 to $789.99)
 
-An incredible way to make databases of participants, automate data entry, and a more professional, flexible (and beautiful) replacement for any Google Form. Really cool interactive features and limitless creativity. And the free version is boss!
+Who says you have to grow up? Because it sure isn't LEGO! These perfect little pouches to hand out to participants so they can build & create with LEGO. Taking visual metaphors and externalizing your ideas to a whole new level.
 
-(*Affiliate link provided, if you use our link to sign-up it's totally free for you & Airtable sends us $10.)
+***
 
 We hope you've gotten some ideas or items! Wishing everyone a wonderful holiday season.
 
