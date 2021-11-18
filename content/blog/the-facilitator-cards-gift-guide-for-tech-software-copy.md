@@ -18,7 +18,7 @@ We use most of the items below all the time or have heard incredible things abou
 
 ## What We Recommend
 
-#### [FACILITATOR CARDS](https://shop.facilitator.cards/products/facilitator-cards?utm_campaign=Shop%20Now&utm_medium=nav&utm_source=fc) ($74.99)
+### [FACILITATOR CARDS](https://shop.facilitator.cards/products/facilitator-cards?utm_campaign=Shop%20Now&utm_medium=nav&utm_source=fc) ($74.99)
 
 Put simply, these are our favorite tool for facilitators — new or seasoned. We use them to plan every single session we run and they are beloved thousands of facilitators in 25+ countries! Our favorite cards we've ever created 😉.
 
