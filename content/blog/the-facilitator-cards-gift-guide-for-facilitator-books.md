@@ -1,13 +1,13 @@
 +++
 author = "Meg Bolger"
-categories = ""
+categories = "resources"
 date = ""
 description = "Recommendations for all the Facilitators in your life (or yourself, we won't judge!)"
 draft = true
 facebook_discussion = ""
 featured_image = "/img/blog/22.png"
 images = ["/img/blog/22.png"]
-keywords = []
+keywords = ["facilitator gift guide", "gift guide", "facilitator cards"]
 photo_cred = ""
 title = "The Facilitator Cards Gift Guide for Facilitator Books"
 
