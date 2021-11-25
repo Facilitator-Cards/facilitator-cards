@@ -14,7 +14,9 @@ title = "The Facilitator Cards Gift Guide for Facilitator Gear"
 +++
 It's officially giving season and who doesn’t need a few more pieces of gear for your facilitator box! For our fellow facilitation geeks, we wanted to put together & share a few of our favorite pieces of gear for facilitation.
 
-We tried to keep our list to just things that we use all the time, but we included a few that are on our wishlist too!
+We tried to keep our list to just things that we use all the time, but we included a few that are on our wishlist too! 
+
+We're rounding up any Black Friday deals & discounts on these products over on our Twitter, so [check the thread](https://twitter.com/FacilitatorCard/status/1463877050721263622) to see what you can save on!
 
 So without further ado:
 
