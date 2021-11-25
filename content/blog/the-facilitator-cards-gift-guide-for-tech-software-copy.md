@@ -3,7 +3,6 @@ author = "Meg Bolger"
 categories = "resources"
 date = ""
 description = "Recommendations for all the Facilitators in your life (or yourself, we won't judge!)"
-draft = true
 facebook_discussion = ""
 featured_image = "/img/blog/11.png"
 images = ["/img/blog/11.png"]
