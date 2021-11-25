@@ -1,7 +1,7 @@
 +++
 author = "Meg Bolger"
 categories = "resources"
-date = ""
+date = 2021-11-25T05:00:00Z
 description = "Recommendations for all the Facilitators in your life (or yourself, we won't judge!)"
 facebook_discussion = ""
 featured_image = "/img/blog/1.png"
