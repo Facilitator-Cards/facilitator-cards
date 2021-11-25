@@ -14,6 +14,8 @@ You're looking for a way to reach us? Well, consider us flattered. The email add
 We'd love to connect! Catch us on:
 
 * [Instagram](https://instagram.com/facilitatorcards)
+* [YouTube](https://www.youtube.com/facilitatorcards)
+* [LinkedIn](https://www.linkedin.com/company/facilitatorcards)
 * [Facebook](https://facebook/facilitatorcards)
 * [Twitter](https://twitter.com/facilitatorcard)
 
@@ -24,5 +26,6 @@ For bulk orders please contact us at [hello@facilitator.cards](mailto:hello@fac
 ## Mailing Address
 
 Facilitator Cards  
-P.O. Box 7897  
-Tacoma, WA 98417
+\#171  
+32 Main St   
+Montpelier, VT 05604
