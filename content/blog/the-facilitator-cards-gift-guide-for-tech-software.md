@@ -51,8 +51,6 @@ We have done multiple events on OBS and you can [watch a demo of it here](https:
 
 Makes it quick & easy to draft and send an email (much faster than Mail Chimp!) while also providing beautiful ways to automate sequences of emails and create excellent landing pages for specific events, products, or resources.
 
-If you use this link to sign up for ConvertKit you’ll be able to use ConvertKit for free for up to 1000 subscribers and we’ll get an affiliate fee if you ever decide to upgrade.
-
 ### [**LU.MA**](https://lu.ma/) **(Plans range from Free to $39.00)**
 
 An elegant & easy platform to use for event registration. Our favorite feature? Lu.ma will tell participants what time the event is in their local time on the event page. Free for free events, paid for paid events. And hey, they've even got a tip jar feature!
