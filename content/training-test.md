@@ -34,7 +34,3 @@ This training is offered as a 2-hour, 3.5-hour, or full-day course. A cohort mod
 The ideal group size for each training is 10-25 people. Smaller and larger groups can be accommodated upon request.
 
 All participants in every facilitator training will receive a deck of Facilitator Cards and the training always includes how to effectively integrate these methods into their work.
-
-<a href=" [https://airtable.com/shrI4jDBIhjJPeK8V](https://airtable.com/shrI4jDBIhjJPeK8V "https://airtable.com/shrI4jDBIhjJPeK8V")" class="biglink">Fill Out the Interest Form →</a>
-
-[**Send us an email to tell us about you!**](mailto: hello@facilitator.cards)
