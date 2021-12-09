@@ -1,7 +1,6 @@
 +++
 date = ""
 description = ""
-draft = true
 priority = -1
 title = "Training-Test"
 
