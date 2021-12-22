@@ -21,7 +21,7 @@ In this session, we’ll focus on developing your abilities as a facilitator, as
 ## **You'll then be able to...**
 
 * Run highly participatory meetings
-* Shift presentations and lectures towards being more interactive sessions
+* Identify what is best as a presentation and when to shift towards interactive sessions
 * Understand how to surface emotions, generate ideas, and make decisions without power dynamics interfering or letting a few people dominate the process
 * Encourage discussion, manage debate, and ensure important questions are addressed
 * Use meetings to increase camaraderie and create cohesion
