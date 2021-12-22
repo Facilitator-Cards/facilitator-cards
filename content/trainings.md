@@ -12,7 +12,15 @@ We believe that facilitation is a skill that everyone can learn. Whether you're 
 
 <div style="margin: 1.5em auto; font-size:.8em;" class="pad type-wrap rainbow-bg rounded"><p style="margin: 0 auto;">👋 These classes are for folks looking to book an event for their organization or team. If you're looking to take a class as an individual,check out our <a href="https://lu.ma/facilitatorcards"><strong> Lu.ma page </strong></a> for all upcoming events.</p></div>
 
-## **Our philosophies at Facilitator Cards:**
+## Our Offerings
+
+Facilitator Training For Managers & Directors
+
+Facilitation Fundamentals
+
+Facilitating for DEI Committees & Social Justice Educators
+
+## Our philosophies at Facilitator Cards:
 
 * Everyone can learn how to be a facilitator
 * When we know what choices we can make as a facilitator, we feel more empowered when it comes to leading and designing meetings, trainings, and workshops
@@ -21,14 +29,6 @@ We believe that facilitation is a skill that everyone can learn. Whether you're 
 Our trainings are designed to do more than just help you figure out how to use Facilitator Cards. They are immersive experiences created to help you understand the fundamentals of facilitation and what choices you get to make as a facilitator, as well as being opportunities to practice honing your instincts as a facilitator.
 
 The trainings below are some of our regular offerings. If there is something that you're interested in that you don't see, drop us an email at hello@facilitator.cards and we'll get right back to you.
-
-## Our Offerings
-
-Facilitator Training For Managers & Directors
-
-Facilitation Fundamentals
-
-Facilitating for DEI Committees & Social Justice Educators
 
 ### Looking for a custom training?
 
