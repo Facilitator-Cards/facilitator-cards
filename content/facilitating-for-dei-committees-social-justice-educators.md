@@ -3,7 +3,7 @@ date = 2021-12-22T20:00:00Z
 description = ""
 draft = true
 priority = 1
-title = "Facilitating for DEI Committees & Social Justice Educators"
+title = "Facilitating for DEI Committees and Social Justice Educators"
 
 +++
 As advocates, we know how important it is to bring people together to have difficult conversations, and how critical our role is in creating environments that allow people to face, address, and discuss the topic at hand.

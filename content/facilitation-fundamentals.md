@@ -1,7 +1,6 @@
 +++
 date = 2021-12-22T20:00:00Z
 description = ""
-draft = true
 priority = 1
 title = "Facilitation Fundamentals"
 
