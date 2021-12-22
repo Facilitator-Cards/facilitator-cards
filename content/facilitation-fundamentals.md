@@ -40,6 +40,6 @@ The ideal group size for each training is 8-16 people. Smaller and larger groups
 
 All participants in every facilitator training will receive a deck of Facilitator Cards and the training always includes how to effectively integrate Facilitator Cards frameworks into their work.
 
-<div style="margin: 1.5em auto; font-size:.8em;" class="pad type-wrap rainbow-bg rounded"><p style="margin: 0 auto;"> <a href="[https://airtable.com/shrTSIhiQhEEQmqAl](https://airtable.com/shrTSIhiQhEEQmqAl "https://airtable.com/shrTSIhiQhEEQmqAl")"><strong> Fill out the interest form here! </strong></a>
+<div style="margin: 1.5em auto; font-size:.8em;" class="pad type-wrap rainbow-bg rounded"><p style="margin: 0 auto;"> <a href="[https://airtable.com/shrTSIhiQhEEQmqAl](https://airtable.com/shrTSIhiQhEEQmqAl "https://airtable.com/shrTSIhiQhEEQmqAl")"><strong> Fill out the interest form here! </strong></a></p></div>
 
 or get in touch at hello@facilitator.cards
