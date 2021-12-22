@@ -2,7 +2,7 @@
 date = 2021-12-22T20:00:00Z
 description = ""
 priority = nil
-title = "Facilitator Training For Managers & Directors"
+title = "Facilitator Training For Managers and Directors"
 
 +++
 Whether it's meeting with your team or leading an all-hands, running effective meetings that make people feel vital, valued, and included is an essential skill as a leader. And yet it's one that people rarely get any training or support in learning how to do well.
