@@ -1,7 +1,7 @@
 +++
 date = 2021-12-22T20:00:00Z
 description = ""
-priority = nil
+priority = 1
 title = "Facilitator Training For Managers and Directors"
 
 +++
