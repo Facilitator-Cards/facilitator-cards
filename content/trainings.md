@@ -10,7 +10,7 @@ weight = 4
 +++
 We believe that facilitation is a skill that everyone can learn. Whether you're trying to get better at running workshops online, holding containers for messy conversations, or getting more folks to participate in your team meetings, facilitation is an essential skill.
 
-<div style="margin: 1.5em auto; font-size:.8em;" class="pad type-wrap rainbow-bg rounded"><p style="margin: 0 auto;">👋 These classes are for folks looking to book an event for their organization or team. If you're looking to take a class as an individual,check out our <a href="https://lu.ma/facilitatorcards"><strong> Lu.ma page </strong></a> for all upcoming events.</p></div>
+<div style="margin: 1.5em auto; font-size:.8em;" class="pad type-wrap rainbow-bg rounded"><p style="margin: 0 auto;">👋  If you're looking to take attend a training as an individual, check out our <a href="https://lu.ma/facilitatorcards"><strong> Lu.ma page </strong></a> for all upcoming events. The trainings listed below are for folks looking to book an event for their organization or team. </p></div>
 
 ## Our Offerings
 
