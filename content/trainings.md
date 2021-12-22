@@ -5,7 +5,7 @@ priority = 1
 title = "Trainings"
 [menu.main]
 name = "Training"
-weight = 6
+weight = 4
 
 +++
 We believe that facilitation is a skill that everyone can learn. Whether you're trying to get better at running workshops online, holding containers for messy conversations, or getting more folks to participate in your team meetings, facilitation is an essential skill.
