@@ -14,15 +14,15 @@ unsafe = true
 [[menu.main]]
 name = "Contact Us!"
 url = "/contact/"
-weight = 8
+weight = 9
 [[menu.main]]
 name = "Virtual Guide"
 url = "https://virtual.facilitator.cards"
-weight = 7
+weight = 8
 [[menu.main]]
 name = "The Blog"
 url = "/blog/"
-weight = 6
+weight = 7
 [[menu.main]]
 name = "How To Use"
 url = "/how/"
