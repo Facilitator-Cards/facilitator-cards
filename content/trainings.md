@@ -14,7 +14,7 @@ We believe that facilitation is a skill that everyone can learn. Whether you're 
 
 ## Our Offerings
 
-Facilitator Training For Managers & Directors
+[Facilitator Training For Managers & Directors](https://www.facilitator.cards/facilitator-training-for-managers-directors/)
 
 Facilitation Fundamentals
 
