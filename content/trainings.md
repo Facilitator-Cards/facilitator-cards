@@ -16,9 +16,9 @@ We believe that facilitation is a skill that everyone can learn. Whether you're 
 
 ### [**Facilitator Training For Managers & Directors**](https://www.facilitator.cards/facilitator-training-for-managers-directors/)
 
-[**Facilitation Fundamentals**](https://www.facilitator.cards/facilitation-fundamentals/)
+### [**Facilitation Fundamentals**](https://www.facilitator.cards/facilitation-fundamentals/)
 
-[**Facilitating for DEI Committees & Social Justice Educators**](https://www.facilitator.cards/facilitating-for-dei-committees-social-justice-educators/)
+### [**Facilitating for DEI Committees & Social Justice Educators**](https://www.facilitator.cards/facilitating-for-dei-committees-social-justice-educators/)
 
 ## Our philosophies at Facilitator Cards:
 
