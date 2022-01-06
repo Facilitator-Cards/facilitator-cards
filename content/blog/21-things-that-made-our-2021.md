@@ -41,6 +41,6 @@ Inspired by Austin Kleon’s [100 things post](https://austinkleon.com/2021/12/3
 20. Our team! There are now more people than Meg making this thing tick. from our do-everything behind the scenes administrative crew to our Council of Awesome. If you want to help [join in!](https://airtable.com/shryc5DgEh1s3RG2d?ck_subscriber_id=1449938820)
 21. **Getting to connect with facilitators like you.** Truly. Having new facilitation friends all around the world and getting to see those people make connections in our community is one of the deepest joys of building this community, running this business, and getting to be part of something new.
 
-Excited to see what 2022 has in store for all of us!
+Excited to see what 2022 has in store!
 
 Meg & the Facilitator Cards Team
