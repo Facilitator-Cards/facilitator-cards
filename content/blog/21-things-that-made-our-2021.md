@@ -3,7 +3,6 @@ author = "Meg Bolger"
 categories = "About us"
 date = 2022-01-06T05:00:00Z
 description = "Connection, community, and relocating clear across the country, we made some big moves in 2021. "
-draft = true
 facebook_discussion = ""
 featured_image = "/img/blog/img_9352.jpg"
 images = ["/img/blog/screen-shot-2022-01-06-at-8-28-55-am.png", "/img/blog/img_9352.jpg", "/img/blog/screen-shot-2022-01-05-at-10-04-41-am.png"]
