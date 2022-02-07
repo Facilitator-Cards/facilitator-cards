@@ -1,5 +1,5 @@
 ---
-title: 'Free DIY Mini Deck: Get the Preview Pack - Start Using Facilitator Cards Today'
+title: 'Free DIY Mini Deck: Get the Preview Pack'
 cta: Get Your Free Cards Now
 type: landing
 url: preview-pack
