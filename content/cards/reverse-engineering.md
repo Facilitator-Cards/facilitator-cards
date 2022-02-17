@@ -5,7 +5,9 @@ for: "ideation"
 prop_1: "paper"
 prop_2: "writing utensils"
 prop_3: ""
-explanation: "Ask participants to imagine that they\'re in a future where you\'ve accomplished your goals or achieved perfection in regards to a particular concept. Viewing that finished product, what steps were taken to accomplish it? What pitfalls were avoided? Have them record their reflections on paper. State your intentions for sharing before they start writing. HEY"
+explanation: "Ask participants to imagine that they\'re in a future where you\'ve accomplished your goals or achieved perfection in regards to a particular concept. Viewing that finished product, what steps were taken to accomplish it? What pitfalls were avoided? Have them record their reflections on paper. State your intentions for sharing before they start writing.
+
+{{< youtube jE0EJLI2JtA >}}"
 longer_context: "Pass out paper and writing utensils to participants. After everyone has supplies, provide initial context for the activity. Give the instructions, asking participants to imagine they’re in a future where whatever you’re currently concerned with (i.e., the project, goal, concept, idea) is perfect. A utopian version of whatever you’re focusing on. Pause for a moment so they can reflect on that idea.
 
 This is one of those situations where the old adage “there is no ‘correct’ answer” answer applies. You want to encourage them to come up with as bold, creative, or unique of an idea for their future as they feel compelled to imagine. No limitations and this won’t be graded. It’s okay if everyone’s answers are different. If you’re going to be having them share their reflections, tell them that up front.
