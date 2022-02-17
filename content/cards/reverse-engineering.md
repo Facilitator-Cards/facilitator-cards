@@ -44,8 +44,10 @@ stacks: "**Reverse Engineering + Subcommittees =** After participants have their
 **Reverse Engineering + Sticky Note Generator + Urgent vs. Important Grid =** Instead of capturing their reverse engineering ideas in a list, have them generate stickies. After they’re done, create a giant *Urgent vs. Important Grid* and have participants add their stickies to the grid.
 
 **Reverse Engineering + Mindmapping =** After participants have all generated their own list, have them share ideas with the full group. Capture unique ideas on sticky notes. After everyone has shared, create a mindmap with the stickies, adding nodes for the themes that you see in their ideas. Alternatively, you could make a mindmap as people share, but the sticky notes make it simpler to move ideas around as themes emerge."
-zooming: ""
+zooming: "https://virtual.facilitator.cards/processes/red-team-vs-blue-team"
 
 ---
 
 Ask participants to imagine that they're in a future where you've accomplished your goals or achieved perfection in regards to a particular concept. Viewing that finished product, what steps were taken to accomplish it? What pitfalls were avoided? Have them record their reflections on paper. State your intentions for sharing before they start writing.
+
+
