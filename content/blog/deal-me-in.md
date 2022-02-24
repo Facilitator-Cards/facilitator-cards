@@ -8,7 +8,7 @@ featured_image = "/img/blog/img_0469.JPG"
 images = ["/img/blog/img_0469.JPG"]
 keywords = ["education", "facilitator tools", "professional development", "scholarship"]
 photo_cred = ""
-title = "The Deal Me In Scholarship Fun"
+title = "The Deal Me In Scholarship Fund"
 
 +++
 **Facilitation can change the world.**
