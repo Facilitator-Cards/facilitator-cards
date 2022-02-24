@@ -3,7 +3,6 @@ author = "Meg Bolger"
 categories = ""
 date = 2022-02-24T16:00:00Z
 description = "Our Scholarship Fund for Under-resourced Educators"
-draft = true
 facebook_discussion = ""
 featured_image = "/img/blog/img_0469.JPG"
 images = ["/img/blog/img_0469.JPG"]
