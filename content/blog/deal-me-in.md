@@ -2,13 +2,13 @@
 author = "Meg Bolger"
 categories = ""
 date = 2022-02-24T16:00:00Z
-description = "Our Scholarship Fund for Under-resourced Educators"
+description = "Announcing Our Fund for Supporting Under-resourced Educators"
 facebook_discussion = ""
 featured_image = "/img/blog/img_0469.JPG"
 images = ["/img/blog/img_0469.JPG"]
 keywords = ["education", "facilitator tools", "professional development", "scholarship"]
 photo_cred = ""
-title = "Deal Me In"
+title = "The Deal Me In Scholarship Fun"
 
 +++
 **Facilitation can change the world.**
