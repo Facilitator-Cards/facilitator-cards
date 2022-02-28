@@ -17,9 +17,9 @@ _We will update this section as new guides are made!_
 
 [**Virtual Facilitator Cards Facilitation Guide **](http://virtual.facilitator.cards/ )- Answers to the question, "How do I run such-and-such card on Zoom?"
 
-[**Run Better Meetings Guide **](https://www.facilitator.cards/img/blog/run-better-meetings-guide.pdf)- 12 cards that can help you run better meetings (and when to use em!)
+[**Run Better Meetings Guide**](https://www.facilitator.cards/img/blog/run-better-meetings-guide.pdf) - 12 cards that can help you run better meetings (and when to use em!)
 
-[**Facilitator Cards for Teachers **](https://www.facilitator.cards/img/blog/facilitator-cards-edu.pdf)- Community-created guide with 20 cards with specific insights and ideas for classroom teachers
+[**Facilitator Cards for Teachers**](https://www.facilitator.cards/img/blog/facilitator-cards-edu.pdf) - Community-created guide with 20 cards with specific insights and ideas for classroom teachers
 
 ## Getting Started Live Training
 
