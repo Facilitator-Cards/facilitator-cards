@@ -15,7 +15,7 @@ Happy facilitating!
 
 Meg & the Facilitator Cards Team
 
-## 👇Free DIY Mini Deck Files 
+## 👇DIY Mini Deck Files 
 
 ### [#1: The DIY Facilitator Cards Mini Deck](https://www.facilitator.cards/img/blog/1-diy-facilitator-cards-mini-deck.pdf)
 
