@@ -2,7 +2,7 @@
 date = ""
 description = "Had trouble downloading the Free Mini Deck Preview Pack? We got you covered!"
 priority = 0
-title = "Preview Pack Download"
+title = "DIY Mini Deck Download"
 
 +++
 Hi there!
