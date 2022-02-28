@@ -15,7 +15,7 @@ This page is all about helping you get the most out of your deck. Click around, 
 
 _We will update this section as new guides are made!_
 
-[**Virtual Facilitator Cards Facilitation Guide **](http://virtual.facilitator.cards/ )- Answers to the question, "How do I run such-and-such card on Zoom?"
+[**Virtual Facilitator Cards Facilitation Guide**](https://virtual.facilitator.cards/) **-** Answers to the question, "How do I run such-and-such card on Zoom?"
 
 [**Run Better Meetings Guide**](https://www.facilitator.cards/img/blog/run-better-meetings-guide.pdf) - 12 cards that can help you run better meetings (and when to use em!)
 
