@@ -1,7 +1,6 @@
 +++
 date = ""
 description = "Had trouble downloading the Free Mini Deck Preview Pack? We got you covered!"
-draft = true
 priority = 0
 title = "Preview Pack Download"
 
