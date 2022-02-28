@@ -23,6 +23,6 @@ _We will update this section as new guides are made!_
 
 ## Getting Started Live Training
 
-Every month we run **🦈**  Card Sharks which is a live training with Meg, founder of Facilitator Cards, to help you get started with your deck. 0 experience or time with your cards necessary (totally okay to unbox them for the first time with us!)
+Every month we run **🦈**  Card Sharks which is a live training with Meg, founder of Facilitator Cards, to help you get started with your deck. No experience or time with your cards is necessary (totally okay to unbox them for the first time with us!)
 
-Totally free, included with your purchase of cards, sign up for Card Sharks [here](lu.ma/cardsharks)!
+Card Sharks sessions are always free for Card Carriers, sign up for the next session [here](https://lu.ma/cardsharks)!
