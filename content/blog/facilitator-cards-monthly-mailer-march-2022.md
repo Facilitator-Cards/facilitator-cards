@@ -95,11 +95,13 @@ also...
 
 🎯 [The Four Categories of Facilitator Cards & how we use them!](https://www.instagram.com/p/CaXe34FrqD2/)
 
-## **Just For Fun -** [**S*%t Facilitators Say**](https://mobile.twitter.com/ShitFacilitator)
+## **Just For Fun -** [_S_%t Facilitators Say*](https://mobile.twitter.com/ShitFacilitator)
 
 This twitter makes us laugh in the nerdiest ways. We were first turned on to it by [Priya Parker’s Instagram](https://www.instagram.com/priyaparker/) (also a worthy follow if you’re in the Insta world) and we’ve been enjoying them ever since. Some of our faves:
 
-![](/img/blog/screen-shot-2022-02-28-at-10-13-22-am.png)![](/img/blog/screen-shot-2022-02-28-at-10-13-02-am.png)Alright facilitators, that is going to do it for March’s monthly mailer. If you’re like, “dang, that was a lot of links,” you’re totally right. And if you need to find any of these links in the future, know that, starting this month, you’ll always be able to find the monthly mailer on our [Facilitator Cards blog](https://www.facilitator.cards/blog/) too! No more searching through your inbox 🤠
+![](/img/blog/screen-shot-2022-02-28-at-10-13-22-am.png)
+
+![](/img/blog/screen-shot-2022-02-28-at-10-13-02-am.png)Alright facilitators, that is going to do it for March’s monthly mailer. If you’re like, “dang, that was a lot of links,” you’re totally right. And if you need to find any of these links in the future, know that, starting this month, you’ll always be able to find the monthly mailer on our [Facilitator Cards blog](https://www.facilitator.cards/blog/) too! No more searching through your inbox 🤠
 
 Hope to see you at some of our events this month; otherwise, until our paths cross again, happy facilitating!
 
