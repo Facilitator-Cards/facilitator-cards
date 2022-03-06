@@ -11,6 +11,8 @@ And we hope you do too.
 
 This page is all about helping you get the most out of your deck. Click around, see what you find, and don't hesitate to reach out. We're always just an email away [hello@facilitator.cards]()
 
+<script async data-uid="ed781f875f" src="[https://facilitatorcards.ck.page/ed781f875f/index.js](https://facilitatorcards.ck.page/ed781f875f/index.js "https://facilitatorcards.ck.page/ed781f875f/index.js")"></script>
+
 ## Guides to Facilitator Cards
 
 _We will update this section as new guides are made!_
