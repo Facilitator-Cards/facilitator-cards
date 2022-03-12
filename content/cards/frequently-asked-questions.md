@@ -18,7 +18,7 @@ excels_at: ""
 use_when: ""
 not_when: ""
 stacks: ""
-zooming: ""
+zooming: "https://virtual.facilitator.cards/processes/frequently-asked-questions"
 
 ---
 
