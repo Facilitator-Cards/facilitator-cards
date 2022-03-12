@@ -39,8 +39,8 @@ not_when: "**You want to focus on the low hanging fruit.** The ideas that are su
 **Individuals aren’t likely to be able to imagine a clear future regarding your concept.** If they don’t have the agency to effect change, or necessary information to imagine the steps, creating a mental utopia will likely be frustrating, impossible, or unhelpful. Use *I Know vs. I Wonder* instead.
 
 **You need everyone to be on the same page.** There are likely going to be many divergent paths that result from individualized *Reverse Engineering*. If you need full group consensus, or for everyone to be working from a shared understanding, use *Opposite Thinking* instead."
-stacks: "https://youtu.be/i6muiwIqdG8"
-zooming: "https://virtual.facilitator.cards/reverse-engineering-on-zoom-meg-bolger"
+stacks: ""
+zooming: "https://virtual.facilitator.cards/processes/reverse-engineering"
 
 ---
 
@@ -49,9 +49,3 @@ Ask participants to imagine that they're in a future where you've accomplished y
 ## 60 Second Tutorial
 
 {{< youtube i6muiwIqdG8 >}}
-
-## Virtual Facilitation Guide
-
-<p>In our <a href="https://virtual.facilitator.cards"> Virtual Facilitation Guide </a>, we have activities that provide you with step-by-step instructions and everything you need to facilitate Reverse Engineering in a virtual meeting using Zoom or a platform with similar features.</p>
-
-Find the write ups for Reverse Engineering <a href=“https://virtual.facilitator.cards/processes/reverse-engineering”> here </a>.
