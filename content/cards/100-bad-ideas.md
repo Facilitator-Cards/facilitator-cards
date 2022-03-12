@@ -1,5 +1,5 @@
 ---
-title: "100 (Bad) Ideas"
+title: "100 Ideas"
 group: "full group"
 for: "ideation"
 prop_1: "sticky notes"
@@ -18,7 +18,7 @@ excels_at: ""
 use_when: ""
 not_when: ""
 stacks: ""
-zooming: "https://virtual.facilitator.cards/processes/100-bad-ideas"
+zooming: "https://virtual.facilitator.cards/processes/100-ideas/"
 
 ---
 
