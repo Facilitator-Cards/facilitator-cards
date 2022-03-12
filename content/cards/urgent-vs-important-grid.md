@@ -23,3 +23,7 @@ zooming: ""
 ---
 
 Create a grid with four quadrants. Along the top, label the first column "Not Important" and the second "Important." Along the left, the first row "Urgent" and the second row "Not Urgent." Use sticky notes to place individual tasks or plans into the appropriate quadrant.
+
+## 60 Second Tutorial
+
+{{< youtube B5Aj8I3l8gU >}}
