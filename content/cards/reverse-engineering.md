@@ -39,12 +39,8 @@ not_when: "**You want to focus on the low hanging fruit.** The ideas that are su
 **Individuals aren’t likely to be able to imagine a clear future regarding your concept.** If they don’t have the agency to effect change, or necessary information to imagine the steps, creating a mental utopia will likely be frustrating, impossible, or unhelpful. Use *I Know vs. I Wonder* instead.
 
 **You need everyone to be on the same page.** There are likely going to be many divergent paths that result from individualized *Reverse Engineering*. If you need full group consensus, or for everyone to be working from a shared understanding, use *Opposite Thinking* instead."
-stacks: "**Reverse Engineering + Subcommittees =** After participants have their lists for *Reverse Engineering*, have them share their favorite ideas with the full group. Listen for shares that could be rolled into themes within the overall process (e.g., people involved, stages, content). Note these themes as you go. Then break the group into *Subcommittees* based on each theme, to expand on or clarify the ideas shared.
-
-**Reverse Engineering + Sticky Note Generator + Urgent vs. Important Grid =** Instead of capturing their reverse engineering ideas in a list, have them generate stickies. After they’re done, create a giant *Urgent vs. Important Grid* and have participants add their stickies to the grid.
-
-**Reverse Engineering + Mindmapping =** After participants have all generated their own list, have them share ideas with the full group. Capture unique ideas on sticky notes. After everyone has shared, create a mindmap with the stickies, adding nodes for the themes that you see in their ideas. Alternatively, you could make a mindmap as people share, but the sticky notes make it simpler to move ideas around as themes emerge."
-zooming: ""
+stacks: "https://youtu.be/i6muiwIqdG8"
+zooming: "https://virtual.facilitator.cards/reverse-engineering-on-zoom-meg-bolger"
 
 ---
 
@@ -53,3 +49,9 @@ Ask participants to imagine that they're in a future where you've accomplished y
 ## 60 Second Tutorial
 
 {{< youtube i6muiwIqdG8 >}}
+
+## Virtual Facilitation Guide
+
+<p>In our <a href="https://virtual.facilitator.cards"> Virtual Facilitation Guide </a>, we have activities that provide you with step-by-step instructions and everything you need to facilitate Reverse Engineering in a virtual meeting using Zoom or a platform with similar features.</p>
+
+Find the write ups for Reverse Engineering <a href=“https://virtual.facilitator.cards/processes/reverse-engineering”> here </a>.
