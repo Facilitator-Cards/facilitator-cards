@@ -36,15 +36,15 @@ Not currently. :)
 
 ### Why are the cards waterproof?
 
-**To make them extra durable!** 
+**To make them extra durable!**
 
 Having plastic cards means you can write your notes directly on the cards and wipe off your notes when you're done to reuse them over and over.
 
-And for our outdoor facilitator friends, you can take the cards with you without worrying they'll get warped by the rain. 
+And for our outdoor facilitator friends, you can take the cards with you without worrying they'll get warped by the rain.
 
 ### Do you offer international (non-USA) shipping?
 
-**Yes!** It’s flat-rate of $10 to almost anywhere in the world.
+**Yes we do!** It varies with the cost of shipping but generally we can get cards to you for less than $15. This is Delivered Duties Unpaid so you will be responsibly for any duties incurred in importing the cards.
 
 Here are the places our distribution company **cannot ship to** (sorry, y’all!): Afghanistan, Brazil, Congo, Cote d’Ivoire, Cuba, Democratic Republic of Congo, Eritrea, Guam, Guinea-Bissau, Haiti, Iran, Iraq, Liberia, Libya, Myanmar (Burma), North Korea, Russia, Somalia, Sudan, Syria, Ukraine.
 
