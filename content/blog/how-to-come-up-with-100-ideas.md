@@ -2,13 +2,12 @@
 author = "Meg Bolger"
 categories = "Using Facilitator Cards, About The Cards"
 date = 2022-03-22T04:00:00Z
-description = "Brainstorming is all about quantity over quality."
-draft = true
+description = "Brainstorming for quantity over quality"
 facebook_discussion = ""
-featured_image = ""
-images = []
-keywords = []
-photo_cred = ""
+featured_image = "/img/blog/annie-vo-huuwnqmw58a-unsplash.jpeg"
+images = ["/img/blog/annie-vo-huuwnqmw58a-unsplash.jpeg", "/img/blog/screen-shot-2022-03-10-at-2-50-49-pm.png"]
+keywords = ["collaborative whiteboard tool", "MURAL", "facilitation tip", "facilitator tools"]
+photo_cred = "Annie Vo"
 title = "How to Come Up With 100 Ideas"
 
 +++
@@ -51,3 +50,5 @@ We would have never come up with questions like “where’s the last place you 
 ## P.S.
 
 You can see our 100 Icebreaker questions [here](https://app.mural.co/t/facilitatorcards8356/m/facilitatorcards8356/1646923831106/8a318c497a951309ca8ed7b8e032426db2d5eeed?sender=meg4054)!
+
+![](/img/blog/screen-shot-2022-03-10-at-2-50-49-pm.png)
