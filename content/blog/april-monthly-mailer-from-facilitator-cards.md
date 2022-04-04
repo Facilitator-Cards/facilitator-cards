@@ -3,7 +3,6 @@ author = "Meg Bolger"
 categories = "About us"
 date = 2022-04-04T04:00:00Z
 description = "All of our upcoming events, plus anything you might have missed from the previous month!"
-draft = true
 facebook_discussion = ""
 featured_image = "/img/blog/the-facilitator-cards-monthly-mailer-1.png"
 images = ["/img/blog/the-facilitator-cards-monthly-mailer-1.png"]
