@@ -33,4 +33,4 @@ Card Sharks sessions are always free for Card Carriers, sign up for the next ses
 
 Check out this video to help you get started with your Facilitator Cards.
 
-{{< youtube qBoi08QeUjg >}}
+{{< youtube dyEzzqrf_hg >}}
