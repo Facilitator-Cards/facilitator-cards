@@ -1,7 +1,7 @@
 +++
 date = 2022-02-28T05:00:00Z
 description = "Start here to find Facilitator Card Resources and more!"
-priority = nil
+priority = -1
 title = "Card Carriers Start Here!"
 
 +++
