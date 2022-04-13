@@ -28,3 +28,8 @@ Every month we run **🦈**  Card Sharks which is a live training with Meg, foun
 Card Sharks sessions are always free for Card Carriers, sign up for the next session [here](https://lu.ma/cardsharks)!
 
 **We also host community events and workshops every month where you can connect to other rad facilitators around the world and continue to expand toolbox.** To see what we've got coming up [**click here**](https://lu.ma/facilitatorcards)!
+
+## How to Find the Card You Need
+When you open the box of Facilitator Cards it can be easy to get overwhelmed with options, BUT if you follow the process in this video, we'll walk you through how to narrow the deck down to just a few of the right options for whatever you're working on.
+
+{{<  youtube qBoi08QeUjg >}}
