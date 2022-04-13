@@ -9,7 +9,7 @@ title = "Card Carriers Start Here!"
 
 And we hope you do too.
 
-This page is all about helping you get the most out of your deck. Click around, see what you find, and don't hesitate to reach out. We're always just an email away [hello@facilitator.cards]()
+This page is all about helping you get the most out of your deck. Click around, see what you find, and don't hesitate to reach out. We're always just an email away at hello@facilitator.cards
 
 ## Guides to Facilitator Cards
 
