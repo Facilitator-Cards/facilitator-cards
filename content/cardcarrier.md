@@ -23,11 +23,13 @@ _We will update this section as new guides are made!_
 
 ## Getting Started Live Training
 
-Every month we run **🦈**  Card Sharks which is a live training with Meg, founder of Facilitator Cards, to help you get started with your deck. No experience or time with your cards is necessary (totally okay to unbox them for the first time with us!)
+Every month we run **🦈**  Card Sharks which is a live training with Meg, founder of Facilitator Cards, to learn how to put your Facilitator Cards to work! In Card Sharks we cover all the essentials to know about your deck (colors, symbols, etc), how to avoid overwhelm with your cards, and most importantly, how to use your cards to build agendas, create back-up plans, and enhance your facilitations!
+
+No experience or time with your cards is necessary (totally okay to unbox them for the first time with us!)
 
 Card Sharks sessions are always free for Card Carriers, sign up for the next session [here](https://lu.ma/cardsharks)!
 
-**We also host community events and workshops every month where you can connect to other rad facilitators around the world and continue to expand toolbox.** To see what we've got coming up [**click here**](https://lu.ma/facilitatorcards)!
+**We also host additional trainings every month along with some longer retreats and intensive every few months! All our events are great opportuntiies to connect with other wonderful facilitators from around the world and ways to continue to expand your facilitation toolbox,** To see what we've got coming up [**click here**](https://lu.ma/facilitatorcards)!
 
 ## How to Find the Card You Need
 When you open the box of Facilitator Cards it can be easy to get overwhelmed with options, BUT if you follow the process in this video, we'll walk you through how to narrow the deck down to just a few of the right options for whatever you're working on.
