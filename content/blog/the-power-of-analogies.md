@@ -7,7 +7,7 @@ facebook_discussion = ""
 featured_image = "/img/blog/screen-shot-2022-04-21-at-7-47-39-am.png"
 images = ["/img/blog/junk-drawers.png", "/img/blog/screen-shot-2022-04-21-at-7-47-39-am.png"]
 keywords = []
-photo_cred = "Internet"
+photo_cred = ""
 title = "The Power of Analogies"
 
 +++
