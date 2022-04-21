@@ -7,7 +7,7 @@ facebook_discussion = ""
 featured_image = "/img/blog/screen-shot-2022-04-21-at-7-47-39-am.png"
 images = ["/img/blog/junk-drawers.png", "/img/blog/screen-shot-2022-04-21-at-7-47-39-am.png"]
 keywords = []
-photo_cred = ""
+photo_cred = "Internet"
 title = "The Power of Analogies"
 
 +++
@@ -85,6 +85,6 @@ Sometimes it’s hard to come up with prompts for a process and it can be helpfu
 
 If you want to see how we introduce Analogies and some of the discussions that follow, the clip below taken from our March Playground will let you do just that!
 
-{{ youtube VQztKtw8Ae0?t=291 }}
+{{ youtube VQztKtw8Ae0 }}
 
-Analogies are super flexible in their application and are a great way to break up discussions, get everyone thinking in a new way. Plus it’s always a great way to identify your funniest participants *wink*.
+Analogies are super flexible in their application and are a great way to break up discussions, get everyone thinking in a new way. Plus it’s always a great way to identify your funniest participants _wink_.
