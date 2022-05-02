@@ -1,7 +1,7 @@
 +++
 author = "Meg Bolger"
 categories = "About us"
-date = 2022-05-02T16:00:00Z
+date = 2022-05-02T15:00:00Z
 description = "All of our upcoming events, plus anything you might have missed from the previous month!"
 facebook_discussion = ""
 featured_image = "/img/blog/the-facilitator-cards-monthly-mailer-4.png"
