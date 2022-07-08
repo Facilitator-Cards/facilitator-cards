@@ -1,5 +1,5 @@
 +++
-author = ""
+author = "Meg Bolger"
 categories = "About us"
 date = 2022-07-05T04:00:00Z
 description = "July, july..."
