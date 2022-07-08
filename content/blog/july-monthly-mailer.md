@@ -2,7 +2,7 @@
 author = "Meg Bolger"
 categories = "About us"
 date = 2022-07-05T04:00:00Z
-description = "July, july..."
+description = "Recapping what we got up to in June and what's in store for July! 🎵July, July, Juuuullllyyyy"
 facebook_discussion = ""
 featured_image = "/img/blog/the-facilitator-cards-monthly-mailer-july.png"
 images = ["/img/blog/the-facilitator-cards-monthly-mailer-july.png"]
