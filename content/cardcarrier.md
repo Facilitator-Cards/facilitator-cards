@@ -9,21 +9,21 @@ title = "Card Carriers Start Here!"
 
 And we hope you do too.
 
-This page is all about helping you get the most out of your deck. Click around, see what you find, and don't hesitate to reach out. We're always just an email away at hello@facilitator.cards
+This page is all about helping you get the most out of your deck. With every purchase of Facilitator Cards you gain access to guides, free trainings, and a host of resources to help you improve your facilitation.
+
+**If you want to make sure you don't miss an email from us regarding new resources as they're released** [**be sure you're subscribed here**](https://facilitatorcards.ck.page/ed00a41f6c)**.**
 
 ## Guides to Facilitator Cards
 
-_We will update this section as new guides are made!_
+**💻** [**Virtual Facilitator Cards Facilitation Guide**](https://virtual.facilitator.cards/) **-** Answers to the question, "How do I run such-and-such card on Zoom?"
 
-[**Virtual Facilitator Cards Facilitation Guide**](https://virtual.facilitator.cards/) **-** Answers to the question, "How do I run such-and-such card on Zoom?"
+**🗄** [**Run Better Meetings Guide**](https://www.facilitator.cards/img/blog/run-better-meetings-guide.pdf) - 12 cards that can help you run better meetings (and when to use em!)
 
-[**Run Better Meetings Guide**](https://www.facilitator.cards/img/blog/run-better-meetings-guide.pdf) - 12 cards that can help you run better meetings (and when to use em!)
-
-[**Facilitator Cards for Teachers**](https://www.facilitator.cards/img/blog/facilitator-cards-edu.pdf) - Community-created guide with 20 cards with specific insights and ideas for classroom teachers
+**🍎** [**Facilitator Cards for Teachers**](https://www.facilitator.cards/img/blog/facilitator-cards-edu.pdf) - Community-created guide with 20 cards with specific insights and ideas for classroom teachers
 
 We've also got a series of **60-Second Tutorials** to help you better know your Facilitator Cards. Here's a link to [the full playlist](https://www.youtube.com/watch?v=d5Mu3wxybpA&list=PLFZCEEu1Jfj2e3mMMOuDSkDZY-5zcqmbm) and we're adding more every month!
 
-## Getting Started Live Training
+## Live Training
 
 Every month we run **🦈**  Card Sharks which is a live training with Meg, founder of Facilitator Cards, to learn how to put your Facilitator Cards to work! In Card Sharks we cover all the essentials to know about your deck (colors, symbols, etc), how to avoid overwhelm with your cards, and most importantly, how to use your cards to build agendas, create back-up plans, and enhance your facilitations!
 
