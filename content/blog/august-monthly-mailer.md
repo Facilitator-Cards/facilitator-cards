@@ -3,7 +3,6 @@ author = "Meg Bolger"
 categories = ""
 date = 2022-08-01T04:00:00Z
 description = "All of our upcoming events in August, plus anything you might have missed from July!"
-draft = true
 facebook_discussion = ""
 featured_image = "/img/blog/august-monthly-mailer.png"
 images = ["/img/blog/august-monthly-mailer.png"]
