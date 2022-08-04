@@ -9,7 +9,7 @@ featured_image = "/img/blog/dsc_0174_e-1.jpg"
 images = ["/img/blog/dsc_0174_e-1.jpg"]
 keywords = ["facilitation", "card of the month", "hot seat", "facilitator cards"]
 photo_cred = ""
-title = "Card Of The Month: Hot Seat"
+title = "Card Of The Month: Hot Seat 🔥🪑"
 
 +++
 _We’re trying something new! We’re going to be highlighting a card every month so you can get to know the deck one process at a time. First up? One of our all-time favorite processes in the Facilitator Cards deck:_ [_HOT SEAT_](https://www.facilitator.cards/cards/hot-seat/)_._
