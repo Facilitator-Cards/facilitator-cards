@@ -98,7 +98,7 @@ Psst—want a copy of our in-person checklist to personalize? [Click here for yo
 
 ## 🃏Card Of The Month: 🔥🪑
 
-Want to learn all about our Card Of The Month, Hot Seat? Check out a detailed explainer (including when/when not to use it, why we love it, and what it's best for) here!
+Want to learn all about our Card Of The Month, Hot Seat? [Check out our detailed explainer including when to use it, why we love it, and what it's best for here!](https://www.facilitator.cards/blog/card-of-the-month-hot-seat/)
 
 \**
 
