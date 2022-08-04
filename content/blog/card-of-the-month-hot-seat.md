@@ -2,7 +2,7 @@
 author = "Meg Bolger"
 categories = "Using Facilitator Cards, About The Cards"
 date = 2022-08-04T04:00:00Z
-description = ""
+description = "Hot Seat's in the hot seat!"
 draft = true
 facebook_discussion = ""
 featured_image = "/img/blog/dsc_0174_e-1.jpg"
