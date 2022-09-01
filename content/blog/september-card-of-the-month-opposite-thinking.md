@@ -3,7 +3,6 @@ author = "Meg Bolger"
 categories = "About us"
 date = 2022-09-01T04:00:00Z
 description = "Learn all about Opposite Thinking and why it's one of our favorite processes!"
-draft = true
 facebook_discussion = ""
 featured_image = "/img/blog/dsc_0057_e.jpg"
 images = ["/img/blog/dsc_0057_e.jpg"]
