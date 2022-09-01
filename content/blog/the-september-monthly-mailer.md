@@ -85,9 +85,9 @@ Looking to dig in and learn even more about Steam Deck? Check out our (brag aler
 
 [Stream Deck + Zoom: Virtual Facilitation with ease!](https://youtu.be/_8uZ40_z2Dc)
 
-## 🃏Card Of The Month: Opposite Thinking 🔁🤔
+## 🃏[Card Of The Month: Opposite Thinking 🔁🤔]()
 
-_Each month, we highlight a card in every newsletter so you can get to know_ [_the deck_](http://shop.facilitator.cards) _one at a time. This month, we picked the generative process, Opposite Thinking. For more on how to use Opposite Thinking as a brainstorm framework, check out our blog post!_
+_Each month, we highlight a card in every newsletter so you can get to know_ [_the deck_](http://shop.facilitator.cards) _one at a time. This month, we picked the generative process, Opposite Thinking. For more on how to use Opposite Thinking as a brainstorm framework,_ [_check out our blog post!_](https://www.facilitator.cards/blog/september-card-of-the-month-opposite-thinking/)
 
 \**
 
