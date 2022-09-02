@@ -28,7 +28,7 @@ name = "The Cards"
 url = "/cards/"
 weight = 2
 [[menu.main]]
-name = "Our Story"
+name = "About"
 url = "/story/"
 weight = 6
 [[menu.main]]
