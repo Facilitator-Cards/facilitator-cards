@@ -16,13 +16,11 @@ Facilitator Cards are a box of frameworks that you can use to run any meeting, t
 
 We made them cards (instead of online databases or books) because they're easy to look through, you can pull them out at any moment and easily sort, organize, and find ideas without getting distracted by tech or overwhelmed by information. Pop them on your desk so they’re easy to reach for—no wifi, subscription, or login information necessary!
 
-_Click here for the full story of how the cards came to be._
-
 ### Our Trainings
 
 We ❤️ the act of learning together, and find that teaching facilitation is best done by bringing people together to not only learn about theory, but see facilitation in action. All of our trainings are related to improving your practice as a facilitator, leader, or manager who wants that work to go even better.
 
-_Click here to sign up for our events mailing list & be the first to find out about upcoming sessions!_
+[_Click here to sign up for our events mailing list_](https://facilitatorcards.ck.page/0bdf2d2bae) _& be the first to find out about upcoming sessions!_
 
 We train groups both online and in person, with sessions ranging from one-hour to multi-day retreats, specializing in facilitation around:
 
@@ -30,7 +28,7 @@ We train groups both online and in person, with sessions ranging from one-hour t
 * heated political discussions
 * Social Justice Education
 
-_Click here for a list of all the trainings we currently have on offer. Not seeing what you’re looking for? Reach out to us at hello@facilitator.cards to discuss custom curriculums!_
+[_Click here for a list of all the trainings we currently have on offer_](https://www.facilitator.cards/trainings/)_. Not seeing what you’re looking for? Reach out to us at hello@facilitator.cards to discuss custom curriculums!_
 
 All of our trainings are rooted in our approach. We will teach you how to use the cards and apply them to your work and circumstances, and you’ll get to learn about facilitation on multiple levels—experiencing facilitation by learning about the content, by doing processes, and by analyzing the experience itself.
 
