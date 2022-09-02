@@ -36,7 +36,7 @@ All of our trainings are rooted in our approach. We will teach you how to use th
 
 We are a small team of folks based in Vermont led by professional facilitator (and facilitation geek), Meg Bolger.
 
-We’re a B-Corp, which means we've gone through a rigorous process to ensure that our company is structured to be a social and environmental benefit to our community and the world.
+[We’re a B-Corp](https://www.bcorporation.net/en-us/find-a-b-corp/company/facilitator-cards-pbc), which means we've gone through a rigorous process to ensure that our company is structured to be a social and environmental benefit to our community and the world.
 
 Throughout all the levels of our company, we carefully consider our actions and impact, and we aim to be the company we wish to see in the world.
 
