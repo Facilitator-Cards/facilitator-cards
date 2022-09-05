@@ -1,7 +1,7 @@
 +++
 author = "Claire Bolger"
 categories = "About us"
-date = 2022-09-05T04:00:00Z
+date = 2022-09-04T04:00:00Z
 description = "No more \"fun fact\" go-arounds, try these frameworks for fast, fun, and effective icebreakers!"
 facebook_discussion = ""
 featured_image = "/img/blog/mapbox-zt5v0pubjzi-unsplash.jpg"
