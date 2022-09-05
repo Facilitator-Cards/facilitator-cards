@@ -3,7 +3,6 @@ author = "Claire Bolger"
 categories = "About us"
 date = 2022-09-05T04:00:00Z
 description = "No more \"fun fact\" go-arounds, try these frameworks for fast, fun, and effective icebreakers!"
-draft = true
 facebook_discussion = ""
 featured_image = "/img/blog/mapbox-zt5v0pubjzi-unsplash.jpg"
 images = ["/img/blog/christina-wocintechchat-com-faefwcdokig-unsplash.jpg", "/img/blog/mapbox-zt5v0pubjzi-unsplash.jpg"]
@@ -14,7 +13,7 @@ title = "Our Favorite Icebreaker Formats"
 +++
 Does even just the name “icebreaker” bring up a lot of bleh feelings? Hollow echoes of resentment and the overall feeling that _time_ is one of the absolute worst things we can waste?
 
-Well, we have some great news—a great icebreaker is never a waste of time. They can be fast, fun, and unique opportunities to allow a group to peak into each others worlds. They’re a perfect way to get folks acclimated to your expectations of participation, set the tone for what’s to come, and have a little bit of fun and connection right up top to help the group feel bonded and more comfortable with each other.
+Well, we have some great news—a great icebreaker is never a waste of time. They can be fast, fun, and unique opportunities to allow a group to peak into each other's worlds. They’re a perfect way to get folks acclimated to your expectations of participation, set the tone for what’s to come, and have a little bit of fun and connection right up top to help the group feel bonded and more comfortable with each other.
 
 But please, we beg, no more too-long games of two truths and a lie or Go Around Shares of fun facts!
 
@@ -62,7 +61,7 @@ Set up a spectrum—we typically go with one that has Strongly Agree on one end 
 
 In-person, we encourage people to physically move to that place. Online, you can have them place a marker or stamp along a spectrum.
 
-[https://youtu.be/VU8t2L-YDhk?t=791](https://youtu.be/VU8t2L-YDhk?t=791 "https://youtu.be/VU8t2L-YDhk?t=791")
+{{< youtube VU8t2L-YDhk?start=788 >}}
 
 * It’s important that all the dishes are done before the end of the night
 * Pizza is the best takeout option
