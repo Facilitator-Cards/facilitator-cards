@@ -1,12 +1,12 @@
 +++
 author = "Claire Bolger"
-categories = "About us"
+categories = "about the cards"
 date = 2022-09-04T04:00:00Z
 description = "No more \"fun fact\" go-arounds, try these frameworks for fast, fun, and effective icebreakers!"
 facebook_discussion = ""
 featured_image = "/img/blog/mapbox-zt5v0pubjzi-unsplash.jpg"
 images = ["/img/blog/christina-wocintechchat-com-faefwcdokig-unsplash.jpg", "/img/blog/mapbox-zt5v0pubjzi-unsplash.jpg"]
-keywords = []
+keywords = ["icebreaker", "facilitator cards"]
 photo_cred = ""
 title = "Our Favorite Icebreaker Formats"
 
