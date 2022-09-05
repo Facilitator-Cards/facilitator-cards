@@ -2,13 +2,13 @@
 author = "Claire Bolger"
 categories = "about the cards"
 date = 2022-09-04T04:00:00Z
-description = "No more sharing\"fun facts\", try these frameworks for fast, fun, and effective icebreakers!"
+description = "No more sharing \"fun facts\", try these frameworks for fast, fun, and effective icebreakers!"
 facebook_discussion = ""
 featured_image = "/img/blog/mapbox-zt5v0pubjzi-unsplash-2.jpg"
 images = ["/img/blog/mapbox-zt5v0pubjzi-unsplash-2.jpg"]
-keywords = ["icebreaker", "facilitator cards"]
+keywords = ["name games", "ice breaker", "icebreaker", "facilitator cards"]
 photo_cred = ""
-title = "Our Favorite Icebreaker Formats"
+title = "Our Favorite Icebreakers"
 
 +++
 Does even just the name “icebreaker” bring up a lot of bleh feelings? Hollow echoes of resentment and the overall feeling that _time_ is one of the absolute worst things we can waste?
