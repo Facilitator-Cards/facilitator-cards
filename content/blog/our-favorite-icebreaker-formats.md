@@ -4,8 +4,8 @@ categories = "about the cards"
 date = 2022-09-04T04:00:00Z
 description = "No more sharing\"fun facts\", try these frameworks for fast, fun, and effective icebreakers!"
 facebook_discussion = ""
-featured_image = "/img/blog/mapbox-zt5v0pubjzi-unsplash.jpg"
-images = ["/img/blog/christina-wocintechchat-com-faefwcdokig-unsplash.jpg", "/img/blog/mapbox-zt5v0pubjzi-unsplash.jpg"]
+featured_image = "/img/blog/mapbox-zt5v0pubjzi-unsplash-2.jpg"
+images = ["/img/blog/mapbox-zt5v0pubjzi-unsplash-2.jpg"]
 keywords = ["icebreaker", "facilitator cards"]
 photo_cred = ""
 title = "Our Favorite Icebreaker Formats"
@@ -59,13 +59,17 @@ When you give people a sentence with an important gap, it helps keep everyone’
 
 Set up a spectrum—we typically go with one that has Strongly Agree on one end and Strongly Disagree on the other for icebreakers.
 
-In-person, we encourage people to physically move to that place. Online, you can have them place a marker or stamp along a spectrum.
-
 * It’s important that all the dishes are done before the end of the night
 * Pizza is the best takeout option
 * Luck has nothing to do with success
 * Flying is the best way to travel
 * Composting is fun
+
+In-person, we encourage people to physically move to that place on the spectrum. 
+
+Online, you can have them place a marker or stamp along a spectrum. Check out how we run Spectrum Questions on MURAL! (Jump to 11:27 to check out a full walkthrough!)
+
+{{< youtube VU8t2L-YDhk >}}
 
 ### [Strike A Pose](https://www.facilitator.cards/cards/strike-a-pose/)
 
