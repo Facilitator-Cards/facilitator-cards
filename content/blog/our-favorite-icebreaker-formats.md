@@ -61,8 +61,6 @@ Set up a spectrum—we typically go with one that has Strongly Agree on one end 
 
 In-person, we encourage people to physically move to that place. Online, you can have them place a marker or stamp along a spectrum.
 
-{{< youtube VU8t2L-YDhk?start=788 >}}
-
 * It’s important that all the dishes are done before the end of the night
 * Pizza is the best takeout option
 * Luck has nothing to do with success
