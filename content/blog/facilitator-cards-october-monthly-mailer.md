@@ -3,7 +3,6 @@ author = "Meg Bolger"
 categories = "About us"
 date = 2022-10-04T04:00:00Z
 description = "Events, trainings & everything you may have missed from September!"
-draft = true
 facebook_discussion = ""
 featured_image = "/img/blog/october-mailer-cover-image.png"
 images = ["/img/blog/october-mailer-cover-image.png"]
@@ -86,7 +85,7 @@ Have some tricky conversations coming up on the calendar? We’ve got you covere
 
 _Each month, we highlight a card in every newsletter so you can get to know_ [_the deck_](http://shop.facilitator.cards) _one at a time. This month, allow us to introduce you to one of our favorite ways to get a gauge on what the group is thinking: Spectrum Questions!_
 
-Check out our blog post for when to use it, why we ❤️ it, and a ton of prompt suggestions for the next time you use it!
+[Check out our blog post](https://www.facilitator.cards/blog/october-card-of-the-month-spectrum-questions/) for when to use it, why we ❤️ it, and a ton of prompt suggestions for the next time you use it!
 
 \**
 
