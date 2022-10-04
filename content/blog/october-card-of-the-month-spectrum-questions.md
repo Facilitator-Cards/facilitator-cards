@@ -3,7 +3,6 @@ author = "Claire Bolger"
 categories = "Using Facilitator Cards"
 date = 2022-10-04T04:00:00Z
 description = "Why we love adding it to our agendas, how to use it online, plus examples and prompts!"
-draft = true
 facebook_discussion = ""
 featured_image = "/img/blog/card-of-the-month.png"
 images = ["/img/blog/card-of-the-month.png"]
