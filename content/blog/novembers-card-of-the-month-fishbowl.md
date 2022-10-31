@@ -3,13 +3,12 @@ author = "Claire Bolger"
 categories = "Using Facilitator Cards"
 date = 2022-10-31T04:00:00Z
 description = "Having lots of small OR large group chats? Find out why Fishbowl's are a great way to run discussions & debriefs!"
-draft = true
 facebook_discussion = ""
 featured_image = "/img/blog/fishbowl-card-image.png"
 images = ["/img/blog/fishbowl-card-image.png"]
 keywords = []
 photo_cred = ""
-title = "Novembers Card Of The Month: Fishbowl 🐠🥣"
+title = "November Card Of The Month: Fishbowl 🐠🥣"
 
 +++
 ## 🃏Card Of The Month:
