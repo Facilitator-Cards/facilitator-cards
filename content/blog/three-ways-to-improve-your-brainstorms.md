@@ -3,7 +3,6 @@ author = "Claire Bolger"
 categories = "Using Facilitator Cards"
 date = 2022-11-21T05:00:00Z
 description = "Making a list? Try these frameworks to expand your results!"
-draft = true
 facebook_discussion = ""
 featured_image = "/img/blog/dsc_0236.jpg"
 images = ["/img/blog/dsc_0236.jpg"]
