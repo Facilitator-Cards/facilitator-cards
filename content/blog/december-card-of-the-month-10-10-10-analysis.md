@@ -1,7 +1,7 @@
 +++
 author = "Claire Bolger"
 categories = "Using Facilitator Cards"
-date = 2022-12-01T05:00:00Z
+date = 2022-11-30T05:00:00Z
 description = "How to facilitate it, why & when we use it, plus prompt examples!"
 facebook_discussion = ""
 featured_image = "/img/blog/deccard.png"
