@@ -61,7 +61,7 @@ After our Holding Space event, we had a ton of insightful questions from partici
 
 _Each month, we highlight a card in every newsletter so you can get to know_ [_the deck_](http://shop.facilitator.cards) _one at a time. This month, we’re spotlighting one of our more unique Execution Processes:_ [**10/10/10 Analysis**](https://www.facilitator.cards/cards/101010-analysis/)!
 
-Check out our blog post for how to facilitate it, prompt examples, and why this is a surprisingly powerful solo journaling prompt!
+[Check out our blog post for how to facilitate it, prompt examples, and why this is a surprisingly powerful solo journaling prompt!](https://www.facilitator.cards/blog/december-card-of-the-month-10-10-10-analysis/)
 
 \**
 
