@@ -3,7 +3,6 @@ author = "Claire Bolger"
 categories = "About us"
 date = 2022-12-01T05:00:00Z
 description = "Our final event of the year, pro tips, and anything you might have missed!"
-draft = true
 facebook_discussion = ""
 featured_image = "/img/blog/december-mailer.png"
 images = ["/img/blog/december-mailer.png"]
