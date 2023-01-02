@@ -3,7 +3,6 @@ author = "Claire Bolger"
 categories = "About us"
 date = 2023-01-02T05:00:00Z
 description = "Upcoming events, icebreaker prompts, and more!"
-draft = true
 facebook_discussion = ""
 featured_image = "/img/blog/january23-monthly-mailer.png"
 images = ["/img/blog/january23-monthly-mailer.png"]
@@ -28,7 +27,7 @@ In this 60-minute session, you will:
 2. Work through real-life scenarios and experience how to plan with your Facilitator Cards
 3. Spend time getting to know other folks in our incredible Facilitator Cards community
 
-<< BUTTON INSERT - RSVP HERE! >> [https://lu.ma/cardsharks](https://lu.ma/cardsharks "https://lu.ma/cardsharks")
+[RSVP HERE!](https://lu.ma/cardsharks)
 
 **You will need your deck of Facilitator Cards _in hand_ to attend this session.**
 
@@ -66,7 +65,7 @@ Looking to increase participation online? Check out our videos all about how to 
 
 _Each month, we highlight a card in every newsletter so you can get to know_ [**_the deck_**](https://click.convertkit-mail2.com/k0ul94x9n7u6hd3n2rrhl/e0hph0ukd80z3qa8/aHR0cDovL3Nob3AuZmFjaWxpdGF0b3IuY2FyZHMv) _one at a time. This month, we’re spotlighting one of our favorite brainstorming processes:_ [**_100 Ideas_**](https://click.convertkit-mail2.com/k0ul94x9n7u6hd3n2rrhl/7qh7h2u0xroe2ziz/aHR0cHM6Ly93d3cuZmFjaWxpdGF0b3IuY2FyZHMvY2FyZHMvMTAwLWJhZC1pZGVhcy8=)**_!_**
 
-Check out our blog post for how & when to facilitate 100 Ideas here & see the [results of our 100 Ideas Brainstorm on MURAL here](https://click.convertkit-mail2.com/k0ul94x9n7u6hd3n2rrhl/owhkhwu402rem5hv/aHR0cHM6Ly9hcHAubXVyYWwuY28vaW52aXRhdGlvbi9tdXJhbC9mYWNpbGl0YXRvcmNhcmRzODM1Ni8xNjQ2OTIzODMxMTA2P3NlbmRlcj1tZWc0MDU0JmtleT0wZmNhNjljNy0zZmU5LTQ1YWUtYTAyZC02Yjg5YzU2YmZmMDU=)**!**
+[Check out our blog post for how & when to facilitate 100 Ideas here](https://www.facilitator.cards/blog/january-card-of-the-month-100-ideas/) & see the [results of our 100 Ideas Brainstorm on MURAL here](https://click.convertkit-mail2.com/k0ul94x9n7u6hd3n2rrhl/owhkhwu402rem5hv/aHR0cHM6Ly9hcHAubXVyYWwuY28vaW52aXRhdGlvbi9tdXJhbC9mYWNpbGl0YXRvcmNhcmRzODM1Ni8xNjQ2OTIzODMxMTA2P3NlbmRlcj1tZWc0MDU0JmtleT0wZmNhNjljNy0zZmU5LTQ1YWUtYTAyZC02Yjg5YzU2YmZmMDU=)**!**
 
 ***
 
