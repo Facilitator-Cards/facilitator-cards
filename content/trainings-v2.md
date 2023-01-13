@@ -85,7 +85,7 @@ Hey, I'm Meg and I'm an educator and facilitator whose work started and remains 
 
 I combine my deep belief in the power and wisdom of the group with the practical knowledge I've gained from over a decade of facilitation to create powerful learning experiences.
 
-For a lot of people, facilitation feels inaccessible and overwhelming. It can often feel mysterious or like they have to be someone they aren't to be a good facilitator.
+For a lot of people, facilitation feels inaccessible and overwhelming. It can often feel mysterious or like you have to be someone you aren't to be a good facilitator.
 
 My big goal for the next ten years is to share as much as I can about facilitation with people doing meaningful change-making work in the world. The word facilitation means “to make easy” and my big goal is to make it easy to learn how to facilitate.
 
