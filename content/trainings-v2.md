@@ -87,7 +87,7 @@ I combine my deep belief in the power and wisdom of the group with the practical
 
 For a lot of people, facilitation feels inaccessible and overwhelming. It can often feel mysterious or like you have to be someone you aren't to be a good facilitator.
 
-My big goal for the next ten years is to share as much as I can about facilitation with people doing meaningful change-making work in the world. The word facilitation means “to make easy” and my big goal is to make it easy to learn how to facilitate.
+My big goal for my work with Facilitator Cards is to share as much as I can about facilitation with people doing meaningful change-making work in the world. The word facilitation means “to make easy” and my big goal is to make it easy to learn how to facilitate.
 
 In the last decade, I've created and contributed to many social justice education and facilitation resources including co-authoring the book [Unlocking The Magic of Facilitation](http://facilitationmagic.com/), co-founding the online resource [Facilitating XYZ](http://facilitating.xyz/), and being the co-creator of [The Safe Zone Project](http://thesafezoneproject.com/). If you want to find out even more about my work you can learn more at [megbolger.com](http://megbolger.com/)
 
