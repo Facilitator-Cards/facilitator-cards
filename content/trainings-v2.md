@@ -77,4 +77,18 @@ We offer our sessions both in-person and online.
 
 We know online workshops can be a drag but our workshops will leave you saying (as a previous participant once said),
 
-“I can’t believe I’m excited for another six hour Zoom tomorrow!” - a real thing said by a real person
+“I can’t believe I’m excited for another six hour Zoom tomorrow!” - a real thing said by a real person in one of our two-day workshops.
+
+## Meet Meg!
+
+Hey, I'm Meg and I'm an educator and facilitator whose work started and remains grounded in social justice education for the last decade.
+
+I combine my deep belief in the power and wisdom of the group with the practical knowledge I've gained from over a decade of facilitation to create powerful learning experiences.
+
+For a lot of people facilitation feels inaccessible and overwhelming. It can often feel mysterious or like they have to be someone they aren't to be a good facilitator.
+
+My big goal of the next ten years it to share as much as I can about facilitation with people doing meaningful change making work in the world. The word facilitation means “to make easy” and my big goal is to make it easy to learn how to facilitate.
+
+In the last decade I've created and contributed to many social justice education and facilitation resources including co-authoring the book [Unlocking The Magic of Facilitation](http://facilitationmagic.com/), co-founding the online resource [Facilitating XYZ](http://facilitating.xyz/), and being the co-creator of [The Safe Zone Project](http://thesafezoneproject.com/). If you want to find out even more about my work you can learn more at [megbolger.com](http://megbolger.com/)
+
+When I'm not geeking out about facilitation, you're likely to find me walking in the woods in Vermont, listening to podcasts, or snowboarding whenever there is snow to be had.
