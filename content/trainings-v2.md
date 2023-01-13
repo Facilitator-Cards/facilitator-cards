@@ -15,6 +15,8 @@ With the right understanding of frameworks, philosophy, and practical techniques
 
 ## The Sessions
 
+Each of these sessions is separate workshop. 
+
 ### Foundations of Facilitation
 
 This session cultivates a deep understanding of what facilitation is and the key decision-making points that make for powerful facilitation experiences.
@@ -75,7 +77,7 @@ Led by long-time facilitation expert, Meg Bolger, Facilitator Cards sessions wil
 
 We offer our sessions both in-person and online.
 
-We know online workshops can be a drag but our workshops will leave you saying (as a previous participant once said) “I can’t believe I’m excited for another six hour Zoom tomorrow!” 
+We know online workshops can be a drag but our workshops will leave you saying (as a previous participant once said) “I can’t believe I’m excited for another six hour Zoom tomorrow!”
 
 ## Meet Meg!
 
