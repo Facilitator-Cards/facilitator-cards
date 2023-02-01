@@ -83,7 +83,7 @@ Running workshops on Zoom? We’ve got some tech recommendations! Reduce screen 
 
 💻 Plus! our [Favorite ZOOM Features for Virtual Facilitators!](https://youtu.be/Sr-UU3Edr54)
 
-## **🃏**[**Card Of The Month**](https://www.facilitator.cards/blog/novembers-card-of-the-month-fishbowl/)**: Minute Papers ⏳📝**
+## **🃏**[**Card Of The Month**](https://www.facilitator.cards/blog/february-card-of-the-month-minute-papers/)**: Minute Papers ⏳📝**
 
 It’s tough to declare one card in our deck a **_favorite_**, but we can safely say that Minute Papers is one of the most versatile and quietly transformative processes we know of.
 
