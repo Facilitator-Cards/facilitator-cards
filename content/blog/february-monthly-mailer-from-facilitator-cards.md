@@ -119,7 +119,7 @@ We could seriously go on (and on) espousing how powerful this simple activity ca
 
 Whether you’re running a Minute Paper for the first time or always pop them into any session's agenda 👋 we’d love to hear what **_you_** love about Minute Papers!
 
-For more information, prompts, and powerful card combinations check out the full blog post.
+For more information, prompts, and powerful card combinations [check out the full blog post](https://www.facilitator.cards/blog/february-card-of-the-month-minute-papers/).
 
 ## Feedback Frames
 
