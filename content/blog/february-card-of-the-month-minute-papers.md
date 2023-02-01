@@ -11,8 +11,6 @@ photo_cred = ""
 title = "February Card Of The Month: Minute Papers"
 
 +++
-## **🃏**[**Card Of The Month**](https://www.facilitator.cards/blog/novembers-card-of-the-month-fishbowl/)**: Minute Papers ⏳📝**
-
 Look, it’s tough to declare one card in our deck a **_favorite_**, but we can safely say that Minute Papers is one of the most versatile and quietly transformative processes we know of.
 
 Minute Papers is a **surfacing** activity during which participants have a minute (or more, but we like to keep it brief) to gather their thoughts on paper. We use it before an activity, as a quick debrief, a way to capture thoughts or emotions in response, and it can even be a great release valve after a high-stakes conversation.
