@@ -59,8 +59,10 @@ Before submitting their questions, have participants write a quick minute paper 
 
 After reading out the question, ask if any participants want to come up to the Hot Seat to give their answer to that question and follow-ups the group may have.
 
-## Why We Love It
+## Why We 💛 It
 
-The power of anonymity should not be underestimated. Whether your participants are students who might be embarrassed to ask questions in front of their friends, co-workers who don’t want to say the wrong thing in a professional development seminar, or participants who don’t want to speak in front of a large crowd, Anonymous Q&A has got their back!
+The power of anonymity is not to be underestimated. Whether your participants are students who might be embarrassed to ask questions in front of their friends, co-workers who don’t want to say the wrong thing in a professional development seminar, or participants who don’t want to speak in front of a large crowd, Anonymous Q&A has got their back!
 
-There are so many situations where it becomes high risk to admit when we don’t know the answer to a question. Anonymous Q&A is a process that provides simple psychological safety. For more about our best practices for answering sessions, **check out our full blog post.**
+There are so many situations where it becomes high risk to admit when we don’t know something. Anonymous Q&A is a process that provides simple psychological safety. 
+
+Want specific guidance for enhancing how you answer questions? [**Read Meg’s best tips & practices!**](https://www.facilitator.cards/blog/how-to-answer-questions/)
