@@ -1,5 +1,5 @@
 +++
-author = "Claire Bolger"
+author = "Meg Bolger"
 categories = "About us"
 date = 2023-02-27T05:00:00Z
 description = "There's an art to giving a great answer."
