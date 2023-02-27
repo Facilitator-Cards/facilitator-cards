@@ -136,10 +136,18 @@ When we run Anonymous Q&A during virtual sessions we have a few options:
 
 \*A bonus of gathering questions on software like AhaSlides is that other participants can upvote questions to give you a better sense of what your group is most curious about!
 
-### Why We Love It
+### Why We 💛 It
 
 The power of anonymity is not to be underestimated. Whether your participants are students who might be embarrassed to ask questions in front of their friends, co-workers who don’t want to say the wrong thing in a professional development seminar, or participants who don’t want to speak in front of a large crowd, Anonymous Q&A has got their back!
 
-There are so many situations where it becomes high risk to admit when we don’t know something. Anonymous Q&A is a process that provides simple psychological safety. For more about this card and our favorite processes to combine it with, **check out our full blog post.**
+There are so many situations where it becomes high risk to admit when we don’t know something. Anonymous Q&A is a process that provides simple psychological safety. For even more about this card and our favorite processes to combine it with, [**check out our full blog post.**](https://www.facilitator.cards/blog/card-of-the-month-anonymous-q-a/)
 
-Want specific guidance for enhancing how you answer questions? **Read Meg’s best tips & practices!**
+Want specific guidance for enhancing how you answer questions? [**Read Meg’s best tips & practices!**](https://www.facilitator.cards/blog/how-to-answer-questions/)
+
+***
+
+That’ll be all for March’s mailer! We hope you have a joyful and productive month wherever you are in the world.
+
+Until next time, happy facilitating!
+
+Meg & the Facilitator Cards Team
