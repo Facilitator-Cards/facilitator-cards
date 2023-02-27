@@ -84,6 +84,8 @@ Zoom, zoom, zoom! We’ve decided that 2023 is the year we’re no longer accept
 
 🕯 [Favorite ways to set the mood on a Zoom](https://www.instagram.com/p/ClRqoLLuEfx/)
 
+Want more quick & easy Zoom tips straight to your inbox? [**Click here to sign up for our series!**](https://facilitatorcards.ck.page/6e80ec00fe)
+
 ## **🔴 From The YouTube**
 
 Want to stop screen sharing on Zoom? Ever been curious how Meg mastered her “Zoom Magic”? Woweeee have we got the videos for you!
@@ -138,6 +140,6 @@ When we run Anonymous Q&A during virtual sessions we have a few options:
 
 The power of anonymity is not to be underestimated. Whether your participants are students who might be embarrassed to ask questions in front of their friends, co-workers who don’t want to say the wrong thing in a professional development seminar, or participants who don’t want to speak in front of a large crowd, Anonymous Q&A has got their back!
 
-There are so many situations where it becomes high risk to admit when we don’t know something. Anonymous Q&A is a process that provides simple psychological safety. For more about this card and our favorite processes to combine it with, **check out our full blog post. TK**
+There are so many situations where it becomes high risk to admit when we don’t know something. Anonymous Q&A is a process that provides simple psychological safety. For more about this card and our favorite processes to combine it with, **check out our full blog post.**
 
-Want specific guidance for enhancing how you answer questions? **Read Meg’s best tips & practices! TK**
+Want specific guidance for enhancing how you answer questions? **Read Meg’s best tips & practices!**

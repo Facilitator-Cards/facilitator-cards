@@ -1,7 +1,7 @@
 +++
 author = "Claire Bolger"
 categories = "Using Facilitator Cards, About The Cards"
-date = 2023-03-01T05:00:00Z
+date = 2023-02-27T05:00:00Z
 description = "Get the questions people really want answers to."
 facebook_discussion = ""
 featured_image = "/img/blog/anoncardofthemonth.png"
