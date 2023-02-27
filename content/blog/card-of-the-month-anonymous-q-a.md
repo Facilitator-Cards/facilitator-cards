@@ -9,7 +9,7 @@ featured_image = "/img/blog/anoncardofthemonth.png"
 images = ["/img/blog/anoncardofthemonth.png"]
 keywords = ["meeting agenda", "clarification", "participation", "q&A"]
 photo_cred = ""
-title = "Card Of The Month: Anonymous Q&A"
+title = "March Card Of The Month: Anonymous Q&A"
 
 +++
 [Anonymous Q&A](https://www.facilitator.cards/cards/anonymous-qa/) is a powerful clarifying process that we use in both virtual and in-person sessions. By collecting questions from participants anonymously we increase participation and get the questions people **really** want answers to.
