@@ -5,8 +5,8 @@ date = 2023-03-03T05:00:00Z
 description = "Sending a Google Doc link to participants? Try this!"
 draft = true
 facebook_discussion = ""
-featured_image = ""
-images = []
+featured_image = "/img/blog/googledocsthumbsup.png"
+images = ["/img/blog/googledocsthumbsup.png"]
 keywords = []
 photo_cred = ""
 title = "How to Make Digital Handouts Easy"
@@ -38,4 +38,4 @@ If the PDF doesn’t need to be editable, there’s another easy Google hack for
 
 Instead of replacing the text with “/copy” replace it with ”/export?format=pdf”. When you share this link with participants it’ll download whatever Google Doc it’s linked to as a PDF.
 
-While sharing files online is never quite as simple as passing out a worksheet, at least we can take dealing with the printer out of the equation!
+While sharing files online is never _quite_ as simple as passing out a worksheet, at least we can take dealing with the printer out of the equation!
