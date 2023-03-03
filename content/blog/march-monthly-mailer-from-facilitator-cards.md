@@ -3,7 +3,6 @@ author = "Claire Bolger"
 categories = "About us"
 date = 2023-03-01T05:00:00Z
 description = "Events! Improvements to Zoom Sessions! & More!"
-draft = true
 facebook_discussion = ""
 featured_image = "/img/blog/march2023mailerimage.png"
 images = ["/img/blog/march2023mailerimage.png"]
