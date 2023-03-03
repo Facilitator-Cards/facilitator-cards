@@ -9,7 +9,7 @@ featured_image = "/img/blog/googledocsthumbsup.png"
 images = ["/img/blog/googledocsthumbsup.png"]
 keywords = []
 photo_cred = ""
-title = "How to Make Digital Handouts Easy"
+title = "Zoom Series: How to Make Digital Handouts Easy"
 
 +++
 Distributing handouts or worksheets in person is a breeze, but when it comes time to do it digitally we kept running into user errors that slowed the whole workshop to a halt.
