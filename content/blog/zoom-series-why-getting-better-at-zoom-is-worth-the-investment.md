@@ -8,11 +8,9 @@ featured_image = "/img/blog/facilitation-tips-inbox-insta.png"
 images = ["/img/blog/facilitation-tips-inbox-insta.png"]
 keywords = []
 photo_cred = ""
-title = "Zoom Series: Why Getting Better at Zoom is Worth the Investment "
+title = "Zoom Series: Why Get Better at Zoom?"
 
 +++
-## Why Get Better at Zoom?
-
 Most people associate Zoom with meetings. Bad meetings. They’re immediately filled with a sense of dread about their time being wasted or having to figure out how to look like they’re paying attention.
 
 The truth is, a lot of meetings are bad. They lack structure, the actual goals are often obfuscated, and they fail to leverage people’s attendance and attention in a way that leaves participants feeling like their presence was meaningful.
@@ -21,9 +19,9 @@ Virtual sessions, whether it's a 60-minute meeting or a multi-day workshop, can 
 
 We created this series to outline our favorite tips, tricks, and methodologies that keep our Zoom workshops exciting, engaging, and places people want to be. We’ll be sharing our secret sauce recipes from how to up your game with the chat, enhance your breakout rooms, frameworks that work even better online, and the software we’ll never Zoom without.
 
-We’ll be posting one tip every Monday here on the blog, or you can sign up for our email series and get them directly to your inbox.
+We’ll be posting one tip every Monday here on the blog, or you can sign up for our email series.
 
-[**_Sign up for the email list here!_**](https://facilitatorcards.ck.page/6e80ec00fe)
+[**_Sign up to get our Zoom tips directly in your inbox!_**](https://facilitatorcards.ck.page/6e80ec00fe)
 
 Whether you’re a manager running meetings, a facilitator running workshops, or a coach looking to increase the dynamics of your calls, we can all hack Zoom’s technology to better fit our needs.
 
