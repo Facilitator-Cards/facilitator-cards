@@ -31,7 +31,7 @@ Here’s to happy Zooming!
 
 Check out our first tip here:
 
-**_Three creative ways to use the Zoom Chat_**
+[**_Three creative ways to use the Zoom Chat_**](https://www.facilitator.cards/blog/three-unique-ways-to-use-the-zoom-chat/)
 
 ***
 
