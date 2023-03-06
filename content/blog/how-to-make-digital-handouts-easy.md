@@ -39,3 +39,7 @@ If the PDF doesn’t need to be editable, there’s another easy Google hack for
 Instead of replacing the text with “/copy” replace it with ”/export?format=pdf”. When you share this link with participants it’ll download whatever Google Doc it’s linked to as a PDF.
 
 While sharing files online is never _quite_ as simple as passing out a worksheet, at least we can take dealing with the printer out of the equation!
+
+***
+
+**_Want these tips delivered directly to your inbox?_** [**_Sign up for our email list here!_**](https://facilitatorcards.ck.page/6e80ec00fe)
