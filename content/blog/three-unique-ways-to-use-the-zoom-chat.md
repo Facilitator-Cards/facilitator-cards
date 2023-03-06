@@ -9,7 +9,7 @@ featured_image = "/img/blog/facilitation-tips-inbox-insta.png"
 images = ["/img/blog/facilitation-tips-inbox-insta.png"]
 keywords = ["how to improve zoom meetings", "virtual meeting", "tips for zoom", "facilitator tips", "how to use zoom", "zoom"]
 photo_cred = ""
-title = "Three Unique Ways to use the Zoom Chat 💬"
+title = "Zoom Series: Three Unique Ways to use the Zoom Chat 💬"
 
 +++
 One of our favorite ways to engage our participants in a virtual session is to ask them to use the Zoom chat.
