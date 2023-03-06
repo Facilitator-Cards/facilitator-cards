@@ -3,7 +3,6 @@ author = "Claire Bolger"
 categories = ""
 date = 2023-03-06T05:00:00Z
 description = "Virtual workshops, sessions, and meetings are here to stay. We're here to help make them better."
-draft = true
 facebook_discussion = ""
 featured_image = "/img/blog/facilitation-tips-inbox-insta.png"
 images = ["/img/blog/facilitation-tips-inbox-insta.png"]
