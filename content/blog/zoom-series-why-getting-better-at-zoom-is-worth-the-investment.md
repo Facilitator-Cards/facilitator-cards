@@ -18,17 +18,17 @@ Most people associate Zoom with meetings. Bad meetings. They’re immediately fi
 
 The truth is, a lot of meetings are bad. They lack structure, the actual goals are often obfuscated, and they fail to leverage people’s attendance and attention in a way that leaves participants feeling like their presence was meaningful.
 
-Virtual sessions, whether they’re 60-minute meetings or multi-day workshops they can all benefit from the same tools and approaches. We’ve been running online sessions for three years and have cracked the code on how to make them good experiences for all!
+Virtual sessions, whether it's a 60-minute meeting or a multi-day workshop, can all benefit from the same tools and approaches. We’ve been running online sessions for three years and have cracked the code on how to make them good experiences for all!
 
 We created this series to outline our favorite tips, tricks, and methodologies that keep our Zoom workshops exciting, engaging, and places people want to be. We’ll be sharing our secret sauce recipes from how to up your game with the chat, enhance your breakout rooms, frameworks that work even better online, and the software we’ll never Zoom without.
 
-We’ll be posting one tip every Monday to the blog, or you can sign up for our email series and get them directly to your inbox.
+We’ll be posting one tip every Monday here on the blog, or you can sign up for our email series and get them directly to your inbox.
 
 [**_Sign up for the email list here!_**](https://facilitatorcards.ck.page/6e80ec00fe)
 
 Whether you’re a manager running meetings, a facilitator running workshops, or a coach looking to increase the dynamics of your calls, we can all hack Zoom’s technology to better fit our needs.
 
-Here’s to happy Zooming! 
+Here’s to happy Zooming!
 
 Check out our first tip here:
 
