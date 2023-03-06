@@ -4,8 +4,8 @@ categories = "About us"
 date = 2023-03-06T05:01:00Z
 description = "Storm the chat, DM with ease, and get the chat log rolling!"
 facebook_discussion = ""
-featured_image = "/img/blog/zoomchatheader.png"
-images = ["/img/blog/zoomchatheader.png", "/img/blog/facilitation-tips-inbox-insta.png"]
+featured_image = "/img/blog/zoomtipsupdatedimage.png"
+images = ["/img/blog/zoomtipsupdatedimage.png"]
 keywords = ["how to improve zoom meetings", "virtual meeting", "tips for zoom", "facilitator tips", "how to use zoom", "zoom"]
 photo_cred = ""
 title = "Zoom Series: Three Unique Ways to use the Zoom Chat 💬"
@@ -40,3 +40,7 @@ Ask them to send things they want to remember, questions they have, quotes they 
 Sometimes, folks just need some specific instructions on what would be helpful to share in the chat. Whenever we provide some simple guidelines or examples we always find that the participation increases throughout the session—both in the chat and out loud!
 
 The chat is unique to virtual sessions and with a few frameworks, we can transform it into a helpful log that can better reflect our participant's reactions, questions, and takeaways.
+
+***
+
+**_Want these tips delivered directly to your inbox?_** [**_Sign up for our email list here!_**](https://facilitatorcards.ck.page/6e80ec00fe)
