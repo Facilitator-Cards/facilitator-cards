@@ -1,7 +1,7 @@
 +++
 author = "Claire Bolger"
 categories = "About us"
-date = 2023-03-03T05:00:00Z
+date = 2023-03-13T04:00:00Z
 description = "Sending a Google Doc link to participants? Try this!"
 facebook_discussion = ""
 featured_image = "/img/blog/googledocsthumbsup.png"
