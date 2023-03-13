@@ -43,4 +43,6 @@ The chat is unique to virtual sessions and with a few frameworks, we can transfo
 
 ***
 
-**_Want these tips delivered directly to your inbox?_** [**_Sign up for our email list here!_**](https://facilitatorcards.ck.page/6e80ec00fe)
+#### Want these tips delivered directly to your inbox? 
+
+[**_Sign up for our email list here!_**](https://facilitatorcards.ck.page/6e80ec00fe "Sign up for our email list here!")
