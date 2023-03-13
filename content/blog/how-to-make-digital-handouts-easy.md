@@ -3,13 +3,12 @@ author = "Claire Bolger"
 categories = "About us"
 date = 2023-03-03T05:00:00Z
 description = "Sending a Google Doc link to participants? Try this!"
-draft = true
 facebook_discussion = ""
 featured_image = "/img/blog/googledocsthumbsup.png"
 images = ["/img/blog/googledocsthumbsup.png"]
 keywords = []
 photo_cred = ""
-title = "Zoom Series: How to Make Digital Handouts Easy"
+title = "Zoom Series: How to Make Digital Handouts Easy 💯"
 
 +++
 Distributing handouts or worksheets in person is a breeze, but when it comes time to do it digitally we kept running into user errors that slowed the whole workshop to a halt.
