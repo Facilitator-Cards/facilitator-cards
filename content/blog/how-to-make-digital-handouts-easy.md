@@ -29,7 +29,7 @@ Once they click "Make a Copy" your work is done! They now have their own copy of
 
 We even have a video tutorial to follow along with to walk you through this hack step-by-step.
 
-[https://youtu.be/PiV00CbAL1Y](https://youtu.be/PiV00CbAL1Y "https://youtu.be/PiV00CbAL1Y")
+{{< youtube PiV00CbAL1Y >}}
 
 When we can't guarantee that our participants all have Google Drive, we prefer to send an editable PDF for them to have instead. We use the Form Creator on [DocFly](https://www.docfly.com/) to create the editable PDF, upload the PDF to a cloud drive and share that link with participants.
 
@@ -41,4 +41,6 @@ While sharing files online is never _quite_ as simple as passing out a worksheet
 
 ***
 
-**_Want these tips delivered directly to your inbox?_** [**_Sign up for our email list here!_**](https://facilitatorcards.ck.page/6e80ec00fe)
+#### Want these tips delivered directly to your inbox?
+
+ [**_Sign up for our email list here!_**](https://facilitatorcards.ck.page/6e80ec00fe)
