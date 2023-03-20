@@ -3,7 +3,6 @@ author = "Claire Bolger"
 categories = "About us"
 date = 2023-03-20T04:00:00Z
 description = "Vary the group size to increase the dynamic of any  meeting, workshop, or session!"
-draft = true
 facebook_discussion = ""
 featured_image = "/img/blog/zoomseriesbreakout1.png"
 images = ["/img/blog/zoomseriesbreakout1.png"]
