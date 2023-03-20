@@ -43,6 +43,10 @@ The chat is unique to virtual sessions and with a few frameworks, we can transfo
 
 ***
 
-#### Want these tips delivered directly to your inbox? 
+#### Want these tips delivered directly to your inbox?
 
 [**_Sign up for our email list here!_**](https://facilitatorcards.ck.page/6e80ec00fe "Sign up for our email list here!")
+
+Check out the rest of our Get Better at Zoom Series:
+
+[How to Make Digital Handouts Easy 💯](https://www.facilitator.cards/blog/how-to-make-digital-handouts-easy/)
