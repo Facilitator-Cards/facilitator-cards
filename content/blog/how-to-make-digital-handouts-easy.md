@@ -43,4 +43,8 @@ While sharing files online is never _quite_ as simple as passing out a worksheet
 
 #### Want these tips delivered directly to your inbox?
 
- [**_Sign up for our email list here!_**](https://facilitatorcards.ck.page/6e80ec00fe)
+[**_Sign up for our email list here!_**](https://facilitatorcards.ck.page/6e80ec00fe)
+
+Check out the rest of our Get Better at Zoom Series:
+
+[Three Unique Ways to use the Zoom Chat ](https://www.facilitator.cards/blog/three-unique-ways-to-use-the-zoom-chat/)
