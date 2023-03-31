@@ -12,7 +12,7 @@ photo_cred = ""
 title = "Zoom Series: How to Avoid Drop-Off in Breakout Rooms 📉"
 
 +++
-We’ve all been in sessions where we mention breakout rooms and the number next to the participant list suddenly drops. 
+We’ve all been in sessions where we mention breakout rooms and the number next to the participant list suddenly drops.
 
 Breakout rooms are key to shifting dynamics, allowing for small group connection and solo work, and are a cornerstone in any virtual workshop we run. So how can we get our participants to be less nervous—or even excited—about leaving the main Zoom room?
 
@@ -59,3 +59,15 @@ About to make a final decision? Run a [10/10/10 Analysis ](https://www.facilitat
 Breakout rooms don’t have to strike fear into the hearts of our participants—or even us as Facilitators and Leaders! We find that small group work or solo breakout rooms usher in a totally different headspace for everyone, reduce Zoom fatigue, and can even be the most memorable experience within a virtual workshop.
 
 ***
+
+#### Want to get these zoom tips delivered directly to your inbox?
+
+[**_Sign up for our email list here!_**](https://facilitatorcards.ck.page/6e80ec00fe "Sign up for our email list here!")
+
+Check out the rest of our Get Better at Zoom Series:
+
+[How to use Breakout Rooms like a Pro](https://www.facilitator.cards/blog/zoom-series-how-to-use-breakout-rooms-like-a-pro/)
+
+[How to Make Digital Handouts Easy](https://www.facilitator.cards/blog/how-to-make-digital-handouts-easy/)
+
+[Three Unique Ways to use the Zoom Chat ](https://www.facilitator.cards/blog/three-unique-ways-to-use-the-zoom-chat/)
