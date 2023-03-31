@@ -3,7 +3,6 @@ author = "Claire Bolger"
 categories = "Using Facilitator Cards"
 date = 2023-03-31T04:00:00Z
 description = "Improving break out rooms, one activity framework at a time."
-draft = true
 facebook_discussion = ""
 featured_image = "/img/blog/breakoutroomspt2.png"
 images = ["/img/blog/breakoutroomspt2.png"]
