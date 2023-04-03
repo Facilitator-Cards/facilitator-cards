@@ -3,7 +3,6 @@ author = "Claire Bolger"
 categories = "About us"
 date = 2023-04-03T04:00:00Z
 description = "Upcoming events, a super cool kickstarter, and all the icebreakers you'll ever need!"
-draft = true
 facebook_discussion = ""
 featured_image = "/img/blog/april202023mailer.png"
 images = ["/img/blog/april202023mailer.png"]
