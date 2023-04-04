@@ -3,10 +3,9 @@ author = "Claire Bolger"
 categories = "Using Facilitator Cards"
 date = 2023-04-04T04:00:00Z
 description = "New possibilities for virtual workshops & meetings await!"
-draft = true
 facebook_discussion = ""
-featured_image = ""
-images = []
+featured_image = "/img/blog/zoomseriessolobreakout.png"
+images = ["/img/blog/zoomseriessolobreakout.png"]
 keywords = ["participation", "solo breakout rooms", "zoom series", "zoom"]
 photo_cred = ""
 title = "Zoom Series: The Power of Solo Break Out Rooms"
@@ -31,3 +30,17 @@ Remember before sending them off to remind them:
 Keeping virtual sessions engaging can prove challenging when we can’t energetically shift the same way as we can when in the same room with our groups. By varying their screen settings we can help create a definitive transition and help usher in a fresh headspace!
 
 ***
+
+#### Want to get these Zoom tips delivered directly to your inbox?
+
+[**_Sign up for our email list here!_**](https://facilitatorcards.ck.page/6e80ec00fe "Sign up for our email list here!")
+
+Check out the rest of our Get Better at Zoom Series:
+
+[**How to use Breakout Rooms like a Pro**](https://www.facilitator.cards/blog/zoom-series-how-to-use-breakout-rooms-like-a-pro/)
+
+[**Breakout Rooms pt.2 - Participation Boogaloo**](https://www.facilitator.cards/blog/zoom-series-how-to-avoid-drop-off-in-breakout-rooms/)
+
+[**How to Make Digital Handouts Easy**](https://www.facilitator.cards/blog/how-to-make-digital-handouts-easy/)
+
+[**Three Unique Ways to use the Zoom Chat**](https://www.facilitator.cards/blog/three-unique-ways-to-use-the-zoom-chat/) 
