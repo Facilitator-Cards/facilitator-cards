@@ -3,7 +3,6 @@ author = "Claire Bolger"
 categories = "About us"
 date = 2023-04-10T04:00:00Z
 description = "Improve session morale with this one simple step!"
-draft = true
 facebook_discussion = ""
 featured_image = "/img/blog/nolatezoomarrivalsimage.png"
 images = ["/img/blog/nolatezoomarrivalsimage.png"]
@@ -48,4 +47,20 @@ This has allowed us to be more present in every single virtual session since we'
 
 ***
 
-p.s. We have this policy in action at our bi-monthly Card Sharks events. Card Sharks is a free session for anyone with [a deck of Facilitator Cards ](shop.facilitator.cards)to learn new techniques as facilitators and put the cards into action. Get your deck of [Facilitator Cards here ](shop.facilitator.cards)and [RSVP for our next Card Sharks ](lu.ma/cardsharks)to see us put our Zoom tips into action!
+#### Want to get these Zoom tips delivered directly to your inbox?
+
+[**_Sign up for our email list here!_**](https://facilitatorcards.ck.page/6e80ec00fe "Sign up for our email list here!")
+
+Check out the rest of our Get Better at Zoom Series:
+
+[**How to use Breakout Rooms like a Pro**](https://www.facilitator.cards/blog/zoom-series-how-to-use-breakout-rooms-like-a-pro/)
+
+[**Breakout Rooms pt.2 - Participation Boogaloo**](https://www.facilitator.cards/blog/zoom-series-how-to-avoid-drop-off-in-breakout-rooms/)
+
+[**Breakout Rooms pt. 3 - Why do Solo Breakouts**](https://www.facilitator.cards/blog/zoom-series-the-power-of-solo-break-out-rooms/)
+
+[**How to Make Digital Handouts Easy**](https://www.facilitator.cards/blog/how-to-make-digital-handouts-easy/)
+
+[**Three Unique Ways to use the Zoom Chat**](https://www.facilitator.cards/blog/three-unique-ways-to-use-the-zoom-chat/)
+
+_p.s. We have this "no late arrivals" policy in action at our bi-monthly Card Sharks events. Card Sharks is a free session for anyone with_ [_a deck of Facilitator Cards_](shop.facilitator.cards) _to learn new techniques as facilitators and put the cards into action. Get your deck of_ [_Facilitator Cards here_](shop.facilitator.cards) _and_ [_RSVP for our next Card Sharks_](lu.ma/cardsharks) _to see us put our Zoom tips into action!_
