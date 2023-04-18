@@ -46,3 +46,5 @@ Check out the rest of our Get Better at Zoom Series:
 [**Three Unique Ways to use the Zoom Chat**](https://www.facilitator.cards/blog/three-unique-ways-to-use-the-zoom-chat/)
 
 [**Set a “No Late Arrivals” Policy**](https://www.facilitator.cards/blog/zoom-series-set-a-no-late-arrivals-policy/)
+
+[**Improve Recordings with These Five Tips!**](https://www.facilitator.cards/blog/zoom-series-improve-recordings-with-these-five-tips/)
