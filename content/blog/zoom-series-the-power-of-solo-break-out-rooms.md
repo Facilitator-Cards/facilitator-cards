@@ -43,4 +43,6 @@ Check out the rest of our Get Better at Zoom Series:
 
 [**How to Make Digital Handouts Easy**](https://www.facilitator.cards/blog/how-to-make-digital-handouts-easy/)
 
-[**Three Unique Ways to use the Zoom Chat**](https://www.facilitator.cards/blog/three-unique-ways-to-use-the-zoom-chat/) 
+[**Three Unique Ways to use the Zoom Chat**](https://www.facilitator.cards/blog/three-unique-ways-to-use-the-zoom-chat/)
+
+[**Set a “No Late Arrivals” Policy**](https://www.facilitator.cards/blog/zoom-series-set-a-no-late-arrivals-policy/)
