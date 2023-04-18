@@ -43,3 +43,21 @@ Zoom prioritizes showing folks with their cameras on in the gallery view, but if
 This tip works best if you have a co-facilitator who is recording the event to their computer so that the primary facilitator can still “see” everyone that’s in the room. It’s easy to forget that folks are there when you can’t see them in the Zoom window!
 
 ***
+
+#### Want these tips delivered directly to your inbox?
+
+[**_Sign up for our email list here!_**](https://facilitatorcards.ck.page/6e80ec00fe "Sign up for our email list here!")
+
+Check out the rest of our Get Better at Zoom Series:
+
+[**How to use Breakout Rooms like a Pro**](https://www.facilitator.cards/blog/zoom-series-how-to-use-breakout-rooms-like-a-pro/)
+
+[**Breakout Rooms pt.2 - Participation Boogaloo**](https://www.facilitator.cards/blog/zoom-series-how-to-avoid-drop-off-in-breakout-rooms/)
+
+[**Breakout Rooms pt. 3 - Why do Solo Breakouts**](https://www.facilitator.cards/blog/zoom-series-the-power-of-solo-break-out-rooms/)
+
+[**How to Make Digital Handouts Easy**](https://www.facilitator.cards/blog/how-to-make-digital-handouts-easy/)
+
+[**Set a “No Late Arrivals” Policy**](https://www.facilitator.cards/blog/zoom-series-set-a-no-late-arrivals-policy/)
+
+[**Three Unique Ways to use the Zoom Chat**](https://www.facilitator.cards/blog/three-unique-ways-to-use-the-zoom-chat/)
