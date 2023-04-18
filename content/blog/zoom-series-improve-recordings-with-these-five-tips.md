@@ -2,11 +2,11 @@
 author = "Claire Bolger"
 categories = "About us"
 date = 2023-04-18T04:00:00Z
-description = "Simple practices that guarantee capturing sessions in their best light."
+description = "Simple practices that guarantee sessions will be captured in their best light."
 draft = true
 facebook_discussion = ""
-featured_image = ""
-images = []
+featured_image = "/img/blog/getbetteratzoom_recordingtips1.png"
+images = ["/img/blog/getbetteratzoom_recordingtips1.png"]
 keywords = ["online meetings", "virtual workshops", "zoom"]
 photo_cred = ""
 title = "Zoom Series: Improve Recordings with These Five Tips!"
