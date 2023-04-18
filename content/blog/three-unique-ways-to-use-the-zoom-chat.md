@@ -58,3 +58,5 @@ Check out the rest of our Get Better at Zoom Series:
 [**How to Make Digital Handouts Easy**](https://www.facilitator.cards/blog/how-to-make-digital-handouts-easy/)
 
 [**Set a “No Late Arrivals” Policy**](https://www.facilitator.cards/blog/zoom-series-set-a-no-late-arrivals-policy/)
+
+[**Improve Recordings with These Five Tips!**](https://www.facilitator.cards/blog/zoom-series-improve-recordings-with-these-five-tips/)
