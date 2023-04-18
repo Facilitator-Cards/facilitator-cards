@@ -63,4 +63,6 @@ Check out the rest of our Get Better at Zoom Series:
 
 [**Three Unique Ways to use the Zoom Chat**](https://www.facilitator.cards/blog/three-unique-ways-to-use-the-zoom-chat/)
 
+[**Improve Recordings with These Five Tips!**](https://www.facilitator.cards/blog/zoom-series-improve-recordings-with-these-five-tips/)
+
 _p.s. We have this "no late arrivals" policy in action at our bi-monthly Card Sharks events. Card Sharks is a free session for anyone with_ [_a deck of Facilitator Cards_](shop.facilitator.cards) _to learn new techniques as facilitators and put the cards into action. Get your deck of_ [_Facilitator Cards here_](shop.facilitator.cards) _and_ [_RSVP for our next Card Sharks_](lu.ma/cardsharks) _to see us put our Zoom tips into action!_
