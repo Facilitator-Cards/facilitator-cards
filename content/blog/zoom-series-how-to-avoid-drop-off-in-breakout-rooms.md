@@ -65,8 +65,12 @@ Breakout rooms don’t have to strike fear into the hearts of our participants�
 
 Check out the rest of our Get Better at Zoom Series:
 
-[How to use Breakout Rooms like a Pro](https://www.facilitator.cards/blog/zoom-series-how-to-use-breakout-rooms-like-a-pro/)
+[**How to use Breakout Rooms like a Pro**](https://www.facilitator.cards/blog/zoom-series-how-to-use-breakout-rooms-like-a-pro/)
 
-[How to Make Digital Handouts Easy](https://www.facilitator.cards/blog/how-to-make-digital-handouts-easy/)
+[**Breakout Rooms pt. 3 - Why do Solo Breakouts**](https://www.facilitator.cards/blog/zoom-series-the-power-of-solo-break-out-rooms/)
 
-[Three Unique Ways to use the Zoom Chat ](https://www.facilitator.cards/blog/three-unique-ways-to-use-the-zoom-chat/)
+[**How to Make Digital Handouts Easy**](https://www.facilitator.cards/blog/how-to-make-digital-handouts-easy/)
+
+[**Three Unique Ways to use the Zoom Chat**](https://www.facilitator.cards/blog/three-unique-ways-to-use-the-zoom-chat/)
+
+[**Set a “No Late Arrivals” Policy**](https://www.facilitator.cards/blog/zoom-series-set-a-no-late-arrivals-policy/)
