@@ -47,12 +47,18 @@ In our upcoming posts, we’ll dig into how we navigate getting participants exc
 
 ***
 
-#### Want to get these zoom tips delivered directly to your inbox?
+#### Want to get these Zoom tips delivered directly to your inbox?
 
 [**_Sign up for our email list here!_**](https://facilitatorcards.ck.page/6e80ec00fe "Sign up for our email list here!")
 
 Check out the rest of our Get Better at Zoom Series:
 
-[How to Make Digital Handouts Easy](https://www.facilitator.cards/blog/how-to-make-digital-handouts-easy/)
+[**Breakout Rooms pt.2 - Participation Boogaloo**](https://www.facilitator.cards/blog/zoom-series-how-to-avoid-drop-off-in-breakout-rooms/)
 
-[Three Unique Ways to use the Zoom Chat ](https://www.facilitator.cards/blog/three-unique-ways-to-use-the-zoom-chat/)
+[**Breakout Rooms pt. 3 - The Power of Solo Breakouts**](https://www.facilitator.cards/blog/zoom-series-the-power-of-solo-break-out-rooms/)
+
+[**How to Make Digital Handouts Easy**](https://www.facilitator.cards/blog/how-to-make-digital-handouts-easy/)
+
+[**Three Unique Ways to use the Zoom Chat**](https://www.facilitator.cards/blog/three-unique-ways-to-use-the-zoom-chat/)
+
+[**Set a “No Late Arrivals” Policy**](https://www.facilitator.cards/blog/zoom-series-set-a-no-late-arrivals-policy/)
