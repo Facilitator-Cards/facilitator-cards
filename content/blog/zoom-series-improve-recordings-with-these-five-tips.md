@@ -3,7 +3,6 @@ author = "Claire Bolger"
 categories = "About us"
 date = 2023-04-18T04:00:00Z
 description = "Simple practices that guarantee sessions will be captured in their best light."
-draft = true
 facebook_discussion = ""
 featured_image = "/img/blog/getbetteratzoom_recordingtips1.png"
 images = ["/img/blog/getbetteratzoom_recordingtips1.png"]
