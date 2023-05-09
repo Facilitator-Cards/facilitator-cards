@@ -1,16 +1,17 @@
 +++
 author = "Claire Bolger"
 categories = "About us"
-date = 2023-01-02T05:00:00Z
+date = 2023-01-02T05:00:00.000Z
 description = "Upcoming events, icebreaker prompts, and more!"
 facebook_discussion = ""
 featured_image = "/img/blog/january23-monthly-mailer.png"
-images = ["/img/blog/january23-monthly-mailer.png"]
-keywords = []
+images = [ "/img/blog/january23-monthly-mailer.png" ]
+keywords = [ ]
 photo_cred = ""
 title = "January Monthly Mailer from Facilitator Cards"
-
+_template = "blog_post"
 +++
+
 ## **✨ January Monthly Mailer from Facilitator Cards**
 
 Hello hello, welcome to January! This month always feels sparkly and new (and if like us you’re residing in the northeast part of the United States, it’s also **cold**). Has anyone successfully written 2023 on the first try yet?

@@ -1,16 +1,17 @@
 +++
 author = "Meg Bolger"
 categories = "About us"
-date = 2022-10-04T04:00:00Z
+date = 2022-10-04T04:00:00.000Z
 description = "Events, trainings & everything you may have missed from September!"
 facebook_discussion = ""
 featured_image = "/img/blog/october-mailer-cover-image.png"
-images = ["/img/blog/october-mailer-cover-image.png"]
-keywords = []
+images = [ "/img/blog/october-mailer-cover-image.png" ]
+keywords = [ ]
 photo_cred = ""
 title = "👻 Facilitator Cards October Monthly Mailer"
-
+_template = "blog_post"
 +++
+
 ## 👻 **October Monthly Mailer from Facilitator Cards**
 
 **Boo!**

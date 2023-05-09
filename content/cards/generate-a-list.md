@@ -1,3 +1,7 @@
++++
+_template = "card"
++++
+
 ---
 title: "Generate a List"
 group: "full group"

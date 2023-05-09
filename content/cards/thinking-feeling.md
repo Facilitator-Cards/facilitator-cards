@@ -1,3 +1,7 @@
++++
+_template = "card"
++++
+
 ---
 title: "Thinking & Feeling"
 group: "full group"

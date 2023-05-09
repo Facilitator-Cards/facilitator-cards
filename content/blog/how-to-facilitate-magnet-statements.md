@@ -1,15 +1,24 @@
 +++
 author = "Sam Killermann"
 categories = "Using the Cards"
-date = 2020-02-11T21:08:00Z
+date = 2020-02-11T21:08:00.000Z
 description = "A preview chapter from the Facilitator Cards Facilitation Guide"
 featured_image = "/img/blog/magnet-statements-how-to-use.jpg"
-images = []
-keywords = ["magnet statements", "training resources", "facilitator cards", "facilitator tools", "facilitator resources", "training", "facilitation"]
+images = [ ]
+keywords = [
+  "magnet statements",
+  "training resources",
+  "facilitator cards",
+  "facilitator tools",
+  "facilitator resources",
+  "training",
+  "facilitation"
+]
 photo_cred = ""
 title = "How to Facilitate Magnet Statements"
-
+_template = "blog_post"
 +++
+
 "Set up the space for easy movement. Prime the group with a topic or concept, and ask for one participant to make a related statement they believe. Other participants respond by moving closer or farther based on their agreement or disagreement. Ask for another statement, then repeat."
 
 That's the short explanation on the back of [Magnet Statements](https://www.facilitator.cards/cards/magnet-statements/), one of [the cards](https://www.facilitator.cards/cards/) in our [Facilitator Cards Preview Pack](https://www.facilitator.cards/preview-pack "Facilitator Cards Preview Pack") and [the forthcoming foundational deck](https://www.kickstarter.com/projects/facilitatorcards/facilitator-cards "Facilitator cards on Kickstarter").

@@ -1,16 +1,24 @@
 +++
 author = "Claire Bolger"
 categories = "About us"
-date = 2023-03-20T04:00:00Z
+date = 2023-03-20T04:00:00.000Z
 description = "Vary the group size to increase the dynamic of any  meeting, workshop, or session!"
 facebook_discussion = ""
 featured_image = "/img/blog/facilitation-tips-inbox-insta-6.png"
-images = ["/img/blog/facilitation-tips-inbox-insta-6.png"]
-keywords = ["better zoom meetings", "meeting dynamics", "group size", "how to use breakout rooms", "get better at zoom", "zoom"]
+images = [ "/img/blog/facilitation-tips-inbox-insta-6.png" ]
+keywords = [
+  "better zoom meetings",
+  "meeting dynamics",
+  "group size",
+  "how to use breakout rooms",
+  "get better at zoom",
+  "zoom"
+]
 photo_cred = ""
 title = "Zoom Series: How to use Breakout Rooms like a Pro"
-
+_template = "blog_post"
 +++
+
 Breakout rooms are a surprisingly powerful tool when it comes to any online meeting or workshop. Keeping everyone in the same main room throughout the entire meeting or session will lead to more multitasking and less participation (and honestly, fewer opportunities for people to feel valued and heard!).
 
 Breakout rooms are great for small group work, solo reflection, and changing up the energy of your session.

@@ -1,16 +1,26 @@
 +++
 author = "Meg Bolger"
 categories = "using the cards"
-date = 2021-06-18T15:00:00Z
+date = 2021-06-18T15:00:00.000Z
 description = "New Zoom activities live on the Virtual Facilitator Guide to mix up your next online gathering"
 facebook_discussion = ""
 featured_image = "/img/blog/blog-post-new-additions-to-virtual-guide.jpg"
-images = []
-keywords = ["facilitator cards", "virtual facilitation", "facilitation activities", "online facilitation", "Zoom meeting", "Zoom facilitation", "virtual activities", "digital facilitation"]
+images = [ ]
+keywords = [
+  "facilitator cards",
+  "virtual facilitation",
+  "facilitation activities",
+  "online facilitation",
+  "Zoom meeting",
+  "Zoom facilitation",
+  "virtual activities",
+  "digital facilitation"
+]
 photo_cred = ""
 title = "What's New on the Virtual Facilitator Guide: Spring 2021"
-
+_template = "blog_post"
 +++
+
 The Virtual Facilitator Guide was started as a way to support folks using [Facilitator Cards](http://facilitator.cards/) to transition and translate these cards to Zoom and the online space. Every activity on the virtual guide write-up includes the gist of the activity, a step-by-step walk-through, context you might need as a facilitator, how to swap in/out other tech platforms, and any prep you’ll need to do beforehand.
 
 This round we’ve added new write-ups for a few cards that deal with questions, some of our favorite facilitator cards to facilitate on Gather, and a bonus process that you can add to your deck via the blank emotion card.

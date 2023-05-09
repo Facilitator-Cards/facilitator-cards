@@ -1,16 +1,17 @@
 +++
 author = "Meg Bolger"
 categories = "resources"
-date = 2021-11-25T05:02:00Z
+date = 2021-11-25T05:02:00.000Z
 description = "Recommendations for all the Facilitators in your life (or yourself, we won't judge!)"
 facebook_discussion = ""
 featured_image = "/img/blog/11.png"
-images = ["/img/blog/11.png"]
-keywords = ["facilitator", "gift guide", "facilitator tools"]
+images = [ "/img/blog/11.png" ]
+keywords = [ "facilitator", "gift guide", "facilitator tools" ]
 photo_cred = ""
 title = "The Facilitator Cards Gift Guide for Facilitator Gear"
-
+_template = "blog_post"
 +++
+
 It's officially giving season and who doesn’t need a few more pieces of gear for your facilitator box! For our fellow facilitation geeks, we wanted to put together & share a few of our favorite pieces of gear for facilitation.
 
 We tried to keep our list to just things that we use all the time, but we included a few that are on our wishlist too! 

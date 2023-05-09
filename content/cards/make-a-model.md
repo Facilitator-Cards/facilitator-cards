@@ -1,3 +1,7 @@
++++
+_template = "card"
++++
+
 ---
 title: "Make a Model"
 group: "full group"

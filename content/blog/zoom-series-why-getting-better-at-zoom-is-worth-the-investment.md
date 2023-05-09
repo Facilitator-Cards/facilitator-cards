@@ -1,16 +1,17 @@
 +++
 author = "Claire Bolger"
 categories = ""
-date = 2023-03-06T05:00:00Z
+date = 2023-03-06T05:00:00.000Z
 description = "Virtual workshops, sessions, and meetings are here to stay. We're here to help make them better."
 facebook_discussion = ""
 featured_image = "/img/blog/facilitation-tips-inbox-insta.png"
-images = ["/img/blog/facilitation-tips-inbox-insta.png"]
-keywords = []
+images = [ "/img/blog/facilitation-tips-inbox-insta.png" ]
+keywords = [ ]
 photo_cred = ""
 title = "Zoom Series: Why Get Better at Zoom?"
-
+_template = "blog_post"
 +++
+
 Most people associate Zoom with meetings. Bad meetings. They’re immediately filled with a sense of dread about their time being wasted or having to figure out how to look like they’re paying attention.
 
 The truth is, a lot of meetings are bad. They lack structure, the actual goals are often obfuscated, and they fail to leverage people’s attendance and attention in a way that leaves participants feeling like their presence was meaningful.

@@ -1,3 +1,7 @@
++++
+_template = "card"
++++
+
 ---
 title: "Comparison Table"
 group: "full group"

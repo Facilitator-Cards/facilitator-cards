@@ -1,0 +1,24 @@
+{
+  "name": "facilitator-cards",
+  "version": "1.0.0",
+  "description": "[![Netlify Status](https://api.netlify.com/api/v1/badges/e11fcf8c-28c4-46e2-9f0e-7036eb4b6be6/deploy-status)](https://app.netlify.com/sites/facilitator-cards/deploys)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Facilitator-Cards/facilitator-cards.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Facilitator-Cards/facilitator-cards/issues"
+  },
+  "homepage": "https://github.com/Facilitator-Cards/facilitator-cards#readme",
+  "dependencies": {
+    "@tinacms/cli": "^1.5.11",
+    "tinacms": "^1.5.4"
+  }
+}

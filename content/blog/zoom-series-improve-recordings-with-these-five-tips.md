@@ -1,16 +1,17 @@
 +++
 author = "Claire Bolger"
 categories = "About us"
-date = 2023-04-18T04:00:00Z
+date = 2023-04-18T04:00:00.000Z
 description = "Simple practices that guarantee sessions will be captured in their best light."
 facebook_discussion = ""
 featured_image = "/img/blog/getbetteratzoom_recordingtips1.png"
-images = ["/img/blog/getbetteratzoom_recordingtips1.png"]
-keywords = ["online meetings", "virtual workshops", "zoom"]
+images = [ "/img/blog/getbetteratzoom_recordingtips1.png" ]
+keywords = [ "online meetings", "virtual workshops", "zoom" ]
 photo_cred = ""
 title = "Zoom Series: Improve Recordings with These Five Tips!"
-
+_template = "blog_post"
 +++
+
 There are **_so many_** good reasons to record your Zoom sessions.
 
 Whether it’s solely to [review your game tape ](https://www.facilitator.cards/blog/how-to-review-your-facilitator-game-tape/)or you have folks counting on watching the recording of your session, having the chance to easily record a workshop is one of the major benefits of virtual sessions.

@@ -1,16 +1,17 @@
 +++
 author = "Meg Bolger"
 categories = "resources"
-date = 2021-11-25T05:00:00Z
+date = 2021-11-25T05:00:00.000Z
 description = "Recommendations for all the Facilitators in your life (or yourself, we won't judge!)"
 facebook_discussion = ""
 featured_image = "/img/blog/22.png"
-images = ["/img/blog/22.png"]
-keywords = ["facilitator gift guide", "gift guide", "facilitator cards"]
+images = [ "/img/blog/22.png" ]
+keywords = [ "facilitator gift guide", "gift guide", "facilitator cards" ]
 photo_cred = ""
 title = "The Facilitator Cards Gift Guide for Facilitator Books"
-
+_template = "blog_post"
 +++
+
 It's officially giving season! For our fellow facilitators, we wanted to put together & share a few of our favorite books when it comes to facilitation and the facilitator mindset.
 
 We will be linking to the books GoodReads page, and encourage everyone to support their local independent bookstore this holiday season!

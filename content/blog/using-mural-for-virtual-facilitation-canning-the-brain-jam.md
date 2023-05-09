@@ -1,15 +1,30 @@
 +++
 author = "Sam Killermann"
 categories = "resources"
-date = 2020-05-22T00:07:00Z
+date = 2020-05-22T00:07:00.000Z
 description = "We surfaced dozens of facilitator challenges we're facing, and wise-crowds-ed solutions."
 featured_image = "/img/blog/facilitator-cards-brain-jam-mural-virtual-facilitation.jpg"
-images = ["/img/blog/facilitator-cards-brain-jam-mural-virtual-facilitation.jpg", "/img/blog/facilitator-cards-brain-jam-mural-all-challenges.jpg", "/img/blog/facilitator-cards-brain-jam-mural-solutions-for-digital-proficiency.jpg", "/img/blog/facilitator-cards-brain-jam-mural-may-15th.jpg", "/img/blog/facilitator-cards-brain-jam-mural-may-19th.jpg"]
-keywords = ["facilitator resources", "remote learning", "zoom", "mural", "virtual facilitation", "facilitators", "facilitation"]
+images = [
+  "/img/blog/facilitator-cards-brain-jam-mural-virtual-facilitation.jpg",
+  "/img/blog/facilitator-cards-brain-jam-mural-all-challenges.jpg",
+  "/img/blog/facilitator-cards-brain-jam-mural-solutions-for-digital-proficiency.jpg",
+  "/img/blog/facilitator-cards-brain-jam-mural-may-15th.jpg",
+  "/img/blog/facilitator-cards-brain-jam-mural-may-19th.jpg"
+]
+keywords = [
+  "facilitator resources",
+  "remote learning",
+  "zoom",
+  "mural",
+  "virtual facilitation",
+  "facilitators",
+  "facilitation"
+]
 photo_cred = ""
 title = "Using MURAL for Virtual Facilitation: Canning the Brain Jam"
-
+_template = "blog_post"
 +++
+
 This past week, Meg facilitated two [Brain Jams focused on using MURAL](https://www.facilitator.cards/blog/join-our-first-facilitator-brain-jam-using-mural-for-virtual-facilitation/) for virtual facilitation. I participated, learned a lot, and am here to share what stood out.
 
 First, I’ll say that we had a good range of [MURAL](https://mural.co) expertise in the few dozen facilitators who were jamming with us, from the “never used it” to the “very familiar," and I’m smack dab in the middle.

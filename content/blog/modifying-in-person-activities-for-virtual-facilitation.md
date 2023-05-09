@@ -1,15 +1,24 @@
 +++
 author = "Sam Killermann"
 categories = "Resources"
-date = 2020-03-27T19:44:00Z
+date = 2020-03-27T19:44:00.000Z
 description = "From the digital tools you'll need, to the questions to ask yourself as you're rewriting your agendas, here's a great place to start if you're transitioning from physical rooms to Zoom."
 featured_image = "/img/blog/thomas-jensen-unsplash.jpg"
-images = []
-keywords = ["virtual facilitation activities", "virtual facilitation tools", "facilitator tools", "remote facilitation", "facilitation resources", "facilitators", "virtual facilitation"]
+images = [ ]
+keywords = [
+  "virtual facilitation activities",
+  "virtual facilitation tools",
+  "facilitator tools",
+  "remote facilitation",
+  "facilitation resources",
+  "facilitators",
+  "virtual facilitation"
+]
 photo_cred = "Thomas Jensen"
 title = "Modifying In-Person Activities for Virtual Facilitation"
-
+_template = "blog_post"
 +++
+
 A lot of us are facilitating virtual workshops now, and facing all the new challenges that come with that setting. One of the things on the tops of many of our minds: “Can I still do my go-to activities, that I’ve been facilitating for years, in Zoom?”
 
 In the past two weeks, I’ve gotten a bunch of emails asking essentially that. Earlier today, Meg and I got an email asking if our Safe Zone curriculum can work over Zoom, and if so what suggestions we have for modifying it.

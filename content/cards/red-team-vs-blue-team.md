@@ -1,3 +1,7 @@
++++
+_template = "card"
++++
+
 ---
 title: "Red Team vs. Blue Team"
 group: "full group"

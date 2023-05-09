@@ -1,3 +1,7 @@
++++
+_template = "card"
++++
+
 ---
 title: "Timeline Map"
 group: "individuals"

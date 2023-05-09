@@ -1,10 +1,11 @@
 +++
-date = 2021-12-22T20:00:00Z
+date = 2021-12-22T20:00:00.000Z
 description = ""
 priority = 1
 title = "Facilitator Training For Managers and Directors"
-
+_template = "page"
 +++
+
 Whether it's meeting with your team or leading an all-hands, running effective meetings that make people feel vital, valued, and included is an essential skill as a leader. And yet it's one that people rarely get any training or support in learning how to do well.
 
 **Facilitator Training for Managers and Directors** is focused on giving your leadership team the ability to transition from talking _at_ people to talking _with_ people and facilitating their teams talking to each other.

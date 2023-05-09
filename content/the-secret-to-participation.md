@@ -1,10 +1,11 @@
 +++
-date = 2021-10-21T16:00:00Z
+date = 2021-10-21T16:00:00.000Z
 description = ""
 priority = -1
 title = "The Secret to Participation"
-
+_template = "page"
 +++
+
 This page hosts all the follow-up resources from the session **The Secret to Participation is Facilitation**! If there are any resources that you were hoping would be included that are not on this page, please reach out to Meg at [Meg@facilitator.cards]().
 
 ## The Agenda

@@ -1,16 +1,23 @@
 +++
 author = "Meg Bolger"
 categories = "using the cards"
-date = 2021-05-21T17:00:00Z
+date = 2021-05-21T17:00:00.000Z
 description = "Answers to a few Card Carrier questions from our first Card Sharks session."
 facebook_discussion = "https://www.facebook.com/FacilitatorCards/posts/532060444870304"
 featured_image = "/img/blog/screen-shot-2021-05-21-at-9-00am.png"
-images = ["/img/blog/screen-shot-2021-05-21-at-9-00am.png"]
-keywords = ["waterproof", "eco-friendly", "durable", "facilitator cards", "facilitator tools"]
+images = [ "/img/blog/screen-shot-2021-05-21-at-9-00am.png" ]
+keywords = [
+  "waterproof",
+  "eco-friendly",
+  "durable",
+  "facilitator cards",
+  "facilitator tools"
+]
 photo_cred = ""
 title = "How to Write On, Clean Off, and Reuse Your Facilitator Cards"
-
+_template = "blog_post"
 +++
+
 Recently, we ran our first session of Card Sharks, which is an opportunity for folks with Facilitator Cards to come together to ask questions, play, and better know their Facilitator Cards. ([RSVP here for the next one](https://airtable.com/shrqI0e9xxclfLLCr)!)
 
 There were a few questions about waterproofness of the cards, whether you really can write on them, and how to clean them off after you do. Here’s the scoop.

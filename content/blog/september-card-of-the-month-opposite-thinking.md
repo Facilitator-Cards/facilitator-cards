@@ -1,16 +1,17 @@
 +++
 author = "Meg Bolger"
 categories = "About us"
-date = 2022-09-01T04:00:00Z
+date = 2022-09-01T04:00:00.000Z
 description = "Learn all about Opposite Thinking and why it's one of our favorite processes!"
 facebook_discussion = ""
 featured_image = "/img/blog/dsc_0057_e.jpg"
-images = ["/img/blog/dsc_0057_e.jpg"]
-keywords = []
+images = [ "/img/blog/dsc_0057_e.jpg" ]
+keywords = [ ]
 photo_cred = ""
 title = "September Card Of The Month: Opposite Thinking 🔁🤔"
-
+_template = "blog_post"
 +++
+
 ## September Card Of The Month: Opposite Thinking 🔁🤔
 
 _Each month, we highlight a card so you can get to know_ [_the deck_](http://shop.facilitator.cards) _one at a time. This month, allow us to introduce you to one of our favorite (& honestly, most fun) brainstorming processes:_ [**_Opposite Thinking_**](https://www.facilitator.cards/cards/opposite-thinking/)_._

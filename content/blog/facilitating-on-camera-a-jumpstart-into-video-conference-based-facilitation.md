@@ -1,15 +1,27 @@
 +++
 author = "Sam Killermann"
 categories = "Resources"
-date = 2020-03-25T20:01:00Z
+date = 2020-03-25T20:01:00.000Z
 description = "Are you struggling for ways to connect groups during the pandemic? Don’t know your Zooms from your Hangouts? Have you never before considered the roles of lighting or microphones in your work?"
 featured_image = "/img/blog/aleksi-tappura-unsplash.jpg"
-images = ["/img/blog/video-facilitation-tip-lighting.jpg", "/img/blog/video-facilitation-tip-eye-contact.jpg"]
-keywords = ["remote facilitation", "facilitator resources", "online facilitation", "zoom facilitation", "virtual facilitation", "facilitator", "facilitation"]
+images = [
+  "/img/blog/video-facilitation-tip-lighting.jpg",
+  "/img/blog/video-facilitation-tip-eye-contact.jpg"
+]
+keywords = [
+  "remote facilitation",
+  "facilitator resources",
+  "online facilitation",
+  "zoom facilitation",
+  "virtual facilitation",
+  "facilitator",
+  "facilitation"
+]
 photo_cred = "Aleksi Tappura"
 title = "Facilitating On-Camera: A Jumpstart into Video-Based Facilitation"
-
+_template = "blog_post"
 +++
+
 By now, you’ve probably heard of [Zoom](https://zoom.us/). In the past two weeks I’ve participated in more video chat sessions and webinars than in the past two years combined. Can you relate?
 
 Since COVID-19 entered our lives, a new normal has emerged. And for facilitators, educators, and trainers, in addition to being living, breathing humans with immune systems and loved ones, we’re connectors. And this is a tough time for connecting.

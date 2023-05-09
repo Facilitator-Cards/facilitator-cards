@@ -1,16 +1,17 @@
 +++
 author = "Claire Bolger"
 categories = "Using Facilitator Cards"
-date = 2022-10-31T04:00:00Z
+date = 2022-10-31T04:00:00.000Z
 description = "Having lots of small OR large group chats? Find out why Fishbowl's are a great way to run discussions & debriefs!"
 facebook_discussion = ""
 featured_image = "/img/blog/fishbowl-card-image.png"
-images = ["/img/blog/fishbowl-card-image.png"]
-keywords = []
+images = [ "/img/blog/fishbowl-card-image.png" ]
+keywords = [ ]
 photo_cred = ""
 title = "November Card Of The Month: Fishbowl 🐠🥣"
-
+_template = "blog_post"
 +++
+
 ## 🃏Card Of The Month:
 
 \*Each month, we highlight a card in every newsletter so you can get to know [the deck](http://shop.facilitator.cards) one at a time. This month, we’re spotlighting one of our favorite cards when it comes to debriefs and large group discussions: [**_Fishbowl_**](https://www.facilitator.cards/cards/fishbowl/)**_._**

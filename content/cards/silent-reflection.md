@@ -1,3 +1,7 @@
++++
+_template = "card"
++++
+
 ---
 title: "Silent Reflection"
 group: "individuals"

@@ -3,8 +3,9 @@ date = ""
 description = "Had trouble downloading the Free Mini Deck Preview Pack? We got you covered!"
 priority = 0
 title = "DIY Mini Deck Download"
-
+_template = "page"
 +++
+
 Hi there!
 
 We're excited that you have downloaded our Free DIY Mini Deck Preview Pack. Unfortunately, this sometimes goes to people's **SPAM FOLDER** so we'd love if you would check your spam, and if it's there mark it as "not spam."

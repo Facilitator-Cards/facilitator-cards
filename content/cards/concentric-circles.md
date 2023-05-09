@@ -1,3 +1,7 @@
++++
+_template = "card"
++++
+
 ---
 title: "Concentric Circles"
 group: "pairs"

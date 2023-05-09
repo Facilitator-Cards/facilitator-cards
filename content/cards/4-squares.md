@@ -1,3 +1,7 @@
++++
+_template = "card"
++++
+
 ---
 title: "4 Squares"
 group: "individuals"

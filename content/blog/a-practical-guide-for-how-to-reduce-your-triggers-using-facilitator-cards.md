@@ -1,16 +1,20 @@
 +++
 author = "Meg Bolger"
 categories = "Using Facilitator Cards"
-date = 2021-11-10T14:00:00Z
+date = 2021-11-10T14:00:00.000Z
 description = "Triggers are tricky as a facilitator, let's make it easier."
 facebook_discussion = ""
 featured_image = "/img/blog/img_9494.png"
-images = ["/img/blog/img_9494.png", "/img/blog/screen-shot-2021-11-10-at-9-27am.png"]
-keywords = ["facilitation", "triggers", "facilitator cards"]
+images = [
+  "/img/blog/img_9494.png",
+  "/img/blog/screen-shot-2021-11-10-at-9-27am.png"
+]
+keywords = [ "facilitation", "triggers", "facilitator cards" ]
 photo_cred = "Facilitator Cards Team"
 title = "How to Reduce Your Triggers using Facilitator Cards "
-
+_template = "blog_post"
 +++
+
 At the Brain Jam last week we talked about understanding what happens when we get triggered and brainstormed different strategies we can use in those moments to come back to being present.
 
 If you missed the Brain Jam and are curious about what happens when you’re triggered and strategies for navigating those moments we’ve got two ways for you to dig in.

@@ -1,13 +1,15 @@
 +++
-date = 2021-12-22T05:00:00Z
+date = 2021-12-22T05:00:00.000Z
 description = "We believe that facilitation is a skill that everyone can learn. Whether you're trying to get better at running workshops online, holding containers for messy conversations, or getting more folks to participate in your team meetings, facilitation is an essential skill."
 priority = 1
 title = "Trainings"
+_template = "page"
+
 [menu.main]
 name = "Training"
 weight = 4
-
 +++
+
 We believe that facilitation can change the world.
 
 Whether you’re aiming to create community, bring people together at work for meaningful collaboration, or simply move through a challenging conversation, intentional facilitation is the key.

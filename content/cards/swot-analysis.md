@@ -1,3 +1,7 @@
++++
+_template = "card"
++++
+
 ---
 title: "SWOT Analysis"
 group: "full group"

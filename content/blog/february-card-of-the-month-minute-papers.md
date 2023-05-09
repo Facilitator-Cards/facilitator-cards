@@ -1,16 +1,17 @@
 +++
 author = "Claire Bolger"
 categories = "Using Facilitator Cards"
-date = 2023-02-01T05:00:00Z
+date = 2023-02-01T05:00:00.000Z
 description = "Never underestimate the power of a one-minute pause!"
 facebook_discussion = ""
 featured_image = "/img/blog/feb2023cotm.png"
-images = ["/img/blog/feb2023cotm.png"]
-keywords = []
+images = [ "/img/blog/feb2023cotm.png" ]
+keywords = [ ]
 photo_cred = ""
 title = "February Card Of The Month: Minute Papers"
-
+_template = "blog_post"
 +++
+
 Look, it’s tough to declare one card in our deck a **_favorite_**, but we can safely say that Minute Papers is one of the most versatile and quietly transformative processes we know of.
 
 Minute Papers is a **surfacing** activity during which participants have a minute (or more, but we like to keep it brief) to gather their thoughts on paper. We use it before an activity, as a quick debrief, a way to capture thoughts or emotions in response, and it can even be a great release valve after a high-stakes conversation.

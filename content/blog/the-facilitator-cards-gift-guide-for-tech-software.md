@@ -1,16 +1,17 @@
 +++
 author = "Meg Bolger"
 categories = "resources"
-date = 2021-11-25T05:01:00Z
+date = 2021-11-25T05:01:00.000Z
 description = "Recommendations for all the Facilitators in your life (or yourself, we won't judge!)"
 facebook_discussion = ""
 featured_image = "/img/blog/1.png"
-images = ["/img/blog/1.png"]
-keywords = ["facilitator gift guide", "gift guide", "facilitator cards"]
+images = [ "/img/blog/1.png" ]
+keywords = [ "facilitator gift guide", "gift guide", "facilitator cards" ]
 photo_cred = ""
 title = "The Facilitator Cards Gift Guide for Tech & Software"
-
+_template = "blog_post"
 +++
+
 It's officially giving and gifting season! For our fellow facilitators, we wanted to put together & share a few of our favorite technology/software things. These are awesome items or subscriptions to gift a fellow facilitator (or hey, add them to your wishlist!).
 
 We kept this list to only feature things we actually use and love. We're also rounding up any Black Friday deals & discounts on these products over on our Twitter, so [check the thread](https://twitter.com/FacilitatorCard/status/1463877050721263622) to see what you can save on!

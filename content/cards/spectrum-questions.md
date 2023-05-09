@@ -1,3 +1,7 @@
++++
+_template = "card"
++++
+
 ---
 title: "Spectrum Questions"
 group: "full group"

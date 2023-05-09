@@ -1,16 +1,23 @@
 +++
 author = "Claire Bolger"
 categories = "About us"
-date = 2023-04-10T04:00:00Z
+date = 2023-04-10T04:00:00.000Z
 description = "Improve session morale with this one simple step!"
 facebook_discussion = ""
 featured_image = "/img/blog/nolatezoomarrivalsimage.png"
-images = ["/img/blog/nolatezoomarrivalsimage.png"]
-keywords = ["workshops", "zoom meetings", "late arrivals policy", "zoom series", "zoom"]
+images = [ "/img/blog/nolatezoomarrivalsimage.png" ]
+keywords = [
+  "workshops",
+  "zoom meetings",
+  "late arrivals policy",
+  "zoom series",
+  "zoom"
+]
 photo_cred = ""
 title = "Zoom Series: Set a “No Late Arrivals” Policy"
-
+_template = "blog_post"
 +++
+
 When it comes to virtual facilitation, there are a few ground rules we’ve developed to help us and our participants know what to expect at our session.
 
 One of the most transformative rules we’ve implemented is our policy on **No Late Arrivals**.

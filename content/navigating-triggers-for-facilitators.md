@@ -1,10 +1,11 @@
 +++
-date = 2021-11-04T16:00:00Z
+date = 2021-11-04T16:00:00.000Z
 description = ""
 priority = -1
 title = "Navigating Triggers for Facilitators"
-
+_template = "page"
 +++
+
 This page is a resource for the event Navigating Triggers as a Facilitator. We're excited you want to learn more and please let us know if there is anything you were expecting to find here but you don't see.
 
 ## Part 2: Navigating Triggers with Facilitator Cards

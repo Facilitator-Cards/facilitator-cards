@@ -1,16 +1,17 @@
 +++
 author = "Claire Bolger"
 categories = "Using Facilitator Cards"
-date = 2023-01-02T05:00:00Z
+date = 2023-01-02T05:00:00.000Z
 description = "Audacious Goals x Brainstorming = Interesting Results!"
 facebook_discussion = ""
 featured_image = "/img/blog/screen-shot-2023-01-02-at-11-23-03-am.png"
-images = ["/img/blog/screen-shot-2023-01-02-at-11-23-03-am.png"]
-keywords = []
+images = [ "/img/blog/screen-shot-2023-01-02-at-11-23-03-am.png" ]
+keywords = [ ]
 photo_cred = ""
 title = "January Card Of The Month: 100 Ideas"
-
+_template = "blog_post"
 +++
+
 _Each month, we highlight a card so you can get to know_ [**_the deck_**](https://click.convertkit-mail2.com/k0ul94x9n7u6hd3n2rrhl/e0hph0ukd80z3qa8/aHR0cDovL3Nob3AuZmFjaWxpdGF0b3IuY2FyZHMv) _one at a time. This month, we’re spotlighting one of our favorite brainstorming processes:_ [**_100 Ideas_**](https://click.convertkit-mail2.com/k0ul94x9n7u6hd3n2rrhl/7qh7h2u0xroe2ziz/aHR0cHM6Ly93d3cuZmFjaWxpdGF0b3IuY2FyZHMvY2FyZHMvMTAwLWJhZC1pZGVhcy8=)**_!_**
 
 ### **Here’s how to facilitate it**

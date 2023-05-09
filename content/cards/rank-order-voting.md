@@ -1,3 +1,7 @@
++++
+_template = "card"
++++
+
 ---
 title: "Rank Order Voting"
 group: "individuals"

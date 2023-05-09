@@ -1,16 +1,17 @@
 +++
 author = "Claire Bolger"
 categories = "Using Facilitator Cards, About The Cards"
-date = 2023-02-27T05:00:00Z
+date = 2023-02-27T05:00:00.000Z
 description = "Get the questions people really want answers to."
 facebook_discussion = ""
 featured_image = "/img/blog/anoncardofthemonth.png"
-images = ["/img/blog/anoncardofthemonth.png"]
-keywords = ["meeting agenda", "clarification", "participation", "q&A"]
+images = [ "/img/blog/anoncardofthemonth.png" ]
+keywords = [ "meeting agenda", "clarification", "participation", "q&A" ]
 photo_cred = ""
 title = "March Card Of The Month: Anonymous Q&A"
-
+_template = "blog_post"
 +++
+
 [Anonymous Q&A](https://www.facilitator.cards/cards/anonymous-qa/) is a powerful clarifying process that we use in both virtual and in-person sessions. By collecting questions from participants anonymously we increase participation and get the questions people **really** want answers to.
 
 ## When To Use

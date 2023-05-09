@@ -1,16 +1,27 @@
 +++
 author = "Meg Bolger"
 categories = "resources"
-date = 2021-01-20T20:00:00Z
+date = 2021-01-20T20:00:00.000Z
 description = "Have you ever explored how you might use a proximity-based video-conferencing platform in your workshops?"
 facebook_discussion = "https://www.facebook.com/FacilitatorCards/posts/456205182455831"
 featured_image = "/img/blog/screen-shot-2021-01-14-at-12-07pm-1.png"
-images = ["/img/blog/gather-room.jpg"]
-keywords = ["remote learning", "gather.town", "facilitator", "facilitation", "facilitator tools", "facilitation tools", "online facilitation", "digital facilitation", "virtual facilitation"]
+images = [ "/img/blog/gather-room.jpg" ]
+keywords = [
+  "remote learning",
+  "gather.town",
+  "facilitator",
+  "facilitation",
+  "facilitator tools",
+  "facilitation tools",
+  "online facilitation",
+  "digital facilitation",
+  "virtual facilitation"
+]
 photo_cred = ""
 title = "Facilitator Brain Jam: Using Gather for Virtual Facilitation "
-
+_template = "blog_post"
 +++
+
 Brain Jams are Facilitator Cards community events where we bring together facilitators to explore creative ways to use new tools and technologies to enhance our facilitation. Join us for our first Brain Jam of 2021: Using [Gather](https://gather.town) for Virtual Facilitation!
 
 [Gather](https://gather.town/) is a proximity-based video chat platform that we think has a lot of promise for virtual facilitation. The Brain Jams will take place Feb 3rd at 2pm PT (5pm ET, 10pm GMT, 9am Feb 4th AEST) and Feb 4th at 9am PT (12pm ET, 5pm GMT) and you can [RSVP here](https://hues.typeform.com/to/JsdzcHFy).

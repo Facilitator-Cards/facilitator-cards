@@ -1,3 +1,7 @@
++++
+_template = "card"
++++
+
 ---
 title: "\"I Know\" vs. \"I Wonder\" Lists"
 group: "full group"

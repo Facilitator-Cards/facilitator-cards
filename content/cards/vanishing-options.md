@@ -1,3 +1,7 @@
++++
+_template = "card"
++++
+
 ---
 title: "Vanishing Options"
 group: "full group"

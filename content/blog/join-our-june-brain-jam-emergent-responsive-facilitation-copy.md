@@ -1,16 +1,24 @@
 +++
 author = "Meg Bolger"
 categories = "resources"
-date = 2021-10-25T18:59:00Z
+date = 2021-10-25T18:59:00.000Z
 description = "Come learn how we can get through those tricky moments as facilitators."
 facebook_discussion = ""
 featured_image = "/img/blog/brain-jam.png"
-images = ["/img/blog/brain-jam.png"]
-keywords = ["virtual facilitation", "facilitation tools", "facilitation 101", "facilitator tools", "responsive facilitation", "digital facilitation"]
+images = [ "/img/blog/brain-jam.png" ]
+keywords = [
+  "virtual facilitation",
+  "facilitation tools",
+  "facilitation 101",
+  "facilitator tools",
+  "responsive facilitation",
+  "digital facilitation"
+]
 photo_cred = "Aniculesei Sebastian"
 title = "Join our November Brain Jam: Navigating Triggers as a Facilitator"
-
+_template = "blog_post"
 +++
+
 Have you ever had something happen in facilitation that completely threw you off? Sent you into an emotional spiral or took over your mind making you no longer present for your group? Have you ever reacted to a participant, rolling your eyes in disbelief, or said something you later regretted?
 
 If so, you've probably experienced being triggered as a facilitator.

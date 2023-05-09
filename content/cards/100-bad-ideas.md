@@ -1,3 +1,7 @@
++++
+_template = "card"
++++
+
 ---
 title: "100 Ideas"
 group: "full group"

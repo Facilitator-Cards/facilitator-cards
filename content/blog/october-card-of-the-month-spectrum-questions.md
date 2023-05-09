@@ -1,16 +1,17 @@
 +++
 author = "Claire Bolger"
 categories = "Using Facilitator Cards"
-date = 2022-10-04T04:00:00Z
+date = 2022-10-04T04:00:00.000Z
 description = "Why we love adding it to our agendas, how to use it online, plus examples and prompts!"
 facebook_discussion = ""
 featured_image = "/img/blog/spec-q-back.png"
-images = ["/img/blog/spec-q-back.png"]
-keywords = ["spectrum questions", "facilitator cards"]
+images = [ "/img/blog/spec-q-back.png" ]
+keywords = [ "spectrum questions", "facilitator cards" ]
 photo_cred = ""
 title = "October Card Of The Month: Spectrum Questions"
-
+_template = "blog_post"
 +++
+
 _Each month, we highlight a card in every newsletter so you can get to know_ [_the deck_](http://shop.facilitator.cards) _one at a time. This month, allow us to introduce you to one of our favorite ways to get a gauge on what the group is thinking: Spectrum Questions!_
 
 ### Here’s how to do it

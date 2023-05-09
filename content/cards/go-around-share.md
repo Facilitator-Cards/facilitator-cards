@@ -1,3 +1,7 @@
++++
+_template = "card"
++++
+
 ---
 title: "Go-Around Share"
 group: "full group"

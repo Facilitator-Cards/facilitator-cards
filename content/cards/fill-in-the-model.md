@@ -1,3 +1,7 @@
++++
+_template = "card"
++++
+
 ---
 title: "Fill in the Model"
 group: "full group"

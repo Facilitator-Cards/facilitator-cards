@@ -1,10 +1,11 @@
 +++
-date = 2023-01-13T05:00:00Z
+date = 2023-01-13T05:00:00.000Z
 description = ""
 priority = 0
 title = "Trainings v2"
-
+_template = "page"
 +++
+
 We believe that facilitation can change the world.
 
 Whether you're aiming to create community, bring people together at work for meaningful collaboration, or simply move through a challenging conversation, intentional facilitation is the key.

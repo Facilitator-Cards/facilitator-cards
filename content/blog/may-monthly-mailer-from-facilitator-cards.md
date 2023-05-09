@@ -1,16 +1,17 @@
 +++
 author = "Meg Bolger"
 categories = "About us"
-date = 2022-05-02T15:00:00Z
+date = 2022-05-02T15:00:00.000Z
 description = "All of our upcoming events, plus anything you might have missed from the previous month!"
 facebook_discussion = ""
 featured_image = "/img/blog/the-facilitator-cards-monthly-mailer-4.png"
-images = ["/img/blog/the-facilitator-cards-monthly-mailer-4.png"]
-keywords = []
+images = [ "/img/blog/the-facilitator-cards-monthly-mailer-4.png" ]
+keywords = [ ]
 photo_cred = ""
 title = "May Monthly Mailer from Facilitator Cards"
-
+_template = "blog_post"
 +++
+
 Hey Facilitators,
 
 Welcome to May! Has it been absolutely warm and beautiful and then suddenly cold and dark where you are? We think that’s [_just so typically May_](https://www.facilitator.cards//img/blog/screen-shot-2022-04-28-at-9-39-57-am.png).

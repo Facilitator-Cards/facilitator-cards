@@ -1,3 +1,7 @@
++++
+_template = "card"
++++
+
 ---
 title: "Urgent vs. Important Grid"
 group: "full group"

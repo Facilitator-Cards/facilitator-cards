@@ -1,16 +1,17 @@
 +++
 author = "Claire Bolger"
 categories = "About us"
-date = 2023-03-13T04:00:00Z
+date = 2023-03-13T04:00:00.000Z
 description = "Sending a Google Doc link to participants? Try this!"
 facebook_discussion = ""
 featured_image = "/img/blog/hackdigitalhandouts.png"
-images = ["/img/blog/hackdigitalhandouts.png"]
-keywords = []
+images = [ "/img/blog/hackdigitalhandouts.png" ]
+keywords = [ ]
 photo_cred = ""
 title = "Zoom Series: How to Make Digital Handouts Easy 💯"
-
+_template = "blog_post"
 +++
+
 Distributing handouts or worksheets in person is a breeze, but when it comes time to do it digitally we kept running into user errors that slowed the whole workshop to a halt.
 
 The next time you want everyone to have their _own copy_ of a document, there’s an easy way to do this using Google Docs.

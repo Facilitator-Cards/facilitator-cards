@@ -1,10 +1,11 @@
 +++
-date = 2022-02-28T05:00:00Z
+date = 2022-02-28T05:00:00.000Z
 description = "Start here to find Facilitator Card Resources and more!"
 priority = -1
 title = "Card Carriers Start Here!"
-
+_template = "page"
 +++
+
 ## We ❤️ Facilitator Cards.
 
 And we hope you do too.

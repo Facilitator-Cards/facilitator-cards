@@ -1,10 +1,11 @@
 +++
-date = 2021-12-22T20:00:00Z
+date = 2021-12-22T20:00:00.000Z
 description = ""
 priority = 1
 title = "Facilitating for DEI Committees and Social Justice Educators"
-
+_template = "page"
 +++
+
 As advocates, we know how important it is to bring people together to have difficult conversations, and how critical our role is in creating environments that allow people to face, address, and discuss the topic at hand.
 
 Oftentimes, we are passionate about the content of our sessions but less practiced at understanding what processes are best suited to accomplish our goals for that session.

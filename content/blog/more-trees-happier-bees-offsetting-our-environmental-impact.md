@@ -1,16 +1,28 @@
 +++
 author = "Meg Bolger"
 categories = "about the cards"
-date = 2021-07-20T00:20:00Z
+date = 2021-07-20T00:20:00.000Z
 description = "How we ensure that Facilitator Cards are better than carbon neutral—and how you can do that too!"
 facebook_discussion = "https://www.facebook.com/FacilitatorCards/posts/569721521104196"
 featured_image = "/img/blog/carbon-offsetting-blog-post-image-1.png"
-images = ["/img/blog/0-71-kg-co2.png", "/img/blog/trees-planted.png", "/img/blog/146-southern-carpathians.png", "/img/blog/carbon-offsetting-blog-post-image-1.png"]
-keywords = ["mossy earth", "carbon offsetting", "carbon offset", "environmental", "carbon neutral"]
+images = [
+  "/img/blog/0-71-kg-co2.png",
+  "/img/blog/trees-planted.png",
+  "/img/blog/146-southern-carpathians.png",
+  "/img/blog/carbon-offsetting-blog-post-image-1.png"
+]
+keywords = [
+  "mossy earth",
+  "carbon offsetting",
+  "carbon offset",
+  "environmental",
+  "carbon neutral"
+]
 photo_cred = "Canva"
 title = "More Trees & Happier Bees: Offsetting Our Environmental Impact"
-
+_template = "blog_post"
 +++
+
 Here’s a 98-word version of this blog post.
 
 We wanted to offset our carbon emissions as a company. We found a rad partner to plant trees, [Mossy Earth](https://mossy.earth/), and we adore them (and think you should too!). We calculated our carbon footprint using free tools and after figuring out our footprint, we decided to offset over 10x what we produce so we could plant more trees and contribute to a happier planet.

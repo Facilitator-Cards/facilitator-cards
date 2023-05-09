@@ -1,16 +1,28 @@
 +++
 author = "Meg Bolger"
 categories = "resources, using the cards"
-date = 2021-06-30T21:40:00Z
+date = 2021-06-30T21:40:00.000Z
 description = "Four key ways to prepare for the unknowable in your next workshop, meeting, or gathering."
 facebook_discussion = ""
 featured_image = "/img/blog/feature-image-for-emergent-facilitation-blog-post.png"
-images = ["/img/blog/feature-image-for-emergent-facilitation-blog-post.png", "/img/blog/img_8506.JPG"]
-keywords = ["facilitator tricks", "new facilitator", "facilitation 101", "facilitator guide", "emergent strategy", "emergent facilitation", "facilitator tools"]
+images = [
+  "/img/blog/feature-image-for-emergent-facilitation-blog-post.png",
+  "/img/blog/img_8506.JPG"
+]
+keywords = [
+  "facilitator tricks",
+  "new facilitator",
+  "facilitation 101",
+  "facilitator guide",
+  "emergent strategy",
+  "emergent facilitation",
+  "facilitator tools"
+]
 photo_cred = "Photo by UX Indonesia on Unsplash"
 title = "How to Prep for an Emergent Facilitation"
-
+_template = "blog_post"
 +++
+
 I think of emergent facilitation as building the road that you and your participants are traveling on _as_ you travel down it.
 
 Whether that's because you walk into a room where you thought the group needed A and they actually need Z or because half-way through the day you realize your agenda isn’t working and you have to throw it out, we all likely emergently facilitate at some time or another.

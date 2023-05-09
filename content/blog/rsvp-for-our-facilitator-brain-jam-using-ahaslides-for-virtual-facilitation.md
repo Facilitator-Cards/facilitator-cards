@@ -1,15 +1,23 @@
 +++
 author = "Meg Bolger"
 categories = "resources"
-date = 2020-07-02T07:00:00Z
+date = 2020-07-02T07:00:00.000Z
 description = "Join us as we crowdsource creative ways to use live polling to enhance Zoom meetings."
 featured_image = "/img/blog/element5-unsplash.jpg"
-images = ["/img/blog/element5-unsplash.jpg"]
-keywords = ["facilitator tool", "facilitator", "facilitation", "virtual facilitation", "remote facilitation", "digital facilitation"]
+images = [ "/img/blog/element5-unsplash.jpg" ]
+keywords = [
+  "facilitator tool",
+  "facilitator",
+  "facilitation",
+  "virtual facilitation",
+  "remote facilitation",
+  "digital facilitation"
+]
 photo_cred = "Element5 Digital"
 title = "RSVP for our Facilitator Brain Jam: Using AhaSlides for Virtual Facilitation"
-
+_template = "blog_post"
 +++
+
 As facilitators, we know how much wisdom and creativity lies within our groups. We started a series called Brain Jams to help source knowledge and creativity from our facilitator community for our facilitator community. Our first few Brain Jams will focus on different tools to enhance our virtual facilitation (because 2020).
 
 In May we hosted a Brain Jam on MURAL and connected with facilitators from around the world to generated new and inventive ways [to use MURAL for virtual facilitation](https://www.facilitator.cards/blog/using-mural-for-virtual-facilitation-canning-the-brain-jam/).

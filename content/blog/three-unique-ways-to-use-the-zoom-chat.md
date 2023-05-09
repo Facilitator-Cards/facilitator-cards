@@ -1,16 +1,24 @@
 +++
 author = "Claire Bolger"
 categories = "About us"
-date = 2023-03-06T05:01:00Z
+date = 2023-03-06T05:01:00.000Z
 description = "Storm the chat, DM with ease, and get the chat log rolling!"
 facebook_discussion = ""
 featured_image = "/img/blog/zoomtipsupdatedimage.png"
-images = ["/img/blog/zoomtipsupdatedimage.png"]
-keywords = ["how to improve zoom meetings", "virtual meeting", "tips for zoom", "facilitator tips", "how to use zoom", "zoom"]
+images = [ "/img/blog/zoomtipsupdatedimage.png" ]
+keywords = [
+  "how to improve zoom meetings",
+  "virtual meeting",
+  "tips for zoom",
+  "facilitator tips",
+  "how to use zoom",
+  "zoom"
+]
 photo_cred = ""
 title = "Zoom Series: Three Unique Ways to use the Zoom Chat 💬"
-
+_template = "blog_post"
 +++
+
 One of our favorite ways to engage our participants in a virtual session is to ask them to use the Zoom chat.
 
 Sometimes the chat gets naturally utilized, especially when you have participants who voluntarily supply their thoughts, quips, and observations with each other. When the chat’s not kicking off on it’s own, we like to provide some quick and easy frameworks for participants to get things going!

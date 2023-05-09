@@ -1,16 +1,17 @@
 +++
 author = "Claire Bolger"
 categories = "About us"
-date = 2023-03-01T05:00:00Z
+date = 2023-03-01T05:00:00.000Z
 description = "Events! Improvements to Zoom Sessions! & More!"
 facebook_discussion = ""
 featured_image = "/img/blog/march2023mailerimage.png"
-images = ["/img/blog/march2023mailerimage.png"]
-keywords = []
+images = [ "/img/blog/march2023mailerimage.png" ]
+keywords = [ ]
 photo_cred = ""
 title = "March Monthly Mailer from Facilitator Cards"
-
+_template = "blog_post"
 +++
+
 Hey Facilitators,
 
 Whoa, it’s already March! (Did February feel _extra_ quick this year or is that just us?)

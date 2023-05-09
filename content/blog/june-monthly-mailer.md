@@ -1,16 +1,17 @@
 +++
 author = "Meg Bolger"
 categories = "About us"
-date = 2022-06-01T04:00:00Z
+date = 2022-06-01T04:00:00.000Z
 description = "Everything that happened in May + what's coming up in June!"
 facebook_discussion = ""
 featured_image = "/img/blog/june-monthly-cover.png"
-images = ["/img/blog/june-monthly-cover.png"]
-keywords = []
+images = [ "/img/blog/june-monthly-cover.png" ]
+keywords = [ ]
 photo_cred = ""
 title = "🕶 June Monthly Mailer"
-
+_template = "blog_post"
 +++
+
 ## 🕶 **June Monthly Mailer from Facilitator Cards**
 
 Hey Facilitators,

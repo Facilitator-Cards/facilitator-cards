@@ -1,16 +1,21 @@
 +++
 author = "Claire Bolger"
 categories = "Using Facilitator Cards"
-date = 2023-03-31T04:00:00Z
+date = 2023-03-31T04:00:00.000Z
 description = "Improving break out rooms, one activity framework at a time."
 facebook_discussion = ""
 featured_image = "/img/blog/breakoutboogallooo.png"
-images = ["/img/blog/breakoutboogallooo.png"]
-keywords = ["activities for virtual meetings", "get better at zoom", "zoom"]
+images = [ "/img/blog/breakoutboogallooo.png" ]
+keywords = [
+  "activities for virtual meetings",
+  "get better at zoom",
+  "zoom"
+]
 photo_cred = ""
 title = "Zoom Series: How to Avoid Drop-Off in Breakout Rooms 📉"
-
+_template = "blog_post"
 +++
+
 We’ve all been in sessions where we mention breakout rooms and the number next to the participant list suddenly drops.
 
 Breakout rooms are key to shifting dynamics, allowing for small group connection and solo work, and are a cornerstone in any virtual workshop we run. So how can we get our participants to be less nervous—or even excited—about leaving the main Zoom room?

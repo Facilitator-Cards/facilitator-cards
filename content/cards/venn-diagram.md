@@ -1,3 +1,7 @@
++++
+_template = "card"
++++
+
 ---
 title: "Venn Diagram"
 group: "full group"

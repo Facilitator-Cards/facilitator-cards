@@ -1,16 +1,22 @@
 +++
 author = "Claire Bolger"
 categories = "Using Facilitator Cards"
-date = 2023-04-04T04:00:00Z
+date = 2023-04-04T04:00:00.000Z
 description = "New possibilities for virtual workshops & meetings await!"
 facebook_discussion = ""
 featured_image = "/img/blog/zoomseriessolobreakout.png"
-images = ["/img/blog/zoomseriessolobreakout.png"]
-keywords = ["participation", "solo breakout rooms", "zoom series", "zoom"]
+images = [ "/img/blog/zoomseriessolobreakout.png" ]
+keywords = [
+  "participation",
+  "solo breakout rooms",
+  "zoom series",
+  "zoom"
+]
 photo_cred = ""
 title = "Zoom Series: The Power of Solo Break Out Rooms"
-
+_template = "blog_post"
 +++
+
 When it comes to virtual sessions it can be hard to replicate the moments of transition between topics and processes. Every main room on Zoom looks the same so creating separation can really help participants get into a new headspace.
 
 We’re big fans of having folks turn their cameras off in the main room if we’re running a [Fishbowl](https://www.youtube.com/watch?v=d5Mu3wxybpA) or a [Minute Paper](https://www.facilitator.cards/blog/february-card-of-the-month-minute-papers/), but we’ve recently discovered the power of **solo breakout rooms.**

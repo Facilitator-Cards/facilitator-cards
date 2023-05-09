@@ -1,16 +1,25 @@
 +++
 author = "Meg Bolger"
 categories = "resources"
-date = 2021-07-24T16:00:00Z
+date = 2021-07-24T16:00:00.000Z
 description = "Make beautiful RSVPs, super-powered resource lists, and customizable feedback forms with Airtable"
 facebook_discussion = ""
 featured_image = "/img/blog/2.png"
-images = ["/img/blog/2.png"]
-keywords = ["professional facilitator", "virtual facilitation", "productivity tool", "organization tool", "facilitator tool", "airtable", "digital facilitation"]
+images = [ "/img/blog/2.png" ]
+keywords = [
+  "professional facilitator",
+  "virtual facilitation",
+  "productivity tool",
+  "organization tool",
+  "facilitator tool",
+  "airtable",
+  "digital facilitation"
+]
 photo_cred = "Samantha Borges via Unsplashed"
 title = "Come Join the August Brain Jam: Airtable for Facilitators"
-
+_template = "blog_post"
 +++
+
 For the last 8 months, every Brain Jam we’ve explored a new tool, technique, or technology that we can use to enhance our facilitations when we are facilitating.
 
 But as we all know, the technology we use when we’re in the room (or the Zoom) isn’t all that goes into being a facilitator. RSVPs, feedback forms, resource lists, surveys, and keeping track of all our brilliant ideas is all vital to our work.

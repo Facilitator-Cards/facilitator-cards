@@ -1,3 +1,7 @@
++++
+_template = "card"
++++
+
 ---
 title: "Heads Down, Hands Up"
 group: "full group"

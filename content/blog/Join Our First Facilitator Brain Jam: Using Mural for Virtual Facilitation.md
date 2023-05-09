@@ -1,15 +1,24 @@
 +++
 author = "Meg Bolger"
 categories = "resources"
-date = 2020-05-14T16:29:00Z
+date = 2020-05-14T16:29:00.000Z
 description = "We're bringing facilitators together to explore new digital tools and crowdsource creative ways to use these tools in our facilitation. "
 featured_image = "/img/blog/charles-deluvio-unsplash.png"
-images = ["/img/blog/charles-deluvio-unsplash.png"]
-keywords = ["digital facilitation", "facilitators", "virtual facilitation", "facilitation resources", "remote facilitation", "facilitator tools", "virtual facilitation tools"]
+images = [ "/img/blog/charles-deluvio-unsplash.png" ]
+keywords = [
+  "digital facilitation",
+  "facilitators",
+  "virtual facilitation",
+  "facilitation resources",
+  "remote facilitation",
+  "facilitator tools",
+  "virtual facilitation tools"
+]
 photo_cred = "Charles Deluvio"
 title = "Join Our First Facilitator Brain Jam: Using Mural for Virtual Facilitation"
-
+_template = "blog_post"
 +++
+
 In the wake of COVID-19, many of us have found ourselves thrust into a world of virtual facilitation for the first time. We’re having to put down many of the tools we know and love that don’t translate into this new virtual space. As facilitators, we want to keep our groups engaged and our processes dynamic, but we need to find [new tools and new ways](https://www.facilitator.cards/blog/modifying-in-person-activities-for-virtual-facilitation/) to adapt to make that happen.
 
 To support our community in getting creative and inventive using new technologies, we’re kicking off a virtual facilitation tips series we’re calling Facilitator Brain Jams, this Friday, May 15th! Our first topic will be **Using Mural for Virtual Facilitation.**

@@ -1,16 +1,24 @@
 +++
 author = "Meg Bolger"
 categories = "resources"
-date = 2021-04-26T20:00:00Z
+date = 2021-04-26T20:00:00.000Z
 description = "Explore a simple-yet-powerful app to smoothly manage any technology you’re using in your workshops and training."
 facebook_discussion = ""
 featured_image = "/img/blog/stream-deck-blog-post-image-v4.png"
-images = ["/img/blog/stream-deck-blog-post-image-v4.png"]
-keywords = ["teacher technology", "facilitator technology", "facilitator tools", "online facilitation", "virtual facilitation", "digital facilitation"]
+images = [ "/img/blog/stream-deck-blog-post-image-v4.png" ]
+keywords = [
+  "teacher technology",
+  "facilitator technology",
+  "facilitator tools",
+  "online facilitation",
+  "virtual facilitation",
+  "digital facilitation"
+]
 photo_cred = "Luke Southern"
 title = "Join Our May Brain Jam: Using Stream Deck for Virtual Facilitation"
-
+_template = "blog_post"
 +++
+
 If you’ve ever facilitated on Zoom, Google Meet, Teams, or any other online platform, you know there is a lot to manage when you virtually facilitate.
 
 Things as simple as sending the right message in the chat are a challenge.

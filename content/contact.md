@@ -1,10 +1,11 @@
 +++
-date = 2020-02-12T06:00:00Z
-description = "Say \"Hi!\" to Meg Bolger & the Facilitator Cards Team"
+date = 2020-02-12T06:00:00.000Z
+description = 'Say "Hi!" to Meg Bolger & the Facilitator Cards Team'
 priority = 5
 title = "Contact"
-
+_template = "page"
 +++
+
 You're looking for a way to reach us? Well, consider us flattered. The email address below will go to both Meg & the team. You can also find us on the socials.
 
 <strong class="theme-font medium"><a href="mailto:hello@facilitator.cards" target="_blank" rel="noopener noreferrer">hello@facilitator.cards</a></strong>

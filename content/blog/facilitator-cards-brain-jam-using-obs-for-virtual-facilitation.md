@@ -1,16 +1,31 @@
 +++
 author = "Meg Bolger"
 categories = "resources"
-date = 2021-03-26T04:00:00Z
+date = 2021-03-26T04:00:00.000Z
 description = "Can one piece of software eliminate 90% of our tech headaches for free?"
 facebook_discussion = ""
 featured_image = "/img/blog/april-brain-jam-cover-image.jpg"
-images = ["/img/blog/april-brain-jam-cover-image.jpg", "/img/blog/screen-shot-2021-03-25-at-12-07pm.png", "/img/blog/us-in-zoom-v3.jpg", "/img/blog/screen-shot-2021-03-25-at-12-05pm.png", "/img/blog/screen-shot-2021-03-25-at-12-06pm.png"]
-keywords = ["open broadcaster software", "OBS", "facilitation tools", "facilitator tools", "online facilitation", "virtual facilitation", "digital facilitation"]
+images = [
+  "/img/blog/april-brain-jam-cover-image.jpg",
+  "/img/blog/screen-shot-2021-03-25-at-12-07pm.png",
+  "/img/blog/us-in-zoom-v3.jpg",
+  "/img/blog/screen-shot-2021-03-25-at-12-05pm.png",
+  "/img/blog/screen-shot-2021-03-25-at-12-06pm.png"
+]
+keywords = [
+  "open broadcaster software",
+  "OBS",
+  "facilitation tools",
+  "facilitator tools",
+  "online facilitation",
+  "virtual facilitation",
+  "digital facilitation"
+]
 photo_cred = ""
 title = "Facilitator Cards Brain Jam: Using OBS for Virtual Facilitation"
-
+_template = "blog_post"
 +++
+
 As a facilitator, I’m entering my second year of online facilitation with mixed emotions. While I feel wholly more prepared to work with folks online, online facilitation is clunky, and the tech headaches of awkward screen shares and weird transitions are tiring.
 
 The more ambitious I get with my facilitations, adding in [MURAL](https://www.facilitator.cards/blog/using-mural-for-virtual-facilitation-canning-the-brain-jam/) or [AhaSlides](https://www.facilitator.cards/blog/using-ahaslides-for-virtual-facilitation-canning-the-brain-jam/) or any other piece of tech, the more I have to manage and keep track of during my facilitations. When I’m facilitating, I don’t want to have to think about where this window is, am I sharing the right thing, is this a good view of this—I just want to be present.

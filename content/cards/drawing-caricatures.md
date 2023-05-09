@@ -1,3 +1,7 @@
++++
+_template = "card"
++++
+
 ---
 title: "Drawing Caricatures"
 group: "pairs"

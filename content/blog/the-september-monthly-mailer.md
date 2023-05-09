@@ -1,16 +1,17 @@
 +++
 author = "Meg Bolger"
 categories = "About us"
-date = 2022-09-01T04:00:00Z
+date = 2022-09-01T04:00:00.000Z
 description = "What's coming up in September, highlights of August, zoom tips, and more!"
 facebook_discussion = ""
 featured_image = "/img/blog/septmailer-1.png"
-images = ["/img/blog/septmailer-1.png"]
-keywords = []
+images = [ "/img/blog/septmailer-1.png" ]
+keywords = [ ]
 photo_cred = ""
 title = "🥞 The September Monthly Mailer "
-
+_template = "blog_post"
 +++
+
 ## 🥞 **September Monthly Mailer from Facilitator Cards**
 
 Hey Facilitators,

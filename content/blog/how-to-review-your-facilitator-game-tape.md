@@ -1,16 +1,25 @@
 +++
 author = "Meg Bolger"
 categories = "resources"
-date = 2020-12-24T21:00:00Z
+date = 2020-12-24T21:00:00.000Z
 description = "Why watching yourself facilitate can help you improve everything"
 facebook_discussion = "https://www.facebook.com/FacilitatorCards/posts/438121710930845"
 featured_image = "/img/blog/gametapereview.jpg"
-images = ["/img/blog/gametapereview.jpg", "/img/blog/tiny-preview-of-notes.png"]
-keywords = ["Feedback", "Digital Facilitation", "Virtual Facilitation", "Facilitation"]
+images = [
+  "/img/blog/gametapereview.jpg",
+  "/img/blog/tiny-preview-of-notes.png"
+]
+keywords = [
+  "Feedback",
+  "Digital Facilitation",
+  "Virtual Facilitation",
+  "Facilitation"
+]
 photo_cred = "Arianne True"
 title = "How to Review Your Facilitator Game Tape"
-
+_template = "blog_post"
 +++
+
 Recently, after a facilitation I led, I got some feedback from a long-time co-facilitator (Sam). “Your energy was different than usual.”
 
 “Really!?” I replied, “I hadn’t noticed.”

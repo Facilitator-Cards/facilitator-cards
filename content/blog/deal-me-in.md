@@ -1,16 +1,22 @@
 +++
 author = "Meg Bolger"
 categories = ""
-date = 2022-02-24T16:00:00Z
+date = 2022-02-24T16:00:00.000Z
 description = "Announcing Our Fund to Support Under-Resourced Educators"
 facebook_discussion = ""
 featured_image = "/img/blog/img_0469.JPG"
-images = ["/img/blog/img_0469.JPG"]
-keywords = ["education", "facilitator tools", "professional development", "scholarship"]
+images = [ "/img/blog/img_0469.JPG" ]
+keywords = [
+  "education",
+  "facilitator tools",
+  "professional development",
+  "scholarship"
+]
 photo_cred = ""
 title = "The Deal Me In Scholarship Fund"
-
+_template = "blog_post"
 +++
+
 **Facilitation can change the world.**
 
 Here at Facilitator Cards, we are adamant believers in the transformative ability of facilitation. We know that facilitation can have a profound effect on people’s lives, whether that’s helping people come to more collective decisions or empowering people to share their knowledge, thoughts, and experiences with each other.

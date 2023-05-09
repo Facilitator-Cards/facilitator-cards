@@ -1,16 +1,25 @@
 +++
 author = "Meg Bolger"
 categories = "Using Facilitator Cards, About The Cards"
-date = 2022-03-22T04:00:00Z
+date = 2022-03-22T04:00:00.000Z
 description = "Brainstorming for quantity over quality"
 facebook_discussion = ""
 featured_image = "/img/blog/annie-vo-huuwnqmw58a-unsplash.jpeg"
-images = ["/img/blog/annie-vo-huuwnqmw58a-unsplash.jpeg", "/img/blog/screen-shot-2022-03-10-at-2-50-49-pm.png"]
-keywords = ["collaborative whiteboard tool", "MURAL", "facilitation tip", "facilitator tools"]
+images = [
+  "/img/blog/annie-vo-huuwnqmw58a-unsplash.jpeg",
+  "/img/blog/screen-shot-2022-03-10-at-2-50-49-pm.png"
+]
+keywords = [
+  "collaborative whiteboard tool",
+  "MURAL",
+  "facilitation tip",
+  "facilitator tools"
+]
 photo_cred = "Annie Vo"
 title = "How to Come Up With 100 Ideas"
-
+_template = "blog_post"
 +++
+
 When it comes to brainstorming, sometimes the most effective thing we can do as facilitators is to make the bar so low that you could trip over it, to steer people away from limiting themselves by only coming up with ideas they consider high quality.
 
 That’s the theory behind the process [100 Ideas](https://www.facilitator.cards/cards/100-bad-ideas/), and while it might seem a bit counterintuitive, this is one of those things where you shouldn’t knock it until you try it.

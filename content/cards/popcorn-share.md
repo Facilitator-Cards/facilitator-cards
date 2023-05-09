@@ -1,3 +1,7 @@
++++
+_template = "card"
++++
+
 ---
 title: "Popcorn Share"
 group: "full group"

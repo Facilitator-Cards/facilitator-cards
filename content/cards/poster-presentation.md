@@ -1,3 +1,7 @@
++++
+_template = "card"
++++
+
 ---
 title: "Poster Presentation"
 group: "small groups"

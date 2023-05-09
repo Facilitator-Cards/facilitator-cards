@@ -1,3 +1,7 @@
++++
+_template = "card"
++++
+
 ---
 title: "Strike a Pose"
 group: "full group"

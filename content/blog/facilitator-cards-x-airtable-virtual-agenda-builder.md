@@ -1,16 +1,29 @@
 +++
 author = "Meg Bolger"
 categories = "Using The Cards"
-date = 2021-10-14T17:20:00Z
+date = 2021-10-14T17:20:00.000Z
 description = "Don’t have your cards with you but still want to make an agenda on the fly? We got you."
 facebook_discussion = ""
 featured_image = "/img/blog/blog-post-facilitator-cards-x-airtable.png"
-images = ["/img/blog/blog-post-facilitator-cards-x-airtable.png", "/img/blog/airtable-image.png", "/img/blog/airtable-x-facilitator-cards-screen-shot.png", "/img/blog/airtable-x-facilitator-cards-screen-shot-2.png"]
-keywords = ["facilitator cards", "curriculum building", "agenda planning", "virtual facilitation", "facilitation", "airtable"]
+images = [
+  "/img/blog/blog-post-facilitator-cards-x-airtable.png",
+  "/img/blog/airtable-image.png",
+  "/img/blog/airtable-x-facilitator-cards-screen-shot.png",
+  "/img/blog/airtable-x-facilitator-cards-screen-shot-2.png"
+]
+keywords = [
+  "facilitator cards",
+  "curriculum building",
+  "agenda planning",
+  "virtual facilitation",
+  "facilitation",
+  "airtable"
+]
 photo_cred = ""
 title = "Facilitator Cards x Airtable Virtual Agenda Builder"
-
+_template = "blog_post"
 +++
+
 Recently, I connected with one of our awesome Card Carrying Facilitators who was unable to bring their physical cards with them during facilitation sessions. They love their cards, and want to be able to have them on their phone and keep their agenda easy to access in any scenario.
 
 So I went and brainstormed on the best way to re-create the Facilitator Cards experience online where you could have the same flexibility and ease that we designed our physical decks to have.

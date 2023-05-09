@@ -1,16 +1,22 @@
 +++
 author = "Meg Bolger"
 categories = "Using Facilitator Cards, About The Cards"
-date = 2022-08-04T04:00:00Z
+date = 2022-08-04T04:00:00.000Z
 description = "Hot Seat's in the hot seat!"
 facebook_discussion = ""
 featured_image = "/img/blog/hot_seat.jpg"
-images = ["/img/blog/hot_seat.jpg"]
-keywords = ["facilitation", "card of the month", "hot seat", "facilitator cards"]
+images = [ "/img/blog/hot_seat.jpg" ]
+keywords = [
+  "facilitation",
+  "card of the month",
+  "hot seat",
+  "facilitator cards"
+]
 photo_cred = ""
 title = "Card Of The Month: Hot Seat 🔥🪑"
-
+_template = "blog_post"
 +++
+
 _We’re trying something new! We’re going to be highlighting a card every month so you can get to know the deck one process at a time. First up? One of our all-time favorite processes in the Facilitator Cards deck:_ [_HOT SEAT_](https://www.facilitator.cards/cards/hot-seat/)_._
 
 Looking for a way to contain a q&a session, ask an expert, or even liven up the energy of a clarifying discussion? 🔥Hot Seat🔥 is the card for you!

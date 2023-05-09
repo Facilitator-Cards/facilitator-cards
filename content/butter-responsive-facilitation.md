@@ -3,8 +3,9 @@ date = ""
 description = "Resources from the Butter Spotlight about Responsive Facilitation"
 priority = -1
 title = "Butter Responsive Facilitation "
-
+_template = "page"
 +++
+
 Hey all!
 
 Thanks so much for coming out to the Butter Spotlight on Responsive Facilitation. On this page, you'll find a ton of resources that we discussed in the session, ways to stay connected and come to more sessions facilitated by me and the Facilitator Cards team, and more!

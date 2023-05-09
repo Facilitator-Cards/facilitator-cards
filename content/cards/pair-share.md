@@ -1,3 +1,7 @@
++++
+_template = "card"
++++
+
 ---
 title: "Pair & Share"
 group: "pairs"

@@ -1,16 +1,17 @@
 +++
 author = "Claire Bolger"
 categories = "Using Facilitator Cards"
-date = 2022-11-30T05:00:00Z
+date = 2022-11-30T05:00:00.000Z
 description = "How to facilitate it, why & when we use it, plus prompt examples!"
 facebook_discussion = ""
 featured_image = "/img/blog/deccard.png"
-images = ["/img/blog/deccard.png"]
-keywords = []
+images = [ "/img/blog/deccard.png" ]
+keywords = [ ]
 photo_cred = ""
 title = "December Card Of The Month: 10/10/10 Analysis 💯"
-
+_template = "blog_post"
 +++
+
 **Here’s how to do it**
 
 When considering multiple options, run a [10/10/10 Analysis](https://www.facilitator.cards/cards/101010-analysis/) and ask participants to consider the potential outcomes of the ideal option in ten minutes, ten months, and ten years from now.

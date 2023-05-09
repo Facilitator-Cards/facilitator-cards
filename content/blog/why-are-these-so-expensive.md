@@ -1,15 +1,23 @@
 +++
 author = "Sam Killermann"
 categories = "About the Cards"
-date = 2020-03-05T17:56:00Z
+date = 2020-03-05T17:56:00.000Z
 description = "A response to a comment on our Kickstarter, and explanation of what went into the price of the Facilitator Cards."
 featured_image = "/img/blog/facilitator-cards-pricing-venn-diagram.jpg"
-images = []
-keywords = ["kickstarter", "facilitation deck", "facilitator cards", "facilitation", "Facilitator tools", "Facilitation Tools"]
+images = [ ]
+keywords = [
+  "kickstarter",
+  "facilitation deck",
+  "facilitator cards",
+  "facilitation",
+  "Facilitator tools",
+  "Facilitation Tools"
+]
 photo_cred = ""
 title = "Why Are These So Expensive?"
-
+_template = "blog_post"
 +++
+
 In a comment [on our Kickstarter](https://www.kickstarter.com/projects/facilitatorcards/facilitator-cards "Facilitator Cards Kickstarter"), Doug wrote, "Looks like a good product, but the price seems high. This would be much better at $29."
 
 We appreciated seeing this publicly, and for Doug to comment it (and back the project!), because it perfectly synopsized the trickiness of a private process we've been in the midst of for over a year now, and something that I've spent a lot of time trying to figure out.

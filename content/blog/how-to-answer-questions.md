@@ -1,16 +1,23 @@
 +++
 author = "Meg Bolger"
 categories = "About us"
-date = 2023-02-27T05:00:00Z
+date = 2023-02-27T05:00:00.000Z
 description = "There's an art to giving a great answer."
 facebook_discussion = ""
 featured_image = "/img/blog/howtoanswerquestions.png"
-images = ["/img/blog/howtoanswerquestions.png"]
-keywords = ["Q&A", "facilitation advice", "facilitator tips", "how to", "Q&A"]
+images = [ "/img/blog/howtoanswerquestions.png" ]
+keywords = [
+  "Q&A",
+  "facilitation advice",
+  "facilitator tips",
+  "how to",
+  "Q&A"
+]
 photo_cred = ""
 title = "How To Answer Questions"
-
+_template = "blog_post"
 +++
+
 Answering questions honestly and deftly is an important skill for any leader, educator, or facilitator.
 
 Answering questions establishes trust within the group, sets the tone for the space, and can communicate how open (or closed) we are to challenge, curiosity, and confusion from the group.

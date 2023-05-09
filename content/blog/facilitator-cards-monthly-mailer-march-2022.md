@@ -1,16 +1,17 @@
 +++
 author = "Meg Bolger"
 categories = "About us"
-date = 2022-03-01T05:00:00Z
+date = 2022-03-01T05:00:00.000Z
 description = "All of our upcoming events, plus anything you might have missed from the previous month!"
 facebook_discussion = ""
 featured_image = "/img/blog/march-mailer-cover.png"
-images = ["/img/blog/march-mailer-cover.png"]
-keywords = []
+images = [ "/img/blog/march-mailer-cover.png" ]
+keywords = [ ]
 photo_cred = ""
 title = "The Facilitator Cards Monthly Mailer - March 2022"
-
+_template = "blog_post"
 +++
+
 Hey Facilitators,
 
 Welcome to March!

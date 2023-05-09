@@ -1,16 +1,22 @@
 +++
 author = "Claire Bolger"
 categories = "about the cards"
-date = 2022-09-04T04:00:00Z
-description = "No more sharing \"fun facts\", try these frameworks for fast, fun, and effective icebreakers!"
+date = 2022-09-04T04:00:00.000Z
+description = 'No more sharing "fun facts", try these frameworks for fast, fun, and effective icebreakers!'
 facebook_discussion = ""
 featured_image = "/img/blog/mapbox-zt5v0pubjzi-unsplash-2.jpg"
-images = ["/img/blog/mapbox-zt5v0pubjzi-unsplash-2.jpg"]
-keywords = ["name games", "ice breaker", "icebreaker", "facilitator cards"]
+images = [ "/img/blog/mapbox-zt5v0pubjzi-unsplash-2.jpg" ]
+keywords = [
+  "name games",
+  "ice breaker",
+  "icebreaker",
+  "facilitator cards"
+]
 photo_cred = ""
 title = "Our Favorite Icebreakers"
-
+_template = "blog_post"
 +++
+
 Does even just the name “icebreaker” bring up a lot of bleh feelings? Hollow echoes of resentment and the overall feeling that _time_ is one of the absolute worst things we can waste?
 
 Well, we have some great news—a great icebreaker is never a waste of time. They can be fast, fun, and unique opportunities to allow a group to peak into each other's worlds. They’re a perfect way to get folks acclimated to your expectations of participation, set the tone for what’s to come, and have a little bit of fun and connection right up top to help the group feel bonded and more comfortable with each other.

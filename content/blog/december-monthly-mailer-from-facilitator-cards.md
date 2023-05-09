@@ -1,16 +1,17 @@
 +++
 author = "Claire Bolger"
 categories = "About us"
-date = 2022-12-01T05:00:00Z
+date = 2022-12-01T05:00:00.000Z
 description = "Our final event of the year, pro tips, and anything you might have missed!"
 facebook_discussion = ""
 featured_image = "/img/blog/december-mailer.png"
-images = ["/img/blog/december-mailer.png"]
-keywords = []
+images = [ "/img/blog/december-mailer.png" ]
+keywords = [ ]
 photo_cred = ""
 title = "December Monthly Mailer from Facilitator Cards"
-
+_template = "blog_post"
 +++
+
 ## ✨ December **Monthly Mailer from Facilitator Cards**
 
 Oh wow, it’s here, the final Monthly Mailer of 2022!

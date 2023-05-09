@@ -1,16 +1,23 @@
 +++
 author = "Meg Bolger"
 categories = ""
-date = 2021-06-29T15:00:00Z
+date = 2021-06-29T15:00:00.000Z
 description = "Bring something you’ve done, something you’ve learned from, or something you want to try out and share with other facilitation geeks!"
 facebook_discussion = ""
 featured_image = "/img/blog/blog-post-image-july-brain-jam-annoucement.png"
-images = []
-keywords = ["facilitator tricks", "facilitation 101", "facilitator tools", "virtual facilitation", "digital facilitation"]
+images = [ ]
+keywords = [
+  "facilitator tricks",
+  "facilitation 101",
+  "facilitator tools",
+  "virtual facilitation",
+  "digital facilitation"
+]
 photo_cred = "Photo by britt gaiser on Unsplash"
 title = "July Brain Jam: Facilitator Potluck & Playground"
-
+_template = "blog_post"
 +++
+
 Every month here at Facilitator Cards we explore a new tool, technique, or technology to enhance our facilitation practice. In the past we’ve explored some of our favorite online tools ([Gather](https://www.facilitator.cards/blog/using-gather-for-virtual-facilitation-canning-the-brain-jam/), [MURAL](https://www.facilitator.cards/blog/using-mural-for-virtual-facilitation-canning-the-brain-jam/), [AhaSlides](https://www.facilitator.cards/blog/using-ahaslides-for-virtual-facilitation-canning-the-brain-jam/)) and dived deep on [breakout rooms,](https://www.facilitator.cards/blog/march-brain-jam-virtual-breakout-room-best-practices/) emergent facilitation, and more.
 
 For the last few months towards the end of the Brain Jams the crew that sticks around to the very end has had some fun impromptu sharing parties where people are sharing a cool way they've hacked Zoom backgrounds or a neat way they are using Google Slides. These were so fun, energizing, and inspiring I wanted to build a whole Brain Jam around them for July!

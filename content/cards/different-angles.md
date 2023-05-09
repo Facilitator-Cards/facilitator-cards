@@ -1,3 +1,7 @@
++++
+_template = "card"
++++
+
 ---
 title: "Different Angles"
 group: "small groups"

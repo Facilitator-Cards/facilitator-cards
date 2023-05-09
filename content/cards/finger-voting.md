@@ -1,3 +1,7 @@
++++
+_template = "card"
++++
+
 ---
 title: "Finger Voting"
 group: "full group"

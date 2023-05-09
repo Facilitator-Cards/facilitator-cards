@@ -1,16 +1,17 @@
 +++
 author = "Claire Bolger"
 categories = "About us"
-date = 2023-02-01T05:00:00Z
+date = 2023-02-01T05:00:00.000Z
 description = "Tips for in-person and virtual workshops, early bird access to events, and one of our favorite facilitation products!"
 facebook_discussion = ""
 featured_image = "/img/blog/monthlymailerfeb2023.png"
-images = ["/img/blog/monthlymailerfeb2023.png"]
-keywords = []
+images = [ "/img/blog/monthlymailerfeb2023.png" ]
+keywords = [ ]
 photo_cred = ""
 title = "February Monthly Mailer from Facilitator Cards"
-
+_template = "blog_post"
 +++
+
 Hey Facilitators,
 
 Welcome to February!

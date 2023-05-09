@@ -1,16 +1,25 @@
 +++
 author = "Meg Bolger"
 categories = "resources"
-date = 2021-06-01T07:00:00Z
+date = 2021-06-01T07:00:00.000Z
 description = "How Stream Deck can be a co-facilitator app and tips on how to use Stream Deck as a virtual facilitator."
 facebook_discussion = "https://www.facebook.com/FacilitatorCards/posts/538542757555406"
 featured_image = "/img/blog/img_8293.jpg"
-images = []
-keywords = ["Co-facilitation", "Virtual facilitator", "Digital facilitation", "Online facilitation", "Facilitator Tools", "Virtual Facilitation", "Stream Deck"]
+images = [ ]
+keywords = [
+  "Co-facilitation",
+  "Virtual facilitator",
+  "Digital facilitation",
+  "Online facilitation",
+  "Facilitator Tools",
+  "Virtual Facilitation",
+  "Stream Deck"
+]
 photo_cred = ""
 title = "Using Stream Deck for Zoom Facilitation: Learnings from the Brain Jam"
-
+_template = "blog_post"
 +++
+
 There is an [entrepreneur](https://www.instagram.com/reel/CPRUPonDL4M/?utm_medium=copy_link) I follow on Insta who recently shared a post that said, “You know how you hire help when you’re on a budget? You hire apps! Canva for your digital design, Convertkit for your marketing...” I loved it. It’s so true. But as facilitators on a budget, what apps can we hire for our facilitations?
 
 **Well my friends my answer today is Stream Deck. Stream Deck is a co-facilitator app hire.**

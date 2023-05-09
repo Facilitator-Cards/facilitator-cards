@@ -1,16 +1,28 @@
 +++
 author = "Meg Bolger"
 categories = "resources"
-date = 2021-04-13T18:00:00Z
+date = 2021-04-13T18:00:00.000Z
 description = "Guiding you from downloading OBS, to building your first scenes, to using it in your next facilitation."
 facebook_discussion = "https://www.facebook.com/FacilitatorCards/posts/508426760567006"
 featured_image = "/img/blog/obs-guide-blog-post-image.png"
-images = ["/img/blog/obs-guide-blog-post-image.png", "/img/blog/screen-shot-2021-04-26-at-4-57pm.png", "/img/blog/screen-shot-2021-04-26-at-4-57pm-2.png"]
-keywords = ["Facilitator tools", "open broadcaster software", "online teaching", "online facilitation", "virtual facilitation", "digital facilitation"]
+images = [
+  "/img/blog/obs-guide-blog-post-image.png",
+  "/img/blog/screen-shot-2021-04-26-at-4-57pm.png",
+  "/img/blog/screen-shot-2021-04-26-at-4-57pm-2.png"
+]
+keywords = [
+  "Facilitator tools",
+  "open broadcaster software",
+  "online teaching",
+  "online facilitation",
+  "virtual facilitation",
+  "digital facilitation"
+]
 photo_cred = "John Schnobrich"
 title = "Getting Started with OBS: A short guide for facilitators"
-
+_template = "blog_post"
 +++
+
 If you’re looking to improve your virtual facilitations, no matter what platform or service you’re using, OBS can be a new best friend.
 
 OBS, [Open Broadcaster Software](https://obsproject.com/), is a powerful tool for anyone who wants to improve the experience of their virtual facilitations for their participants. OBS can allow you to transform and manipulate your video feed so that you can screen share, share videos, add your logo, do split screen with yourself and instructions, and so much more, anywhere you’re using a webcam.

@@ -1,16 +1,31 @@
 +++
 author = "Meg Bolger"
 categories = "resources"
-date = 2021-03-02T16:00:00Z
+date = 2021-03-02T16:00:00.000Z
 description = "How sharing a virtual world can help us get closer to in-person facilitating than we initially thought possible."
 facebook_discussion = "https://www.facebook.com/FacilitatorCards/posts/481696213240061"
 featured_image = "/img/blog/blog-cover-image-v2.jpg"
-images = ["/img/blog/blog-cover-image-v2.jpg", "/img/blog/arrival-in-gather.png", "/img/blog/screen-shot-2021-02-28-at-7-00pm.png", "/img/blog/screen-shot-2021-02-28-at-6-59pm.png", "/img/blog/screen-shot-2021-02-28-at-7-07pm.png"]
-keywords = ["remote learning", "facilitation", "facilitators", "facilitator tools", "online facilitation", "virtual facilitation", "digital facilitation"]
+images = [
+  "/img/blog/blog-cover-image-v2.jpg",
+  "/img/blog/arrival-in-gather.png",
+  "/img/blog/screen-shot-2021-02-28-at-7-00pm.png",
+  "/img/blog/screen-shot-2021-02-28-at-6-59pm.png",
+  "/img/blog/screen-shot-2021-02-28-at-7-07pm.png"
+]
+keywords = [
+  "remote learning",
+  "facilitation",
+  "facilitators",
+  "facilitator tools",
+  "online facilitation",
+  "virtual facilitation",
+  "digital facilitation"
+]
 photo_cred = ""
 title = "Using Gather for Virtual Facilitation: Canning the Brain Jam"
-
+_template = "blog_post"
 +++
+
 My first experience with Gather was at a conference for experiential educators in November. The conference was using it as an in-between-sessions hangout space, and after five minutes in the space, I already knew I wanted to host a Brain Jam on the platform.
 
 [Gather](http://gather.town) is a video-conferencing platform where you can video chat in a shared virtual world. The graphics give you the impression of being in a '90s video game; it feels worlds different than being on Zoom.

@@ -1,3 +1,7 @@
++++
+_template = "card"
++++
+
 ---
 title: "Matchstick Convos"
 group: "full group"

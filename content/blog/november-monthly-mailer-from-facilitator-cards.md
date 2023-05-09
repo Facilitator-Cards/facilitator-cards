@@ -1,16 +1,17 @@
 +++
 author = "Claire Bolger"
 categories = "About us"
-date = 2022-11-01T04:00:00Z
+date = 2022-11-01T04:00:00.000Z
 description = "Events coming up, zoom tips & tricks, and more!"
 facebook_discussion = ""
 featured_image = "/img/blog/november-mailer-cover-image.png"
-images = ["/img/blog/november-mailer-cover-image.png"]
-keywords = []
+images = [ "/img/blog/november-mailer-cover-image.png" ]
+keywords = [ ]
 photo_cred = ""
 title = "🌤 November Monthly Mailer from Facilitator Cards"
-
+_template = "blog_post"
 +++
+
 ## 🌤 November **Monthly Mailer from Facilitator Cards**
 
 Well howdy facilitators, welcome to November! Did you know there are only 8 weeks left in the year? Oh you didn’t? Oh you didn’t want to know that…moving on!

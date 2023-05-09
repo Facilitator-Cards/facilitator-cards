@@ -1,3 +1,7 @@
++++
+_template = "card"
++++
+
 ---
 title: "Declarative Pairs"
 group: "pairs"

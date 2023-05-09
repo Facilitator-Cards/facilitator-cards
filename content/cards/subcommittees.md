@@ -1,3 +1,7 @@
++++
+_template = "card"
++++
+
 ---
 title: "Subcommittees"
 group: "small groups"

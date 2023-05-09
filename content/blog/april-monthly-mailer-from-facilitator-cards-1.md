@@ -1,16 +1,17 @@
 +++
 author = "Claire Bolger"
 categories = "About us"
-date = 2023-04-03T04:00:00Z
+date = 2023-04-03T04:00:00.000Z
 description = "Upcoming events, a super cool kickstarter, and all the icebreakers you'll ever need!"
 facebook_discussion = ""
 featured_image = "/img/blog/april202023mailer.png"
-images = ["/img/blog/april202023mailer.png"]
-keywords = ["triggers", "events", "facilitation"]
+images = [ "/img/blog/april202023mailer.png" ]
+keywords = [ "triggers", "events", "facilitation" ]
 photo_cred = ""
 title = "April Monthly Mailer from Facilitator Cards"
-
+_template = "blog_post"
 +++
+
 # March Monthly Mailer
 
 Hey Facilitators,

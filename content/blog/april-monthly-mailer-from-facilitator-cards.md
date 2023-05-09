@@ -1,16 +1,17 @@
 +++
 author = "Meg Bolger"
 categories = "About us"
-date = 2022-04-04T04:00:00Z
+date = 2022-04-04T04:00:00.000Z
 description = "All of our upcoming events, plus anything you might have missed from the previous month!"
 facebook_discussion = ""
 featured_image = "/img/blog/april-monthly.png"
-images = ["/img/blog/april-monthly.png"]
-keywords = []
+images = [ "/img/blog/april-monthly.png" ]
+keywords = [ ]
 photo_cred = ""
 title = "☀️ April Monthly Mailer from Facilitator Cards"
-
+_template = "blog_post"
 +++
+
 Hey Facilitators,
 
 Woohoo, welcome to April!

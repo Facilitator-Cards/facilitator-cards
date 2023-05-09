@@ -1,10 +1,11 @@
 +++
-date = 2021-12-22T20:00:00Z
+date = 2021-12-22T20:00:00.000Z
 description = ""
 priority = 1
 title = "Facilitation Training for Teams and Organizations"
-
+_template = "page"
 +++
+
 When you ask people to discuss a challenging topic, brainstorm an idea, or make a collaborative decision, you're asking them to do something difficult. As the leader in that space, your role is to make that easier. But most of us don't know how.
 
 That's what this training is all about.

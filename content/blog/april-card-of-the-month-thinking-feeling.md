@@ -1,16 +1,17 @@
 +++
 author = "Claire Bolger"
 categories = "Using Facilitator Cards, About The Cards"
-date = 2023-04-01T04:00:00Z
+date = 2023-04-01T04:00:00.000Z
 description = "We *think* this card is great and we *feel* like it adds depth to any agenda!"
 facebook_discussion = ""
 featured_image = "/img/blog/thinkingandfeelingcover.png"
-images = ["/img/blog/thinkingandfeelingcover.png"]
-keywords = []
+images = [ "/img/blog/thinkingandfeelingcover.png" ]
+keywords = [ ]
 photo_cred = ""
 title = "April Card of the Month: Thinking & Feeling"
-
+_template = "blog_post"
 +++
+
 Calling all logical **_and_** emotional thinkers!
 
 [Thinking & Feeling](https://www.facilitator.cards/cards/thinking-feeling/) is a dynamic framework used to surface emotions. With these clear communication guidelines, the group knows exactly **_how_** to respond.

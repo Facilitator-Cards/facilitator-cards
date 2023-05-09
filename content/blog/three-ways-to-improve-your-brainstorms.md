@@ -1,16 +1,17 @@
 +++
 author = "Claire Bolger"
 categories = "Using Facilitator Cards"
-date = 2022-11-21T05:00:00Z
+date = 2022-11-21T05:00:00.000Z
 description = "Making a list? Try these frameworks to expand your results!"
 facebook_discussion = ""
 featured_image = "/img/blog/dsc_0236.jpg"
-images = ["/img/blog/dsc_0236.jpg"]
-keywords = []
+images = [ "/img/blog/dsc_0236.jpg" ]
+keywords = [ ]
 photo_cred = ""
 title = "Three Ways To Improve Your Brainstorms"
-
+_template = "blog_post"
 +++
+
 While we are always fans of [Generating A List](https://www.facilitator.cards/cards/generate-a-list/), brainstorms can have wildly different results depending on what method we use to conduct them.
 
 Here are three totally different methods to try the next time your group is coming up with ideas!

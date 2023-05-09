@@ -1,3 +1,7 @@
++++
+_template = "card"
++++
+
 ---
 title: "Causal Diagram"
 group: "small groups"

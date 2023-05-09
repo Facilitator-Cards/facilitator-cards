@@ -1,16 +1,24 @@
 +++
 author = "Meg Bolger"
 categories = "resources"
-date = 2021-02-24T20:00:00Z
+date = 2021-02-24T20:00:00.000Z
 description = "Breakout rooms are a go-to feature for facilitators nowadays, so what do we need to do to make the most of them? "
 facebook_discussion = ""
 featured_image = "/img/blog/breakout-rooms-blog-post-image.jpg"
-images = ["/img/blog/breakout-rooms-blog-post-image.jpg"]
-keywords = ["breakout rooms", "Zoom facilitation", "facilitation best practices", "facilitator tools", "digital facilitation", "virtual facilitation"]
+images = [ "/img/blog/breakout-rooms-blog-post-image.jpg" ]
+keywords = [
+  "breakout rooms",
+  "Zoom facilitation",
+  "facilitation best practices",
+  "facilitator tools",
+  "digital facilitation",
+  "virtual facilitation"
+]
 photo_cred = "Photo by Philipp Berndt"
 title = "March Brain Jam: Virtual Breakout Room Best Practices"
-
+_template = "blog_post"
 +++
+
 When all facilitation went virtual last year, I staunchly avoided Google Meet or Teams because of one key feature: breakout rooms. A year later, I’m still a breakout room superfan, and now I’m wondering if I can be using them better.
 
 As a facilitator not being able to pair people off or have them work in small groups was a complete dealbreaker. Shifting group size is one of my most powerful facilitation tools for increasing participation and mixing up the energy. This is as true for in-person facilitation as it is for workshops on Zoom.

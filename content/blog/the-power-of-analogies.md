@@ -1,16 +1,20 @@
 +++
 author = "Meg Bolger"
 categories = "using the cards"
-date = 2022-04-21T12:00:00Z
+date = 2022-04-21T12:00:00.000Z
 description = "How looking differently can help you see something more clearly"
 facebook_discussion = ""
 featured_image = "/img/blog/screen-shot-2022-04-21-at-7-47-39-am.png"
-images = ["/img/blog/junk-drawers.png", "/img/blog/screen-shot-2022-04-21-at-7-47-39-am.png"]
-keywords = []
+images = [
+  "/img/blog/junk-drawers.png",
+  "/img/blog/screen-shot-2022-04-21-at-7-47-39-am.png"
+]
+keywords = [ ]
 photo_cred = ""
 title = "The Power of Analogies"
-
+_template = "blog_post"
 +++
+
 Being a facilitator is like being a construction worker: a surprising amount of standing around telling people when to stop and start. 😉
 
 This is an analogy.

@@ -1,3 +1,7 @@
++++
+_template = "card"
++++
+
 ---
 title: "Opposite Thinking"
 group: "full group"

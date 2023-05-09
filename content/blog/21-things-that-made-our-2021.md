@@ -1,16 +1,21 @@
 +++
 author = "Meg Bolger"
 categories = "About us"
-date = 2022-01-06T05:00:00Z
+date = 2022-01-06T05:00:00.000Z
 description = "Connection, community, and relocating clear across the country, we made some big moves in 2021. "
 facebook_discussion = ""
 featured_image = "/img/blog/img_9352.jpg"
-images = ["/img/blog/screen-shot-2022-01-06-at-8-28-55-am.png", "/img/blog/img_9352.jpg", "/img/blog/screen-shot-2022-01-05-at-10-04-41-am.png"]
-keywords = ["reflections"]
+images = [
+  "/img/blog/screen-shot-2022-01-06-at-8-28-55-am.png",
+  "/img/blog/img_9352.jpg",
+  "/img/blog/screen-shot-2022-01-05-at-10-04-41-am.png"
+]
+keywords = [ "reflections" ]
 photo_cred = ""
 title = "21 Things That Made Our 2021"
-
+_template = "blog_post"
 +++
+
 Inspired by Austin Kleon’s [100 things post](https://austinkleon.com/2021/12/30/100-things-that-made-my-year-2021/), here are 21 things that made our year here at Facilitator Cards:
 
 **#1** Hanging out on [Gather.town](http://www.gather.town). We hosted a [few](https://www.youtube.com/watch?v=jE0EJLI2JtA) [different](https://www.facilitator.cards/blog/using-gather-for-virtual-facilitation-canning-the-brain-jam/) [events](https://www.facilitator.cards/blog/come-brain-jam-on-gather.town/) on Gather throughout the year and everytime it was one of the most connective and immersive experiences we had online.
