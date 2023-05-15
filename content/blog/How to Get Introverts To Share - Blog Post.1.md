@@ -4,7 +4,7 @@ date = 2023-05-01T04:00:00Z
 description = "Now put your hands up!"
 facebook_discussion = ""
 featured_image = "/img/blog/Introverts%20Sharing%20Cover%20Image.png"
-images = ["/img/blog/Three%20Card%20Agenda%20Introverts.png"]
+images = ["/img/blog/three-card-agenda-introverts.png"]
 keywords = ["introvers", "facilitation", "facilitators", "facilitator tools", "online facilitation", "inclusive meetings"]
 photo_cred = "Claire Bolger"
 title = "How to Get Introverts to Share" 
@@ -21,7 +21,7 @@ Instead of simply asking a question and having answers roll in right away, give 
 
 ### **Here’s how to do it**
 
-![](/image/blog/Three%20Card%20Agenda%20Introverts.png)
+![](/img/blog/three-card-agenda-introverts.png)
 
 ---
 
