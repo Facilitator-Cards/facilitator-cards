@@ -41,7 +41,7 @@ We’re not here to try and shame our participants who are running late. We know
 
 To “close the doors” we simply enable the waiting room on Zoom when the time comes.
 
-[Find this option on Zooms website. Click “my account” and then “settings” to find the option to “Customize Waiting Room”. Once that window has opened, edit your message to whatever you want it to say.](https://embed.filekitcdn.com/e/8YUTYkDAh6cPSRYjwiehjD/3W8HByKX9QFceHL5q5x5o4/email =800x1080)
+[Find this option on Zooms website. Click “my account” and then “settings” to find the option to “Customize Waiting Room”. Once that window has opened, edit your message to whatever you want it to say.](https://embed.filekitcdn.com/e/8YUTYkDAh6cPSRYjwiehjD/3W8HByKX9QFceHL5q5x5o4/email)
 
 When it comes to [sessions we’re running for clients ](https://www.facilitator.cards/trainings/)the same rules apply! We always check in about it ahead of time, that way they can reinforce it with their staff. In cases where it doesn’t align with their company policies to have a cut-off time we can then adjust our session and be prepared for drop-ins.
 
