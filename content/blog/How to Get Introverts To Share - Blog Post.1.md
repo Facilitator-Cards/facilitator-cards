@@ -23,8 +23,6 @@ Instead of simply asking a question and having answers roll in right away, give 
 
 ![](/img/blog/three-card-agenda-introverts.png)
 
----
-
 1. **[Minute Papers](https://click.convertkit-mail2.com/r8ukrwvre5foh207qn5u2/3ohphdu7ov9wg2cr/aHR0cHM6Ly93d3cuZmFjaWxpdGF0b3IuY2FyZHMvY2FyZHMvbWludXRlLXBhcGVycy8=)**
 2. **[Pair & Share](https://click.convertkit-mail2.com/r8ukrwvre5foh207qn5u2/48hvh7ur5kqo8qux/aHR0cHM6Ly93d3cuZmFjaWxpdGF0b3IuY2FyZHMvY2FyZHMvcGFpci1zaGFyZS8=)**
 3. **[Popcorn Share](https://click.convertkit-mail2.com/r8ukrwvre5foh207qn5u2/reh8h9u02nv8z5h2/aHR0cHM6Ly93d3cuZmFjaWxpdGF0b3IuY2FyZHMvY2FyZHMvcG9wY29ybi1zaGFyZS8=)**
