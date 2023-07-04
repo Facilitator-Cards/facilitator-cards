@@ -1,14 +1,5 @@
 +++
-author = "Claire Bolger"
-categories = "resources"
-date = 2023-07-2T04:00:00Z
-description = "Subtle tweaks, big results = "
-facebook_discussion = ""
-featured_image = "/img/blog/threephrases.jpg"
-images = ""
-keywords = ["participation", "facilitation", "facilitators", "facilitator tools", "online facilitation", "virtual facilitation", "digital facilitation"]
-photo_cred = "Claire Bolger”
-title = "Three Phrases to Eliminate from Your Facilitator Vocabulary"
++++ author = "Claire Bolger" categories = "resources" date = 2023-05-01T04:00:00Z description = "Now put your hands up!" facebook_discussion = "" featured_image = "/img/blog/Introverts%20Sharing%20Cover%20Image.png" images = ["/img/blog/three-card-agenda-introverts.png"] keywords = ["introvers", "facilitation", "facilitators", "facilitator tools", "online facilitation", "inclusive meetings"] photo_cred = "Claire Bolger" title = "Three Phrases to Eliminate from Your Facilitator Vocabulary"
 
 +++
 
