@@ -45,4 +45,4 @@ Participation isn't always about sharing out loud in front of the full group. Wh
 
 Using this sequence increases the variety of ways we invite participation. This ensures participants who may otherwise have been left out contribute while increasing the quality of shares from everyone.
 
-Ready to get snag your deck of Facilitator Cards and be more inclusive of introverts in your sessions? ***[Get your deck today with 10% off using code MAILER at checkout!](https://click.convertkit-mail2.com/r8ukrwvre5foh207qn5u2/08hwhgudoqw8rmsl/aHR0cHM6Ly9zaG9wLmZhY2lsaXRhdG9yLmNhcmRzL2Rpc2NvdW50L01BSUxFUg==)***
+Want to learn all the secrets to participation? [Sign up for the fall event series!](https://lu.ma/fff2023)
