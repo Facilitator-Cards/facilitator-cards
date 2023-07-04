@@ -1,9 +1,7 @@
-+++
+
 +++ author = "Claire Bolger" categories = "resources" date = 2023-07-01T04:00:00Z description = "Subtle tweaks, big results" facebook_discussion = "" featured_image = "/img/blog/threephrases.jpg" images = ["/img/blog/three-card-agenda-introverts.png"] keywords = ["introvers", "facilitation", "facilitators", "facilitator tools", "online facilitation", "inclusive meetings"] photo_cred = "Claire Bolger" title = "Three Phrases to Eliminate from Your Facilitator Vocabulary"
 
-+++
-
-As facilitators, we know that the key to turning a good session into a ***great*** session can really come down to just a few words. Recently, we’ve been making concerted efforts to stay away from certain phrases when speaking with groups and found it has made a massive difference in engagement and willingness to participate.
++++ As facilitators, we know that the key to turning a good session into a ***great*** session can really come down to just a few words. Recently, we’ve been making concerted efforts to stay away from certain phrases when speaking with groups and found it has made a massive difference in engagement and willingness to participate.
 
 ### **“Brave souls”**
 
