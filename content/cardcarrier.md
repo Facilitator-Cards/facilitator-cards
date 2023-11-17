@@ -15,7 +15,7 @@ This page is all about helping you get the most out of your deck. With every pur
 
 ## Guides to Facilitator Cards
 
-**🦈** [**Card Sharks Workbook**](https://bit.ly/47Bh2dT) - Four scenarios to help you learn and practice with Facilitator Cards!
+**💻** [**Virtual Facilitator Cards Facilitation Guide**](https://virtual.facilitator.cards/) - Answers to the question, "How do I run such-and-such card on Zoom?"
 
 **💻** [**Virtual Facilitator Cards Facilitation Guide**](https://virtual.facilitator.cards/) - Answers to the question, "How do I run such-and-such card on Zoom?"
 
